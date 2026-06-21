@@ -1,0 +1,40 @@
+transaction_id,order_date,customer_id,product_category,product_name,quantity,unit_price,region,payment_method,source,revenue
+ON00093,2025-03-28,CUST0328,Home & Kitchen,Storage Organizer,-1.0,449.0,West,Net Banking,Online,-449.0
+ON00143,2024-08-29,CUST0115,Beauty,Face Serum,-1.0,699.0,West,UPI,Online,-699.0
+ON00150,2024-06-28,CUST0324,Beauty,Hair Dryer,-1.0,1199.0,Unknown,Credit Card,Online,-1199.0
+ON00193,2024-04-07,CUST0166,Apparel,Denim Jacket,-1.0,2199.0,East,Credit Card,Online,-2199.0
+ON00201,2024-03-02,CUST0017,Electronics,Bluetooth Speaker,-1.0,1499.0,East,Debit Card,Online,-1499.0
+ON00259,2024-09-30,CUST0070,Sports & Fitness,Yoga Mat,-1.0,799.0,North,Net Banking,Online,-799.0
+ON00321,2025-03-09,CUST0104,Electronics,Bluetooth Speaker,-1.0,1499.0,East,Credit Card,Online,-1499.0
+ON00326,2025-05-18,CUST0069,Electronics,Power Bank 10000mAh,-1.0,999.0,South,Debit Card,Online,-999.0
+ON00372,2024-12-19,CUST0258,Apparel,Cotton T-Shirt,-1.0,599.0,South,Cash on Delivery,Online,-599.0
+ON00454,2024-01-23,CUST0138,Apparel,Denim Jacket,-1.0,2199.0,Unknown,Credit Card,Online,-2199.0
+ON00485,2024-11-08,CUST0320,Apparel,Denim Jacket,-1.0,2199.0,East,Credit Card,Online,-2199.0
+ON00490,2025-01-30,CUST0162,Apparel,Formal Shirt,-1.0,899.0,North,Net Banking,Online,-899.0
+ON00541,2024-01-09,CUST0066,Sports & Fitness,Dumbbell 5kg Pair,-1.0,1599.0,Unknown,Debit Card,Online,-1599.0
+ON00544,2024-06-06,CUST0069,Home & Kitchen,Electric Kettle,-1.0,799.0,South,UPI,Online,-799.0
+ON00587,2024-06-23,CUST0045,Sports & Fitness,Skipping Rope,-1.0,249.0,South,Net Banking,Online,-249.0
+ON00595,2024-07-28,CUST0277,Apparel,Cotton T-Shirt,-1.0,599.0,South,UPI,Online,-599.0
+ON00714,2024-02-29,CUST0206,Sports & Fitness,Yoga Mat,-1.0,799.0,East,Cash on Delivery,Online,-799.0
+ON00741,2024-09-13,CUST0300,Beauty,Face Serum,-1.0,699.0,South,Cash on Delivery,Online,-699.0
+ON00761,2024-10-25,CUST0030,Home & Kitchen,Storage Organizer,-1.0,449.0,South,Credit Card,Online,-449.0
+ON00825,2024-07-15,CUST0226,Home & Kitchen,Non-Stick Pan Set,-1.0,1299.0,East,Cash on Delivery,Online,-1299.0
+ON00846,2024-04-08,CUST0027,Home & Kitchen,Storage Organizer,-1.0,449.0,South,UPI,Online,-449.0
+ON00895,2024-10-28,CUST0183,Home & Kitchen,LED Desk Lamp,-1.0,649.0,North,Credit Card,Online,-649.0
+ON00924,2025-02-04,CUST0170,Home & Kitchen,Storage Organizer,-1.0,449.0,Unknown,Net Banking,Online,-449.0
+ON00930,2025-04-16,CUST0391,Home & Kitchen,Non-Stick Pan Set,-1.0,1299.0,Unknown,Net Banking,Online,-1299.0
+ON00969,2025-05-25,CUST0062,Electronics,Smartwatch,-1.0,3499.0,East,UPI,Online,-3499.0
+ON00977,2025-05-04,CUST0396,Beauty,Lip Care Kit,-1.0,349.0,West,Net Banking,Online,-349.0
+ON01052,2025-01-03,CUST0241,Home & Kitchen,LED Desk Lamp,-1.0,649.0,West,Debit Card,Online,-649.0
+ON01089,2025-01-26,CUST0191,Electronics,Wireless Earbuds,-1.0,1799.0,East,Cash on Delivery,Online,-1799.0
+ON01144,2024-05-30,CUST0196,Sports & Fitness,Dumbbell 5kg Pair,-1.0,1599.0,North,Cash on Delivery,Online,-1599.0
+ON01154,2024-08-11,CUST0092,Apparel,Running Shoes,-1.0,2799.0,West,Credit Card,Online,-2799.0
+ON01180,2025-03-26,CUST0250,Electronics,Power Bank 10000mAh,-1.0,999.0,South,UPI,Online,-999.0
+ON01190,2024-03-16,CUST0078,Home & Kitchen,LED Desk Lamp,-1.0,649.0,East,Credit Card,Online,-649.0
+ON01206,2024-11-03,CUST0334,Apparel,Formal Shirt,-1.0,899.0,North,Net Banking,Online,-899.0
+ON01258,2024-08-20,CUST0174,Home & Kitchen,Storage Organizer,-1.0,449.0,North,Net Banking,Online,-449.0
+ON01286,2024-09-13,CUST0246,Home & Kitchen,Storage Organizer,-1.0,449.0,East,Credit Card,Online,-449.0
+ON01287,2024-06-27,CUST0189,Beauty,Face Serum,-1.0,699.0,South,UPI,Online,-699.0
+ON01300,2024-12-18,CUST0036,Home & Kitchen,LED Desk Lamp,-1.0,649.0,West,Credit Card,Online,-649.0
+ON01354,2025-04-03,CUST0289,Electronics,Wireless Earbuds,-1.0,1799.0,North,Net Banking,Online,-1799.0
+ON01367,2024-12-25,CUST0020,Beauty,Lip Care Kit,-1.0,349.0,East,Net Banking,Online,-349.0

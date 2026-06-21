@@ -1,0 +1,431 @@
+customer_id,name,city,region,signup_date,segment
+CUST0001,Sneha Singh,Ahmedabad,West,04/12/2024,VIP
+CUST0002,Aarav Singh,Bengaluru,South,03-09-2023,Premium
+CUST0003,KARAN NAIR,Delhi,North,14/04/2025,Regular
+CUST0004,Sahil Gupta,Kochi,South,19-01-2022,Premium
+CUST0005,Suresh Mehta,Kolkata,East,"May 01, 2022",Premium
+CUST0006,Aarav Reddy,Pune,West,12-05-2023,VIP
+CUST0007,Priya Gupta,Surat,West,2023-04-01,VIP
+CUST0008,  Riya Mehta ,Surat,West,25-07-2023,Regular
+CUST0009,  Manish Joshi ,Bengaluru,South,"Sep 01, 2022",New
+CUST0010,Divya Joshi,Surat,West,21/07/2023,VIP
+CUST0011,Vikram Iyer,Bhubaneswar,East,"Mar 20, 2022",VIP
+CUST0012,Kavya Verma,Bhubaneswar,East,05 August 2023,Regular
+CUST0013,meera verma,Guwahati,East,23/12/2022,Premium
+CUST0014,KAVYA JOSHI,Kolkata,East,2023-01-13,Premium
+CUST0015,  Aditya Nair ,Kolkata,East,29/05/2022,VIP
+CUST0016,Karan Gupta,Kolkata,East,23 April 2025,Premium
+CUST0017,  Riya Iyer ,Hyderabad,South,19 October 2023,VIP
+CUST0018,Manish Mehta,Guwahati,East,"Jul 12, 2024",Premium
+CUST0019,Aarav Singh,Chandigarh,North,2023-05-21,New
+CUST0020,Manish Singh,Kochi,South,15 July 2022,New
+CUST0021,Karan Verma,Jaipur,North,2022-11-13,Premium
+CUST0022,Aarav Patel,Pune,West,"Sep 02, 2023",Regular
+CUST0023,aditya reddy,Jaipur,North,17 September 2023,Premium
+CUST0024,Rohan Iyer,Pune,West,31 August 2022,Regular
+CUST0025,Isha Gupta,Bengaluru,South,18 January 2025,VIP
+CUST0026,Kavya Joshi,Bhubaneswar,East,02/11/2023,VIP
+CUST0027,Meera Sharma,Ahmedabad,West,06/11/2022,Regular
+CUST0028,  Rahul Iyer ,Delhi,North,13 March 2025,VIP
+CUST0029,Ananya Verma,Mumbai,West,18 February 2025,VIP
+CUST0030,Riya Sharma,Surat,West,"Apr 03, 2024",Premium
+CUST0031,Pooja Iyer,Delhi,North,07 July 2024,VIP
+CUST0032,neha verma,Ahmedabad,West,2024-09-10,Premium
+CUST0033,Meera Iyer,Pune,West,02/10/2024,New
+CUST0034,Rahul Iyer,Jaipur,North,02-02-2023,VIP
+CUST0035,Aditya Patel,Delhi,North,17/04/2022,VIP
+CUST0036,Sneha Patel,Guwahati,East,2023-12-18,Regular
+CUST0037,Suresh Reddy,Lucknow,North,28 October 2022,New
+CUST0038,Karan Joshi,Guwahati,East,01/02/2023,Premium
+CUST0039,meera reddy,Pune,West,28 September 2023,New
+CUST0040,Kavya Sharma,Mumbai,West,07 October 2024,VIP
+CUST0041,Neha Reddy,Kochi,South,"Oct 08, 2023",Regular
+CUST0042,Neha Gupta,Jaipur,North,27 May 2022,VIP
+CUST0043,pooja patel,Guwahati,East,2023-05-05,Premium
+CUST0044,Arjun Gupta,Kolkata,East,2023-01-30,New
+CUST0045,Riya Gupta,Delhi,North,2023-12-07,New
+CUST0046,  Ananya Gupta ,Patna,East,18-06-2023,New
+CUST0047,Divya Verma,Chandigarh,North,"Mar 26, 2024",Regular
+CUST0048,Aarav Sharma,Pune,West,24-01-2022,Premium
+CUST0049,RAHUL SINGH,Chandigarh,North,10 January 2025,New
+CUST0050,Riya Reddy,Chennai,South,16 June 2022,Regular
+CUST0051,Aditya Nair,Chennai,South,23 March 2022,Premium
+CUST0052,Riya Nair,Mumbai,West,2022-02-13,VIP
+CUST0053,Vikram Nair,Ahmedabad,West,"Nov 19, 2022",New
+CUST0054,Meera Nair,Hyderabad,South,"Feb 22, 2023",Premium
+CUST0055,Vikram Iyer,Lucknow,North,2023-01-24,VIP
+CUST0056,Manish Joshi,Lucknow,North,03 June 2024,VIP
+CUST0057,Riya Mehta,Lucknow,North,11 December 2022,Regular
+CUST0058,Kavya Patel,Pune,West,01/04/2023,Regular
+CUST0059,Aditya Nair,Chandigarh,North,17 July 2022,New
+CUST0060,RAHUL JOSHI,Lucknow,North,04/12/2023,Premium
+CUST0061,ANANYA PATEL,Kolkata,East,08/03/2022,New
+CUST0062,Aarav Gupta,Kochi,South,21-08-2024,Regular
+CUST0063,POOJA SINGH,Pune,West,10/09/2024,Regular
+CUST0064,rohan mehta,Jaipur,North,16/08/2023,VIP
+CUST0065,SURESH SINGH,Bhubaneswar,East,"Sep 22, 2024",VIP
+CUST0066,sneha iyer,Ahmedabad,West,26/03/2025,VIP
+CUST0067,Aarav Reddy,Kolkata,East,31-05-2022,New
+CUST0068,  Isha Joshi ,Patna,East,2022-01-13,Premium
+CUST0069,Rahul Sharma,Kolkata,East,30/04/2023,Regular
+CUST0070,Neha Sharma,Surat,West,"Apr 01, 2022",Premium
+CUST0071,Arjun Sharma,Chandigarh,North,23 January 2022,Premium
+CUST0072,Ananya Reddy,Lucknow,North,01/05/2023,Regular
+CUST0073,Aarav Verma,Mumbai,West,"Nov 26, 2023",Premium
+CUST0074,POOJA VERMA,Patna,East,"Jan 21, 2024",Premium
+CUST0075,  Priya Sharma ,Bhubaneswar,East,30-03-2022,Premium
+CUST0076,ISHA SINGH,Ahmedabad,West,2023-06-12,New
+CUST0077,Rahul Singh,Pune,West,2023-08-08,New
+CUST0078,  Ananya Joshi ,Delhi,North,23-02-2025,Regular
+CUST0079,  Pooja Joshi ,Hyderabad,South,"Aug 04, 2023",New
+CUST0080,Sneha Reddy,Surat,West,"Nov 02, 2022",Regular
+CUST0081,Priya Gupta,Bhubaneswar,East,"Feb 18, 2024",Regular
+CUST0082,Ananya Nair,Bengaluru,South,2023-09-27,VIP
+CUST0083,Meera Mehta,Bengaluru,South,13/05/2024,VIP
+CUST0084,Pooja Patel,Surat,West,29-10-2024,New
+CUST0085,Karan Sharma,Jaipur,North,2024-06-22,Premium
+CUST0086,Neha Mehta,Chandigarh,North,10 October 2023,VIP
+CUST0087,Sahil Verma,Lucknow,North,04-02-2024,Premium
+CUST0088,Rohan Iyer,Kochi,South,24 April 2025,New
+CUST0089,Arjun Sharma,Kolkata,East,26-06-2023,New
+CUST0090,Sahil Verma,Lucknow,North,2023-10-16,VIP
+CUST0091,  Manish Verma ,Kolkata,East,09 June 2024,New
+CUST0092,Karan Nair,Ahmedabad,West,06/03/2024,Regular
+CUST0093,Rahul Verma,Guwahati,East,2023-06-25,VIP
+CUST0094,  Pooja Mehta ,Lucknow,North,"Jan 16, 2023",Premium
+CUST0095,Rohan Joshi,Mumbai,West,16 May 2023,Regular
+CUST0096,Sneha Reddy,Delhi,North,08/01/2024,VIP
+CUST0097,Karan Reddy,Guwahati,East,"Mar 12, 2023",Premium
+CUST0098,Meera Singh,Lucknow,North,17/01/2023,Premium
+CUST0099,Aditya Mehta,Kolkata,East,"Apr 30, 2025",Premium
+CUST0100,Isha Iyer,Chennai,South,2023-04-04,New
+CUST0101,Vikram Iyer,Chennai,South,2022-02-14,Regular
+CUST0102,Rohan Nair,Hyderabad,South,12-04-2023,Premium
+CUST0103,Vikram Iyer,Pune,West,10 October 2024,Regular
+CUST0104,Vikram Verma,Delhi,North,16-09-2024,New
+CUST0105,  Arjun Gupta ,Bengaluru,South,07-03-2024,Regular
+CUST0106,Neha Verma,Jaipur,North,2023-02-18,Premium
+CUST0107,Aditya Singh,Kochi,South,"Mar 14, 2023",Premium
+CUST0108,Vikram Reddy,Guwahati,East,09/07/2024,VIP
+CUST0109,  Rohan Nair ,Lucknow,North,2024-03-26,VIP
+CUST0110,Sahil Sharma,Hyderabad,South,"Feb 17, 2025",New
+CUST0111,Priya Gupta,Ahmedabad,West,14-12-2022,New
+CUST0112,Rohan Sharma,Guwahati,East,"Sep 02, 2023",Regular
+CUST0113,Arjun Sharma,Bhubaneswar,East,"Aug 27, 2024",New
+CUST0114,  Sahil Nair ,Bengaluru,South,31/01/2024,Regular
+CUST0115,aarav sharma,Kochi,South,"Apr 09, 2024",Premium
+CUST0116,Arjun Nair,Jaipur,North,03 August 2023,VIP
+CUST0117,  Isha Verma ,Hyderabad,South,02 August 2022,Premium
+CUST0118,Riya Singh,Jaipur,North,12 June 2023,VIP
+CUST0119,Rahul Gupta,Delhi,North,"Aug 01, 2023",Premium
+CUST0120,neha singh,Hyderabad,South,"Sep 19, 2022",Premium
+CUST0121,Ananya Reddy,Chandigarh,North,2022-11-18,Regular
+CUST0122,Rahul Verma,Pune,West,2025-02-25,New
+CUST0123,AARAV PATEL,Chennai,South,11/07/2024,VIP
+CUST0124,Karan Verma,Pune,West,16/10/2024,New
+CUST0125,Rahul Nair,Patna,East,29 October 2024,VIP
+CUST0126,Manish Joshi,Bengaluru,South,21 September 2022,Premium
+CUST0127,Isha Sharma,Ahmedabad,West,24 January 2025,New
+CUST0128,Priya Nair,Jaipur,North,14-02-2023,New
+CUST0129,Aditya Singh,Patna,East,23-03-2025,New
+CUST0130,Manish Nair,Patna,East,06 July 2023,VIP
+CUST0131,Divya Sharma,Patna,East,2022-11-12,Premium
+CUST0132,Priya Joshi,Lucknow,North,"Mar 21, 2025",Premium
+CUST0133,Aditya Reddy,Delhi,North,22-07-2022,VIP
+CUST0134,Sahil Joshi,Bhubaneswar,East,23 July 2023,New
+CUST0135,Aditya Gupta,Ahmedabad,West,05/01/2024,VIP
+CUST0136,Arjun Mehta,Bhubaneswar,East,"Jul 17, 2023",Regular
+CUST0137,MANISH MEHTA,Ahmedabad,West,03-12-2024,VIP
+CUST0138,Priya Gupta,Jaipur,North,29-04-2024,VIP
+CUST0139,Ananya Reddy,Chennai,South,10 June 2023,New
+CUST0140,Suresh Verma,Guwahati,East,30/08/2023,Regular
+CUST0141,Karan Joshi,Bhubaneswar,East,30/12/2024,VIP
+CUST0142,Rahul Mehta,Lucknow,North,11/05/2022,VIP
+CUST0143,Neha Iyer,Lucknow,North,03/09/2023,New
+CUST0144,manish nair,Lucknow,North,2022-12-22,Regular
+CUST0145,RIYA VERMA,Kochi,South,04-03-2022,New
+CUST0146,Suresh Sharma,Bhubaneswar,East,16 May 2022,VIP
+CUST0147,Isha Reddy,Mumbai,West,2023-11-21,Premium
+CUST0148,Karan Gupta,Kolkata,East,2023-07-08,Regular
+CUST0149,Sahil Iyer,Surat,West,13 February 2024,VIP
+CUST0150,Aarav Verma,Ahmedabad,West,2024-10-17,Premium
+CUST0151,Rahul Verma,Lucknow,North,15 October 2022,VIP
+CUST0152,arjun singh,Bengaluru,South,01 April 2022,Premium
+CUST0153,Kavya Reddy,Ahmedabad,West,2024-12-02,New
+CUST0154,Sahil Iyer,Pune,West,11 November 2022,Regular
+CUST0155,Sahil Mehta,Guwahati,East,09 August 2023,VIP
+CUST0156,POOJA PATEL,Pune,West,17/05/2022,VIP
+CUST0157,Aarav Joshi,Bengaluru,South,18-10-2023,VIP
+CUST0158,Ananya Verma,Bhubaneswar,East,22/11/2022,Premium
+CUST0159,sneha nair,Delhi,North,09/01/2024,VIP
+CUST0160,Sahil Nair,Guwahati,East,"Aug 23, 2023",Premium
+CUST0161,KARAN SHARMA,Kolkata,East,2024-04-05,Premium
+CUST0162,Pooja Patel,Jaipur,North,17/08/2024,Premium
+CUST0163,Aditya Gupta,Ahmedabad,West,27 February 2025,New
+CUST0164,Suresh Sharma,Bhubaneswar,East,09/11/2022,Premium
+CUST0165,DIVYA MEHTA,Chandigarh,North,11/07/2024,Regular
+CUST0166,Isha Verma,Lucknow,North,15-03-2022,VIP
+CUST0167,  Riya Mehta ,Lucknow,North,04 February 2025,New
+CUST0168,Rahul Singh,Jaipur,North,30-06-2024,VIP
+CUST0169,KARAN VERMA,Jaipur,North,"Jan 20, 2025",Regular
+CUST0170,Manish Patel,Surat,West,09 April 2025,Regular
+CUST0171,Priya Joshi,Pune,West,27 January 2024,VIP
+CUST0172,Karan Joshi,Mumbai,West,01 February 2025,VIP
+CUST0173,Aarav Reddy,Delhi,North,07/09/2024,VIP
+CUST0174,Suresh Nair,Chandigarh,North,05-01-2023,Regular
+CUST0175,Rohan Joshi,Chandigarh,North,13 November 2022,VIP
+CUST0176,Vikram Sharma,Guwahati,East,15 January 2022,VIP
+CUST0177,Priya Patel,Lucknow,North,20/07/2024,Premium
+CUST0178,Suresh Joshi,Bengaluru,South,04 March 2024,Premium
+CUST0179,Neha Singh,Patna,East,"Apr 05, 2022",Premium
+CUST0180,ISHA GUPTA,Patna,East,12/11/2024,VIP
+CUST0181,Rahul Gupta,Patna,East,2022-01-28,VIP
+CUST0182,Sneha Iyer,Chandigarh,North,2023-10-24,New
+CUST0183,Rahul Mehta,Lucknow,North,03 January 2024,Premium
+CUST0184,isha verma,Kochi,South,23-11-2024,New
+CUST0185,Priya Singh,Surat,West,2024-11-08,Premium
+CUST0186,Meera Patel,Pune,West,2024-09-16,Regular
+CUST0187,Vikram Iyer,Ahmedabad,West,"Apr 11, 2022",Premium
+CUST0188,  Ananya Gupta ,Kolkata,East,"Dec 29, 2024",Regular
+CUST0189,Kavya Mehta,Lucknow,North,19-10-2022,Premium
+CUST0190,Arjun Gupta,Bhubaneswar,East,"Nov 15, 2024",New
+CUST0191,  Suresh Singh ,Delhi,North,20-04-2023,VIP
+CUST0192,Aarav Patel,Bhubaneswar,East,"Mar 23, 2023",Premium
+CUST0193,Karan Mehta,Hyderabad,South,"Sep 01, 2022",New
+CUST0194,Pooja Mehta,Chennai,South,29 October 2022,VIP
+CUST0195,Aditya Joshi,Hyderabad,South,2022-03-19,Premium
+CUST0196,RAHUL JOSHI,Surat,West,16/09/2023,Premium
+CUST0197,Sneha Singh,Jaipur,North,09-02-2024,New
+CUST0198,Arjun Joshi,Kochi,South,"Apr 09, 2025",VIP
+CUST0199,  Karan Singh ,Pune,West,27/02/2024,VIP
+CUST0200,Ananya Gupta,Surat,West,"Jan 20, 2025",New
+CUST0201,Arjun Verma,Chandigarh,North,19-05-2024,Regular
+CUST0202,Aarav Reddy,Chennai,South,07 June 2022,Regular
+CUST0203,  Rohan Singh ,Chandigarh,North,"Apr 12, 2023",New
+CUST0204,Priya Verma,Mumbai,West,"Feb 25, 2025",Premium
+CUST0205,Meera Sharma,Bengaluru,South,26-04-2025,Premium
+CUST0206,divya iyer,Delhi,North,2022-11-07,VIP
+CUST0207,Suresh Verma,Kolkata,East,19/01/2023,Regular
+CUST0208,Neha Nair,Patna,East,"Jul 30, 2024",Regular
+CUST0209,Neha Nair,Bhubaneswar,East,09-06-2022,Regular
+CUST0210,Aditya Iyer,Mumbai,West,23/12/2022,Regular
+CUST0211,Vikram Iyer,Mumbai,West,20/04/2025,Regular
+CUST0212,Sahil Nair,Kochi,South,2024-05-12,VIP
+CUST0213,Ananya Mehta,Patna,East,28-05-2022,New
+CUST0214,Arjun Nair,Chandigarh,North,16/07/2023,New
+CUST0215,Karan Iyer,Surat,West,"May 09, 2022",VIP
+CUST0216,Pooja Nair,Pune,West,14 October 2022,VIP
+CUST0217,Aditya Iyer,Guwahati,East,20 September 2022,VIP
+CUST0218,Suresh Gupta,Kolkata,East,17/11/2023,New
+CUST0219,sneha mehta,Patna,East,09 February 2024,New
+CUST0220,Priya Sharma,Hyderabad,South,26/01/2025,New
+CUST0221,rahul gupta,Jaipur,North,03 March 2023,New
+CUST0222,Aditya Mehta,Bengaluru,South,05-01-2023,Premium
+CUST0223,isha iyer,Kochi,South,"May 16, 2022",New
+CUST0224,Rohan Gupta,Guwahati,East,2023-08-22,Premium
+CUST0225,Ananya Singh,Patna,East,13-12-2024,VIP
+CUST0226,Karan Patel,Bengaluru,South,17-01-2022,New
+CUST0227,Meera Iyer,Patna,East,11 October 2024,VIP
+CUST0228,Karan Sharma,Surat,West,25 October 2024,Regular
+CUST0229,Isha Iyer,Jaipur,North,02-10-2023,Premium
+CUST0230,Rohan Patel,Mumbai,West,"Apr 14, 2023",VIP
+CUST0231,Sneha Patel,Delhi,North,2024-09-22,Regular
+CUST0232,Priya Verma,Kolkata,East,10/12/2024,New
+CUST0233,Rahul Mehta,Lucknow,North,"Apr 12, 2024",Regular
+CUST0234,SURESH IYER,Kochi,South,28/05/2022,New
+CUST0235,Aarav Nair,Lucknow,North,19/04/2022,Premium
+CUST0236,Manish Nair,Ahmedabad,West,18/11/2023,Regular
+CUST0237,Sneha Singh,Chandigarh,North,"Jul 16, 2022",New
+CUST0238,Neha Mehta,Lucknow,North,31-07-2022,New
+CUST0239,  Suresh Verma ,Bengaluru,South,"Feb 09, 2022",Regular
+CUST0240,divya iyer,Bengaluru,South,2022-09-21,Premium
+CUST0241,Priya Gupta,Kochi,South,17/04/2025,Premium
+CUST0242,Priya Gupta,Kolkata,East,14 October 2022,Regular
+CUST0243,Priya Patel,Chandigarh,North,02/03/2023,New
+CUST0244,Divya Verma,Chandigarh,North,30-01-2023,Premium
+CUST0245,Sneha Joshi,Kolkata,East,28 August 2022,Premium
+CUST0246,Arjun Gupta,Bhubaneswar,East,04-08-2023,New
+CUST0247,Sneha Joshi,Kolkata,East,"Sep 04, 2023",New
+CUST0248,Aarav Reddy,Mumbai,West,10-04-2025,VIP
+CUST0249,  Sneha Sharma ,Surat,West,22/05/2023,VIP
+CUST0250,arjun verma,Surat,West,"Dec 30, 2022",VIP
+CUST0251,Rohan Gupta,Chennai,South,25-02-2024,VIP
+CUST0252,suresh patel,Mumbai,West,26/09/2024,VIP
+CUST0253,Manish Sharma,Bhubaneswar,East,"May 02, 2024",New
+CUST0254,Pooja Iyer,Kochi,South,"Apr 08, 2024",New
+CUST0255,Arjun Nair,Bhubaneswar,East,13 October 2023,Premium
+CUST0256,SURESH NAIR,Bengaluru,South,26-03-2025,New
+CUST0257,Karan Nair,Guwahati,East,28-04-2025,Premium
+CUST0258,ISHA PATEL,Chennai,South,26-07-2024,VIP
+CUST0259,Arjun Iyer,Pune,West,"Apr 21, 2024",New
+CUST0260,Divya Verma,Delhi,North,25 April 2024,Regular
+CUST0261,Vikram Singh,Guwahati,East,23 April 2025,Premium
+CUST0262,Rohan Nair,Chandigarh,North,27 December 2023,Premium
+CUST0263,Rohan Patel,Kolkata,East,2024-11-21,Premium
+CUST0264,Aarav Iyer,Delhi,North,"Oct 15, 2024",Premium
+CUST0265,Priya Mehta,Chennai,South,09 January 2022,Regular
+CUST0266,Neha Mehta,Delhi,North,12-02-2025,Premium
+CUST0267,  Suresh Iyer ,Chandigarh,North,27/09/2022,Regular
+CUST0268,Suresh Singh,Patna,East,23-03-2024,Premium
+CUST0269,Vikram Verma,Chennai,South,"Mar 06, 2024",New
+CUST0270,karan iyer,Chandigarh,North,2024-07-31,Premium
+CUST0271,Karan Nair,Mumbai,West,01/11/2024,Regular
+CUST0272,Neha Nair,Pune,West,"Mar 07, 2025",VIP
+CUST0273,Sahil Sharma,Bhubaneswar,East,01/02/2025,Premium
+CUST0274,Kavya Patel,Lucknow,North,03-08-2022,VIP
+CUST0275,Suresh Sharma,Chandigarh,North,01-04-2024,Premium
+CUST0276,Suresh Sharma,Jaipur,North,03-02-2023,Premium
+CUST0277,karan mehta,Bhubaneswar,East,14 September 2024,Premium
+CUST0278,Ananya Singh,Lucknow,North,2025-02-27,New
+CUST0279,Rohan Nair,Guwahati,East,20-03-2023,Regular
+CUST0280,Riya Patel,Chandigarh,North,2024-03-31,Regular
+CUST0281,Priya Singh,Chennai,South,"Mar 21, 2022",Premium
+CUST0282,Neha Patel,Kolkata,East,19 January 2025,Regular
+CUST0283,Kavya Sharma,Kochi,South,21/08/2023,Premium
+CUST0284,Arjun Joshi,Ahmedabad,West,12/09/2023,New
+CUST0285,Rahul Iyer,Jaipur,North,21 May 2024,Regular
+CUST0286,Ananya Mehta,Chandigarh,North,25-02-2023,VIP
+CUST0287,Isha Patel,Jaipur,North,11/10/2024,Regular
+CUST0288,Ananya Verma,Pune,West,"Feb 03, 2022",Premium
+CUST0289,Aarav Reddy,Jaipur,North,16 August 2023,Regular
+CUST0290,Sahil Singh,Ahmedabad,West,07 October 2022,VIP
+CUST0291,Karan Nair,Guwahati,East,10-11-2024,New
+CUST0292,Neha Iyer,Jaipur,North,"May 05, 2023",Regular
+CUST0293,meera verma,Chandigarh,North,16/02/2024,Regular
+CUST0294,Divya Reddy,Chandigarh,North,15/12/2023,New
+CUST0295,Rohan Gupta,Hyderabad,South,"Nov 10, 2023",Regular
+CUST0296,sneha nair,Jaipur,North,12/04/2024,New
+CUST0297,Rahul Reddy,Guwahati,East,01-10-2023,Regular
+CUST0298,Meera Mehta,Jaipur,North,13-08-2024,New
+CUST0299,Neha Nair,Pune,West,03-11-2024,Premium
+CUST0300,Ananya Verma,Ahmedabad,West,"Jun 05, 2024",VIP
+CUST0301,KARAN GUPTA,Surat,West,"Oct 30, 2024",New
+CUST0302,Rohan Mehta,Bengaluru,South,09-03-2024,VIP
+CUST0303,  Aditya Gupta ,Delhi,North,2023-06-15,VIP
+CUST0304,Priya Patel,Pune,West,"Jul 17, 2023",Regular
+CUST0305,  Manish Nair ,Chennai,South,2023-06-18,Regular
+CUST0306,Aarav Sharma,Bhubaneswar,East,2024-04-17,Regular
+CUST0307,Isha Reddy,Bengaluru,South,16/01/2022,VIP
+CUST0308,Manish Patel,Chandigarh,North,21/12/2023,Premium
+CUST0309,Riya Reddy,Chennai,South,25 December 2022,Premium
+CUST0310,Arjun Mehta,Ahmedabad,West,15 November 2022,Premium
+CUST0311,Suresh Verma,Pune,West,2022-03-07,Regular
+CUST0312,Riya Singh,Patna,East,2022-08-26,Premium
+CUST0313,Ananya Iyer,Surat,West,"Mar 02, 2022",New
+CUST0314,Vikram Reddy,Bengaluru,South,16-01-2022,VIP
+CUST0315,Isha Joshi,Lucknow,North,09 August 2024,Premium
+CUST0316,Aarav Patel,Delhi,North,07-09-2023,Regular
+CUST0317,Divya Singh,Jaipur,North,13-11-2023,Premium
+CUST0318,MEERA MEHTA,Bhubaneswar,East,19 July 2024,New
+CUST0319,Priya Reddy,Jaipur,North,10/11/2024,Premium
+CUST0320,Pooja Mehta,Delhi,North,2023-04-11,VIP
+CUST0321,VIKRAM PATEL,Kochi,South,"Jun 29, 2024",New
+CUST0322,Kavya Verma,Delhi,North,16-10-2023,New
+CUST0323,Isha Gupta,Pune,West,2022-02-12,New
+CUST0324,Neha Verma,Bhubaneswar,East,06-03-2025,Regular
+CUST0325,Vikram Joshi,Bhubaneswar,East,2022-01-31,VIP
+CUST0326,Aditya Gupta,Bhubaneswar,East,30-07-2024,Premium
+CUST0327,Pooja Mehta,Lucknow,North,"Jun 19, 2022",VIP
+CUST0328,Neha Patel,Kochi,South,06 May 2024,Regular
+CUST0329,Priya Reddy,Surat,West,27/03/2023,Regular
+CUST0330,Isha Nair,Chennai,South,"Mar 25, 2024",New
+CUST0331,Isha Reddy,Ahmedabad,West,19/01/2022,New
+CUST0332,Vikram Singh,Chennai,South,2023-03-12,New
+CUST0333,Arjun Patel,Patna,East,16-09-2022,New
+CUST0334,Rahul Iyer,Kolkata,East,10-08-2022,New
+CUST0335,  Sahil Singh ,Delhi,North,2024-02-26,Premium
+CUST0336,Sneha Singh,Chennai,South,26/01/2024,VIP
+CUST0337,Divya Reddy,Ahmedabad,West,20/08/2023,New
+CUST0338,Rohan Gupta,Bengaluru,South,11-12-2024,VIP
+CUST0339,Aarav Reddy,Bhubaneswar,East,"Mar 14, 2024",Premium
+CUST0340,Sneha Patel,Guwahati,East,29/08/2023,Premium
+CUST0341,Aarav Singh,Jaipur,North,14/04/2024,VIP
+CUST0342,  Ananya Gupta ,Kochi,South,24 April 2025,Premium
+CUST0343,karan mehta,Delhi,North,2024-03-22,Premium
+CUST0344,Karan Patel,Kochi,South,15-04-2025,Premium
+CUST0345,Riya Gupta,Delhi,North,2023-01-14,Premium
+CUST0346,Suresh Sharma,Chandigarh,North,26/03/2025,Premium
+CUST0347,Pooja Verma,Kochi,South,2024-09-29,VIP
+CUST0348,Aarav Sharma,Delhi,North,"Jan 12, 2023",New
+CUST0349,Vikram Reddy,Ahmedabad,West,11 February 2024,New
+CUST0350,Pooja Gupta,Pune,West,06 January 2022,VIP
+CUST0351,VIKRAM IYER,Delhi,North,09/08/2023,New
+CUST0352,Divya Patel,Kolkata,East,17-08-2024,VIP
+CUST0353,  Rahul Nair ,Pune,West,2024-06-22,New
+CUST0354,Ananya Verma,Pune,West,2023-12-24,Premium
+CUST0355,rohan mehta,Guwahati,East,2024-05-26,VIP
+CUST0356,Pooja Reddy,Guwahati,East,06 May 2024,Regular
+CUST0357,Sneha Joshi,Jaipur,North,"Oct 20, 2023",VIP
+CUST0358,Rohan Verma,Lucknow,North,2022-11-16,Premium
+CUST0359,Aditya Mehta,Patna,East,"Feb 19, 2022",VIP
+CUST0360,Neha Iyer,Ahmedabad,West,"May 19, 2023",Premium
+CUST0361,Ananya Joshi,Surat,West,14/04/2025,Premium
+CUST0362,Aditya Joshi,Pune,West,"Nov 15, 2024",New
+CUST0363,Rohan Patel,Pune,West,2022-11-08,New
+CUST0364,Aarav Iyer,Patna,East,21 November 2023,Premium
+CUST0365,Suresh Reddy,Kochi,South,"May 30, 2022",Premium
+CUST0366,Pooja Verma,Kolkata,East,"Feb 18, 2024",Premium
+CUST0367,  Riya Singh ,Chandigarh,North,"Oct 02, 2024",Premium
+CUST0368,RAHUL VERMA,Jaipur,North,2023-11-30,Premium
+CUST0369,ANANYA PATEL,Mumbai,West,"Mar 04, 2022",VIP
+CUST0370,ADITYA SINGH,Chennai,South,01-06-2024,VIP
+CUST0371,Rohan Reddy,Guwahati,East,10-01-2023,New
+CUST0372,Divya Iyer,Guwahati,East,"Jan 19, 2024",VIP
+CUST0373,Kavya Mehta,Bhubaneswar,East,17 June 2023,VIP
+CUST0374,Neha Reddy,Chennai,South,2023-07-25,New
+CUST0375,MEERA NAIR,Bengaluru,South,07 October 2023,Regular
+CUST0376,NEHA GUPTA,Kolkata,East,2024-12-29,New
+CUST0377,Neha Reddy,Patna,East,05/05/2024,VIP
+CUST0378,Rahul Sharma,Patna,East,11-04-2025,Premium
+CUST0379,Vikram Patel,Bengaluru,South,24-03-2025,Regular
+CUST0380,  Aarav Reddy ,Bengaluru,South,06 February 2023,New
+CUST0381,AARAV SINGH,Surat,West,06-10-2024,VIP
+CUST0382,Ananya Joshi,Pune,West,17/04/2022,VIP
+CUST0383,Kavya Joshi,Bengaluru,South,11/07/2022,New
+CUST0384,divya iyer,Patna,East,16-11-2022,Regular
+CUST0385,Rohan Nair,Guwahati,East,30/03/2024,VIP
+CUST0386,Neha Iyer,Bengaluru,South,2024-12-01,VIP
+CUST0387,rohan reddy,Bengaluru,South,25 February 2022,Regular
+CUST0388,Arjun Reddy,Kolkata,East,03/06/2023,Premium
+CUST0389,  Neha Mehta ,Kolkata,East,"Feb 16, 2022",Premium
+CUST0390,Rohan Iyer,Kolkata,East,18-01-2022,New
+CUST0391,Kavya Singh,Bhubaneswar,East,30-09-2022,Regular
+CUST0392,Neha Singh,Lucknow,North,21 August 2022,Premium
+CUST0393,Pooja Patel,Hyderabad,South,2024-02-06,Regular
+CUST0394,Ananya Gupta,Pune,West,12 March 2024,Regular
+CUST0395,Priya Joshi,Lucknow,North,2023-03-20,Regular
+CUST0396,Priya Singh,Lucknow,North,"Jul 11, 2023",Premium
+CUST0397,ADITYA JOSHI,Ahmedabad,West,05 June 2022,Premium
+CUST0398,Ananya Singh,Hyderabad,South,04-09-2024,New
+CUST0399,Manish Sharma,Hyderabad,South,"Mar 28, 2022",Regular
+CUST0400,Manish Gupta,Kolkata,East,"Aug 01, 2023",VIP
+CUST0401,Riya Singh,Lucknow,North,"Jul 06, 2022",Regular
+CUST0402,Ananya Nair,Hyderabad,South,2024-09-17,Regular
+CUST0403,Pooja Joshi,Kolkata,East,18 May 2024,VIP
+CUST0404,Suresh Mehta,Kolkata,East,17 June 2024,New
+CUST0405,Karan Iyer,Chennai,South,2024-04-27,Regular
+CUST0406,Rahul Sharma,Ahmedabad,West,03-01-2025,Premium
+CUST0407,Pooja Joshi,Jaipur,North,"Apr 19, 2025",New
+CUST0408,VIKRAM JOSHI,Surat,West,21 May 2023,New
+CUST0409,Suresh Joshi,Chennai,South,02/08/2023,Premium
+CUST0410,Ananya Mehta,Guwahati,East,18-11-2023,Regular
+CUST0411,Riya Singh,Bhubaneswar,East,26/05/2024,VIP
+CUST0412,Aarav Iyer,Delhi,North,"Nov 07, 2022",New
+CUST0413,Sneha Mehta,Kolkata,East,2024-05-30,Premium
+CUST0414,pooja sharma,Chennai,South,18-10-2023,Premium
+CUST0415,Neha Patel,Kochi,South,10 January 2022,VIP
+CUST0416,SURESH MEHTA,Bengaluru,South,17 January 2022,VIP
+CUST0417,Sneha Mehta,Guwahati,East,2024-08-18,VIP
+CUST0418,Manish Singh,Bengaluru,South,"Oct 16, 2023",Premium
+CUST0419,Manish Nair,Hyderabad,South,2022-01-03,Regular
+CUST0420,Vikram Patel,Lucknow,North,17-10-2022,New
+CUST0346,SURESH SHARMA,Chandigarh,North,26/03/2025,Premium
+CUST0149,SAHIL IYER,Surat,West,13 February 2024,VIP
+CUST0251,ROHAN GUPTA,Chennai,South,25-02-2024,VIP
+CUST0111,PRIYA GUPTA,Ahmedabad,West,14-12-2022,New
+CUST0348,AARAV SHARMA,Delhi,North,"Jan 12, 2023",New
+CUST0027,MEERA SHARMA,Ahmedabad,West,06/11/2022,Regular
+CUST0179,NEHA SINGH,Patna,East,"Apr 05, 2022",Premium
+CUST0379,VIKRAM PATEL,Bengaluru,South,24-03-2025,Regular
+CUST0338,ROHAN GUPTA,Bengaluru,South,11-12-2024,VIP
+CUST0248,AARAV REDDY,Mumbai,West,10-04-2025,VIP

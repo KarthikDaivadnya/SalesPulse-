@@ -1,0 +1,1430 @@
+order_id,order_date,customer_id,product_category,product_name,quantity,unit_price,region,payment_method
+ON00001,2024-04-24,CUST0115,Electronics,Wireless Earbuds,2,1799,,Credit Card
+ON00002,11 August 2024,CUST0288,  Apparel ,Formal Shirt,1,899.00,North,Credit Card
+ON00003,07/01/2024,CUST0143,apparel,Denim Jacket,1,"₹2,199",West,Credit Card
+ON00004,18 December 2024,CUST0374,Sports & Fitness,Dumbbell 5kg Pair,1,"₹1,599",North,Net Banking
+ON00005,2024-10-27,CUST0296,Sports & Fitness,Dumbbell 5kg Pair,2,"1,599",West,Credit Card
+ON00006,26/08/2024,CUST0326,electronics,Power Bank 10000mAh,1,999,East,Debit Card
+ON00007,"Mar 14, 2024",CUST0084,sports & fitness,Dumbbell 5kg Pair,1,1599.00,South,Net Banking
+ON00008,"Nov 28, 2024",CUST0413,electronics,Smartwatch,1,3499.00,North,Debit Card
+ON00009,18/11/2024,CUST0330,apparel,Running Shoes,1,2799.00,East,Net Banking
+ON00010,"Mar 14, 2025",CUST0071,Sports & Fitness,Skipping Rope,1,249,South,Cash on Delivery
+ON00011,"Jun 12, 2024",CUST0196,beauty,Sunscreen SPF50,1,449,East,Cash on Delivery
+ON00012,"Apr 27, 2024",CUST0058,SPORTS & FITNESS,Resistance Bands Set,2,599,West,Debit Card
+ON00013,01 July 2024,CUST0328,SPORTS & FITNESS,Yoga Mat,3,Rs.799,West,Cash on Delivery
+ON00014,27-06-2025,CUST0010,electronics,Wireless Earbuds,1,Rs.1799,East,UPI
+ON00015,21/03/2024,CUST0390,ELECTRONICS,Bluetooth Speaker,2,1499.00,North,Cash on Delivery
+ON00016,24-06-2025,CUST0277,  Sports & Fitness ,Dumbbell 5kg Pair,1,"1,599",South,Credit Card
+ON00017,2025-06-13,CUST0033,BEAUTY,Hair Dryer,1,1199,South,Debit Card
+ON00018,01 March 2024,CUST0170,APPAREL,Formal Shirt,1,₹899,North,UPI
+ON00019,"May 15, 2024",CUST0402,SPORTS & FITNESS,Skipping Rope,1,₹249,South,Net Banking
+ON00020,2025-02-24,CUST0345,  Beauty ,Hair Dryer,2,1199,North,UPI
+ON00021,"Jul 13, 2024",CUST0094,SPORTS & FITNESS,Resistance Bands Set,1,599,East,Debit Card
+ON00022,10/04/2024,CUST0048,  Electronics ,Smartwatch,1,Rs.3499,North,Credit Card
+ON00023,01-03-2024,CUST0136,  Apparel ,Denim Jacket,1,2199.00,East,Net Banking
+ON00024,13 May 2025,CUST0030,Apparel,Cotton T-Shirt,1,599,South,Cash on Delivery
+ON00025,2025-05-03,CUST0030,SPORTS & FITNESS,Yoga Mat,3,799,South,Cash on Delivery
+ON00026,2024-08-28,CUST0297,Beauty,Face Serum,1,699.00,South,Cash on Delivery
+ON00027,"Nov 19, 2024",CUST0123,HOME & KITCHEN,Non-Stick Pan Set,1,"1,299",West,Debit Card
+ON00028,15/03/2024,CUST0038,electronics,Wireless Earbuds,1,"1,799",North,Cash on Delivery
+ON00029,07 September 2024,CUST0279,Home & Kitchen,Storage Organizer,1,449.00,East,Debit Card
+ON00030,16/04/2024,CUST0381,apparel,Cotton T-Shirt,1,Rs.599,North,Cash on Delivery
+ON00031,"Jul 27, 2024",CUST0027,home & kitchen,Non-Stick Pan Set,1,"1,299",West,UPI
+ON00032,2024-09-25,CUST0288,Apparel,Denim Jacket,2,Rs.2199,East,UPI
+ON00033,13-01-2025,CUST0066,sports & fitness,Skipping Rope,1,249,East,UPI
+ON00034,"Aug 03, 2024",CUST0400,APPAREL,Formal Shirt,1,Rs.899,West,Cash on Delivery
+ON00035,30/06/2024,CUST0401,beauty,Sunscreen SPF50,1,449,West,Net Banking
+ON00036,09/02/2024,CUST0180,BEAUTY,Lip Care Kit,1,,East,Debit Card
+ON00037,"Dec 02, 2024",CUST0180,home & kitchen,Non-Stick Pan Set,2,1299,West,Cash on Delivery
+ON00038,24 September 2024,CUST0020,  Apparel ,Denim Jacket,1,"2,199",West,UPI
+ON00039,"Jun 07, 2025",CUST0131,Electronics,Power Bank 10000mAh,1,999.00,South,UPI
+ON00040,2024-07-20,CUST0320,home & kitchen,Storage Organizer,1,₹449,West,Debit Card
+ON00041,29/10/2024,CUST0341,sports & fitness,Resistance Bands Set,1,599,East,Net Banking
+ON00042,"Aug 03, 2024",CUST0239,BEAUTY,Sunscreen SPF50,2,Rs.449,West,Net Banking
+ON00043,17-10-2024,CUST0048,SPORTS & FITNESS,Yoga Mat,1,Rs.799,,Credit Card
+ON00044,07 September 2024,CUST0234,BEAUTY,Lip Care Kit,1,₹349,North,Net Banking
+ON00045,"Sep 06, 2024",CUST0385,APPAREL,Cotton T-Shirt,1,599.00,North,UPI
+ON00046,12 September 2024,CUST0342,electronics,Power Bank 10000mAh,1,₹999,East,Cash on Delivery
+ON00047,"May 31, 2025",CUST0082,beauty,Sunscreen SPF50,2,449,East,Net Banking
+ON00048,17-06-2025,CUST0226,BEAUTY,Lip Care Kit,1,349,West,UPI
+ON00049,23/03/2024,CUST0356,Apparel,Cotton T-Shirt,1,599,East,Credit Card
+ON00050,2025-03-01,CUST0200,  Electronics ,Smartwatch,1,"3,499",East,Cash on Delivery
+ON00051,03-02-2025,CUST0250,  Beauty ,Sunscreen SPF50,1,₹449,South,Credit Card
+ON00052,2025-02-18,CUST0319,  Apparel ,Denim Jacket,2,2199,South,Cash on Delivery
+ON00053,"Mar 14, 2025",CUST0026,apparel,Cotton T-Shirt,2,599,South,Debit Card
+ON00054,"Jan 23, 2025",CUST0130,Home & Kitchen,Non-Stick Pan Set,2,1299,East,UPI
+ON00055,24/12/2024,CUST0387,APPAREL,Formal Shirt,1,899.00,North,UPI
+ON00056,09-05-2024,CUST0239,BEAUTY,Lip Care Kit,1,349,South,Debit Card
+ON00057,"Jun 16, 2024",CUST0160,  Home & Kitchen ,Electric Kettle,1,Rs.799,North,Cash on Delivery
+ON00058,2024-09-05,CUST0351,Electronics,Power Bank 10000mAh,1,₹999,West,Cash on Delivery
+ON00059,2024-03-11,CUST0216,  Sports & Fitness ,Yoga Mat,1,₹799,North,Net Banking
+ON00060,"Mar 21, 2025",CUST0316,  Apparel ,Denim Jacket,2,2199.00,West,Cash on Delivery
+ON00061,08 September 2024,CUST0125,  Electronics ,Bluetooth Speaker,1,"₹1,499",East,Net Banking
+ON00062,05 July 2024,CUST0175,beauty,Lip Care Kit,1,349.00,West,Debit Card
+ON00063,"Mar 28, 2024",CUST0285,  Apparel ,Formal Shirt,2,899,East,Credit Card
+ON00064,14-08-2024,CUST0340,  Beauty ,Face Serum,1,699,West,Cash on Delivery
+ON00065,04/12/2024,CUST0157,Home & Kitchen,Storage Organizer,2,449,West,Debit Card
+ON00066,08 July 2024,CUST0142,apparel,Running Shoes,1,Rs.2799,East,Cash on Delivery
+ON00067,2025-01-04,CUST0141,apparel,Denim Jacket,1,Rs.2199,South,UPI
+ON00068,"May 17, 2025",CUST0241,electronics,Power Bank 10000mAh,2,999,West,Net Banking
+ON00069,04 May 2025,CUST0252,Electronics,Power Bank 10000mAh,2,999.00,East,UPI
+ON00070,28 March 2024,CUST0311,APPAREL,Formal Shirt,1,₹899,East,Cash on Delivery
+ON00071,29 March 2025,CUST0157,Home & Kitchen,Electric Kettle,2,799,East,Cash on Delivery
+ON00072,31/07/2024,CUST0081,Apparel,Running Shoes,1,"₹2,799",North,Credit Card
+ON00073,"Apr 26, 2025",CUST0362,Home & Kitchen,Electric Kettle,1,799,West,Debit Card
+ON00074,21-07-2024,CUST0332,BEAUTY,Sunscreen SPF50,1,Rs.449,South,Credit Card
+ON00075,22-10-2024,CUST0359,  Beauty ,Hair Dryer,1,1199.00,,Net Banking
+ON00076,18 March 2025,CUST0047,Home & Kitchen,LED Desk Lamp,1,649,North,Credit Card
+ON00077,28 June 2024,CUST0143,  Beauty ,Lip Care Kit,1,₹349,East,Credit Card
+ON00078,26/04/2025,CUST0344,home & kitchen,Storage Organizer,1,₹449,West,UPI
+ON00079,14-02-2025,CUST0162,Sports & Fitness,Resistance Bands Set,1,₹599,North,Debit Card
+ON00080,02-01-2024,CUST0097,  Sports & Fitness ,Resistance Bands Set,1,599,North,Cash on Delivery
+ON00081,14 May 2024,CUST0063,HOME & KITCHEN,Electric Kettle,1,799,East,UPI
+ON00082,21/02/2025,CUST0237,  Electronics ,Bluetooth Speaker,1,"1,499",North,UPI
+ON00083,06 October 2024,CUST0125,BEAUTY,Sunscreen SPF50,2,449.00,East,Net Banking
+ON00084,19-05-2024,CUST0175,Electronics,Bluetooth Speaker,1,"1,499",East,Cash on Delivery
+ON00085,16 May 2025,CUST0177,  Apparel ,Cotton T-Shirt,1,599,East,Debit Card
+ON00086,"Sep 01, 2024",CUST0023,  Sports & Fitness ,Skipping Rope,1,Rs.249,East,Debit Card
+ON00087,2024-02-07,CUST0052,  Apparel ,Cotton T-Shirt,1,,West,Net Banking
+ON00088,"Jun 07, 2024",CUST0174,Electronics,Bluetooth Speaker,1,1499.00,West,Cash on Delivery
+ON00089,20/11/2024,CUST0317,beauty,Lip Care Kit,2,349,North,UPI
+ON00090,10-04-2024,CUST0015,Electronics,Power Bank 10000mAh,1,999,West,UPI
+ON00091,2024-09-07,CUST0088,  Sports & Fitness ,Yoga Mat,1,Rs.799,South,Credit Card
+ON00092,2024-05-26,CUST0236,  Apparel ,Formal Shirt,1,899.00,West,Debit Card
+ON00093,28-03-2025,CUST0328,  Home & Kitchen ,Storage Organizer,-1,Rs.449,West,Net Banking
+ON00094,09-05-2025,CUST0295,Electronics,Power Bank 10000mAh,1,₹999,West,Debit Card
+ON00095,20 February 2024,CUST0398,sports & fitness,Dumbbell 5kg Pair,2,Rs.1599,West,Credit Card
+ON00096,2024-05-20,CUST0159,electronics,Power Bank 10000mAh,3,999,North,Net Banking
+ON00097,30-11-2024,CUST0403,beauty,Sunscreen SPF50,1,449,South,Cash on Delivery
+ON00098,"May 08, 2025",CUST0412,Home & Kitchen,Electric Kettle,2,Rs.799,West,UPI
+ON00099,10 February 2025,CUST0008,Sports & Fitness,Resistance Bands Set,1,599,East,Debit Card
+ON00100,15 January 2025,CUST0013,electronics,Power Bank 10000mAh,1,Rs.999,East,Cash on Delivery
+ON00101,2025-04-20,CUST0072,home & kitchen,Electric Kettle,1,799,North,UPI
+ON00102,"May 18, 2024",CUST0301,Beauty,Face Serum,1,699.00,East,Credit Card
+ON00103,13/10/2024,CUST0228,electronics,Smartwatch,1,"3,499",South,Net Banking
+ON00104,2025-01-02,CUST0063,ELECTRONICS,Smartwatch,1,3499.00,South,Net Banking
+ON00105,21/02/2024,CUST0403,Home & Kitchen,LED Desk Lamp,1,649.00,South,Cash on Delivery
+ON00106,2024-08-09,CUST0404,apparel,Formal Shirt,1,Rs.899,South,Cash on Delivery
+ON00107,13-09-2024,CUST0068,APPAREL,Denim Jacket,1,2199,North,UPI
+ON00108,"Feb 23, 2024",CUST0382,  Apparel ,Cotton T-Shirt,2,599.00,North,UPI
+ON00109,07-04-2025,CUST0373,  Sports & Fitness ,Yoga Mat,1,799,North,Cash on Delivery
+ON00110,2025-05-05,CUST0252,Beauty,Face Serum,1,Rs.699,North,Net Banking
+ON00111,08 October 2024,CUST0196,sports & fitness,Dumbbell 5kg Pair,1,1599.00,West,Cash on Delivery
+ON00112,27/04/2024,CUST0221,  Sports & Fitness ,Resistance Bands Set,2,₹599,South,Net Banking
+ON00113,"Apr 07, 2024",CUST0192,Home & Kitchen,LED Desk Lamp,1,649,West,Credit Card
+ON00114,08 April 2024,CUST0301,home & kitchen,Storage Organizer,2,₹449,North,Cash on Delivery
+ON00115,09 March 2025,CUST0181,ELECTRONICS,Smartwatch,3,"₹3,499",West,UPI
+ON00116,20 April 2024,CUST0059,HOME & KITCHEN,Storage Organizer,2,449.00,West,Debit Card
+ON00117,27-01-2024,CUST0015,sports & fitness,Dumbbell 5kg Pair,3,"1,599",,Credit Card
+ON00118,2024-05-26,CUST0073,SPORTS & FITNESS,Skipping Rope,1,₹249,North,UPI
+ON00119,13/01/2025,CUST0027,Home & Kitchen,Electric Kettle,2,799,North,Credit Card
+ON00120,10 March 2025,CUST0140,Beauty,Lip Care Kit,1,349,East,Credit Card
+ON00121,13 May 2025,CUST0113,Sports & Fitness,Yoga Mat,1,,North,Net Banking
+ON00122,2024-08-04,CUST0168,  Apparel ,Cotton T-Shirt,2,Rs.599,West,UPI
+ON00123,2025-06-29,CUST0037,  Apparel ,Formal Shirt,1,,West,Net Banking
+ON00124,16-11-2024,CUST0364,Sports & Fitness,Skipping Rope,1,249,East,Net Banking
+ON00125,16 April 2025,CUST0125,  Home & Kitchen ,Storage Organizer,1,₹449,North,Net Banking
+ON00126,2024-12-13,CUST0040,APPAREL,Formal Shirt,1,899,South,Cash on Delivery
+ON00127,31 May 2024,CUST0102,APPAREL,Formal Shirt,1,899,West,Credit Card
+ON00128,20 May 2025,CUST0349,beauty,Hair Dryer,2,"1,199",East,Cash on Delivery
+ON00129,10 March 2024,CUST0408,Beauty,Lip Care Kit,1,349,West,Debit Card
+ON00130,07 April 2025,CUST0040,  Electronics ,Smartwatch,1,3499.00,West,UPI
+ON00131,"Feb 12, 2024",CUST0165,BEAUTY,Hair Dryer,3,"₹1,199",South,Cash on Delivery
+ON00132,"Dec 17, 2024",CUST0021,  Electronics ,Bluetooth Speaker,1,1499.00,South,Credit Card
+ON00133,2025-01-16,CUST0348,home & kitchen,Electric Kettle,1,799,West,Cash on Delivery
+ON00134,30 January 2025,CUST0171,HOME & KITCHEN,Electric Kettle,1,799,South,UPI
+ON00135,"Feb 05, 2025",CUST0159,apparel,Cotton T-Shirt,1,599.00,North,Cash on Delivery
+ON00136,09/03/2025,CUST0159,sports & fitness,Yoga Mat,1,₹799,West,Credit Card
+ON00137,20 May 2024,CUST0260,Apparel,Cotton T-Shirt,1,599.00,North,Cash on Delivery
+ON00138,2025-01-20,CUST0370,  Apparel ,Cotton T-Shirt,1,Rs.599,South,Net Banking
+ON00139,18/10/2024,CUST0159,beauty,Hair Dryer,1,1199.00,South,Net Banking
+ON00140,17 April 2025,CUST0083,HOME & KITCHEN,Electric Kettle,2,799,East,Credit Card
+ON00141,15/01/2025,CUST0146,sports & fitness,Resistance Bands Set,3,599.00,North,UPI
+ON00142,23-03-2025,CUST0419,Electronics,Bluetooth Speaker,3,"₹1,499",South,Net Banking
+ON00143,29-08-2024,CUST0115,Beauty,Face Serum,-1,699,West,UPI
+ON00144,"May 20, 2024",CUST0357,  Electronics ,Smartwatch,1,3499,,Credit Card
+ON00145,08/08/2024,CUST0057,apparel,Cotton T-Shirt,1,Rs.599,East,Debit Card
+ON00146,2025-04-13,CUST0306,ELECTRONICS,Bluetooth Speaker,1,"1,499",East,Cash on Delivery
+ON00147,27 December 2024,CUST0341,apparel,Formal Shirt,1,899.00,South,UPI
+ON00148,03-06-2025,CUST0023,sports & fitness,Resistance Bands Set,1,599,East,Net Banking
+ON00149,19-12-2024,CUST0396,APPAREL,Formal Shirt,2,899.00,North,Cash on Delivery
+ON00150,28/06/2024,CUST0324,Beauty,Hair Dryer,-1,"₹1,199",,Credit Card
+ON00151,25 July 2024,CUST0162,  Electronics ,Smartwatch,2,3499.00,North,Debit Card
+ON00152,07-02-2024,CUST0336,Apparel,Running Shoes,1,"₹2,799",North,Debit Card
+ON00153,26-03-2025,CUST0255,beauty,Face Serum,1,₹699,South,Net Banking
+ON00154,03-07-2024,CUST0041,sports & fitness,Resistance Bands Set,1,₹599,North,Debit Card
+ON00155,30-03-2025,CUST0315,Home & Kitchen,Storage Organizer,1,₹449,West,Net Banking
+ON00156,2024-06-12,CUST0018,ELECTRONICS,Wireless Earbuds,1,"1,799",East,Credit Card
+ON00157,"Feb 03, 2024",CUST0190,Sports & Fitness,Dumbbell 5kg Pair,1,1599.00,East,Debit Card
+ON00158,"Nov 17, 2024",CUST0014,  Home & Kitchen ,Non-Stick Pan Set,1,1299,North,Credit Card
+ON00159,23/09/2024,CUST0356,Beauty,Hair Dryer,1,1199,West,Net Banking
+ON00160,2025-03-31,CUST0342,electronics,Bluetooth Speaker,2,Rs.1499,West,Debit Card
+ON00161,27/06/2024,CUST0103,  Home & Kitchen ,Storage Organizer,1,,North,Credit Card
+ON00162,2025-01-12,CUST0314,beauty,Hair Dryer,2,"₹1,199",South,UPI
+ON00163,"Feb 23, 2025",CUST0329,  Sports & Fitness ,Skipping Rope,1,249,West,UPI
+ON00164,05/07/2024,CUST0064,apparel,Cotton T-Shirt,1,599,North,Cash on Delivery
+ON00165,18/08/2024,CUST0041,home & kitchen,Storage Organizer,3,449,West,Debit Card
+ON00166,05 April 2024,CUST0088,sports & fitness,Yoga Mat,1,799.00,,Cash on Delivery
+ON00167,30 January 2024,CUST0334,  Electronics ,Bluetooth Speaker,1,1499,West,Credit Card
+ON00168,2024-10-23,CUST0153,Home & Kitchen,Electric Kettle,1,₹799,East,Net Banking
+ON00169,27-07-2024,CUST0368,  Home & Kitchen ,LED Desk Lamp,1,649,West,Debit Card
+ON00170,18/04/2024,CUST0137,HOME & KITCHEN,LED Desk Lamp,1,649,North,Net Banking
+ON00171,04 March 2025,CUST0417,apparel,Formal Shirt,3,Rs.899,South,Debit Card
+ON00172,2025-06-11,CUST0255,  Beauty ,Hair Dryer,1,Rs.1199,West,UPI
+ON00173,27-12-2024,CUST0306,Electronics,Smartwatch,1,"₹3,499",East,Net Banking
+ON00174,2024-09-27,CUST0024,HOME & KITCHEN,Storage Organizer,2,449,West,Net Banking
+ON00175,2025-05-31,CUST0320,BEAUTY,Hair Dryer,2,"₹1,199",West,Cash on Delivery
+ON00176,13 December 2024,CUST0102,  Sports & Fitness ,Resistance Bands Set,3,599,,Cash on Delivery
+ON00177,07/12/2024,CUST0311,beauty,Lip Care Kit,1,349,South,Cash on Delivery
+ON00178,02-11-2024,CUST0363,  Sports & Fitness ,Skipping Rope,1,249,East,Cash on Delivery
+ON00179,22-04-2024,CUST0306,BEAUTY,Sunscreen SPF50,1,449.00,North,Net Banking
+ON00180,2025-06-20,CUST0076,Sports & Fitness,Dumbbell 5kg Pair,2,"₹1,599",East,Credit Card
+ON00181,"Jun 04, 2024",CUST0257,Beauty,Sunscreen SPF50,1,449.00,East,Cash on Delivery
+ON00182,28 November 2024,CUST0089,beauty,Lip Care Kit,1,349,West,Net Banking
+ON00183,15-07-2024,CUST0116,APPAREL,Formal Shirt,1,₹899,West,Debit Card
+ON00184,23 December 2024,CUST0148,  Sports & Fitness ,Resistance Bands Set,3,₹599,West,UPI
+ON00185,29-05-2024,CUST0178,  Home & Kitchen ,Electric Kettle,1,799.00,North,Net Banking
+ON00186,05 October 2024,CUST0125,APPAREL,Cotton T-Shirt,1,599,South,UPI
+ON00187,04/12/2024,CUST0003,  Beauty ,Lip Care Kit,1,₹349,South,Cash on Delivery
+ON00188,23 July 2024,CUST0394,HOME & KITCHEN,Electric Kettle,1,799,North,UPI
+ON00189,"Jun 28, 2024",CUST0019,BEAUTY,Sunscreen SPF50,2,449,South,Net Banking
+ON00190,"Jan 10, 2024",CUST0172,  Home & Kitchen ,Electric Kettle,1,Rs.799,North,Debit Card
+ON00191,"Apr 24, 2025",CUST0170,home & kitchen,Non-Stick Pan Set,1,1299,North,Credit Card
+ON00192,"Oct 29, 2024",CUST0090,  Sports & Fitness ,Skipping Rope,1,249,South,Cash on Delivery
+ON00193,2024-04-07,CUST0166,apparel,Denim Jacket,-1,"₹2,199",East,Credit Card
+ON00194,03/12/2024,CUST0134,Home & Kitchen,Electric Kettle,1,₹799,North,Debit Card
+ON00195,19-02-2025,CUST0354,sports & fitness,Yoga Mat,3,Rs.799,West,UPI
+ON00196,"May 04, 2025",CUST0213,APPAREL,Cotton T-Shirt,1,599.00,West,Cash on Delivery
+ON00197,2024-03-24,CUST0040,Sports & Fitness,Yoga Mat,1,799.00,West,Cash on Delivery
+ON00198,02 June 2024,CUST0060,  Apparel ,Denim Jacket,1,2199.00,East,Credit Card
+ON00199,2024-02-26,CUST0234,  Beauty ,Hair Dryer,1,"1,199",East,Cash on Delivery
+ON00200,2025-02-09,CUST0297,  Home & Kitchen ,Non-Stick Pan Set,2,1299,South,UPI
+ON00201,"Mar 02, 2024",CUST0017,ELECTRONICS,Bluetooth Speaker,-1,"₹1,499",East,Debit Card
+ON00202,26 January 2025,CUST0193,BEAUTY,Hair Dryer,2,"1,199",East,UPI
+ON00203,06-02-2025,CUST0002,  Sports & Fitness ,Yoga Mat,1,799.00,South,UPI
+ON00204,23/01/2025,CUST0080,Apparel,Formal Shirt,1,,West,Debit Card
+ON00205,"Jan 17, 2024",CUST0305,Apparel,Formal Shirt,1,899,North,UPI
+ON00206,27-08-2024,CUST0072,SPORTS & FITNESS,Resistance Bands Set,1,599.00,North,Cash on Delivery
+ON00207,24/11/2024,CUST0339,  Apparel ,Formal Shirt,1,899,South,Cash on Delivery
+ON00208,28 June 2024,CUST0177,beauty,Sunscreen SPF50,1,₹449,North,Net Banking
+ON00209,20-01-2025,CUST0124,APPAREL,Denim Jacket,2,2199,East,Credit Card
+ON00210,02/03/2025,CUST0125,sports & fitness,Resistance Bands Set,1,₹599,East,Debit Card
+ON00211,"Apr 04, 2024",CUST0027,Sports & Fitness,Resistance Bands Set,2,Rs.599,South,Debit Card
+ON00212,10/08/2024,CUST0156,BEAUTY,Lip Care Kit,1,349,West,UPI
+ON00213,05 May 2025,CUST0204,apparel,Formal Shirt,1,₹899,South,Credit Card
+ON00214,"Jan 02, 2025",CUST0239,home & kitchen,Electric Kettle,1,799,East,UPI
+ON00215,16 February 2024,CUST0009,  Sports & Fitness ,Skipping Rope,2,Rs.249,South,Debit Card
+ON00216,23-01-2025,CUST0282,  Sports & Fitness ,Skipping Rope,2,₹249,East,Debit Card
+ON00217,2024-12-26,CUST0095,Apparel,Denim Jacket,1,2199,East,Cash on Delivery
+ON00218,2024-02-19,CUST0035,ELECTRONICS,Wireless Earbuds,1,"1,799",South,Credit Card
+ON00219,09 May 2025,CUST0007,beauty,Lip Care Kit,1,349,,UPI
+ON00220,16/03/2025,CUST0269,APPAREL,Denim Jacket,1,"2,199",North,Credit Card
+ON00221,30/09/2024,CUST0236,BEAUTY,Face Serum,1,699,East,Cash on Delivery
+ON00222,2024-02-02,CUST0283,Electronics,Bluetooth Speaker,1,1499,East,Net Banking
+ON00223,20/03/2025,CUST0271,HOME & KITCHEN,LED Desk Lamp,1,649.00,North,UPI
+ON00224,2024-02-17,CUST0279,ELECTRONICS,Bluetooth Speaker,1,"1,499",,Cash on Delivery
+ON00225,31/07/2024,CUST0040,SPORTS & FITNESS,Skipping Rope,1,₹249,East,Debit Card
+ON00226,05 December 2024,CUST0405,beauty,Face Serum,2,₹699,South,UPI
+ON00227,2024-03-18,CUST0397,home & kitchen,LED Desk Lamp,1,₹649,East,Debit Card
+ON00228,"Dec 30, 2024",CUST0096,Sports & Fitness,Resistance Bands Set,3,599,East,Cash on Delivery
+ON00229,"Mar 16, 2024",CUST0365,electronics,Bluetooth Speaker,1,1499,,Credit Card
+ON00230,2024-11-11,CUST0053,BEAUTY,Hair Dryer,1,1199.00,West,Credit Card
+ON00231,21 February 2025,CUST0284,electronics,Power Bank 10000mAh,1,999,West,UPI
+ON00232,01/02/2025,CUST0293,  Electronics ,Bluetooth Speaker,2,"1,499",South,Cash on Delivery
+ON00233,19-05-2025,CUST0142,  Apparel ,Cotton T-Shirt,1,599,East,Net Banking
+ON00234,09/09/2024,CUST0235,beauty,Lip Care Kit,1,,South,UPI
+ON00235,24/01/2025,CUST0418,home & kitchen,LED Desk Lamp,1,Rs.649,East,Cash on Delivery
+ON00236,30 June 2024,CUST0377,BEAUTY,Face Serum,3,699,West,Net Banking
+ON00237,06/02/2025,CUST0304,Home & Kitchen,Storage Organizer,1,₹449,South,Cash on Delivery
+ON00238,"Aug 02, 2024",CUST0420,BEAUTY,Hair Dryer,2,Rs.1199,North,Net Banking
+ON00239,"Jun 06, 2024",CUST0230,  Beauty ,Sunscreen SPF50,2,₹449,North,Cash on Delivery
+ON00240,03-01-2025,CUST0056,SPORTS & FITNESS,Resistance Bands Set,1,599,North,Credit Card
+ON00241,2025-02-13,CUST0055,home & kitchen,LED Desk Lamp,3,649.00,East,UPI
+ON00242,14 August 2024,CUST0396,BEAUTY,Hair Dryer,1,1199,East,Cash on Delivery
+ON00243,29-10-2024,CUST0060,beauty,Sunscreen SPF50,3,Rs.449,North,Credit Card
+ON00244,22-12-2024,CUST0164,Beauty,Lip Care Kit,1,349,,UPI
+ON00245,17 December 2024,CUST0380,ELECTRONICS,Power Bank 10000mAh,1,999,South,Credit Card
+ON00246,"Apr 18, 2025",CUST0096,Apparel,Formal Shirt,2,Rs.899,South,Net Banking
+ON00247,2025-03-15,CUST0106,Beauty,Face Serum,1,699.00,South,Debit Card
+ON00248,29 November 2024,CUST0344,apparel,Running Shoes,1,2799.00,West,Net Banking
+ON00249,26-04-2024,CUST0317,Home & Kitchen,Storage Organizer,1,449,East,Credit Card
+ON00250,"Nov 08, 2024",CUST0262,ELECTRONICS,Power Bank 10000mAh,1,₹999,South,Net Banking
+ON00251,26-06-2024,CUST0072,  Sports & Fitness ,Resistance Bands Set,1,599,West,Credit Card
+ON00252,"May 11, 2025",CUST0288,  Apparel ,Cotton T-Shirt,1,₹599,East,Cash on Delivery
+ON00253,30-03-2025,CUST0408,Beauty,Lip Care Kit,1,349.00,North,Credit Card
+ON00254,2025-04-13,CUST0282,Sports & Fitness,Skipping Rope,2,249.00,East,Cash on Delivery
+ON00255,10 January 2025,CUST0390,SPORTS & FITNESS,Resistance Bands Set,2,599,North,Net Banking
+ON00256,10-09-2024,CUST0231,Home & Kitchen,Electric Kettle,2,799,North,Debit Card
+ON00257,"Aug 30, 2024",CUST0364,APPAREL,Running Shoes,2,Rs.2799,West,Cash on Delivery
+ON00258,01/03/2024,CUST0306,sports & fitness,Skipping Rope,1,249,West,Cash on Delivery
+ON00259,2024-09-30,CUST0070,sports & fitness,Yoga Mat,-1,Rs.799,North,Net Banking
+ON00260,"May 15, 2024",CUST0127,APPAREL,Formal Shirt,1,899,West,Net Banking
+ON00261,19-01-2025,CUST0207,beauty,Hair Dryer,1,"₹1,199",North,Cash on Delivery
+ON00262,2024-01-03,CUST0326,  Electronics ,Bluetooth Speaker,2,"₹1,499",East,Debit Card
+ON00263,21 May 2025,CUST0173,HOME & KITCHEN,Non-Stick Pan Set,1,"₹1,299",West,Cash on Delivery
+ON00264,19/02/2024,CUST0009,  Electronics ,Smartwatch,1,"₹3,499",East,UPI
+ON00265,15-05-2024,CUST0048,Home & Kitchen,Electric Kettle,1,Rs.799,West,Debit Card
+ON00266,2024-11-08,CUST0361,APPAREL,Formal Shirt,1,Rs.899,North,UPI
+ON00267,"Jun 15, 2025",CUST0419,BEAUTY,Hair Dryer,1,Rs.1199,West,UPI
+ON00268,14/04/2024,CUST0071,ELECTRONICS,Power Bank 10000mAh,1,999.00,,Net Banking
+ON00269,"Jun 17, 2024",CUST0322,  Beauty ,Hair Dryer,1,1199,South,Credit Card
+ON00270,23-05-2024,CUST0180,ELECTRONICS,Power Bank 10000mAh,1,999,East,Net Banking
+ON00271,18 October 2024,CUST0106,ELECTRONICS,Wireless Earbuds,2,"1,799",West,Cash on Delivery
+ON00272,2024-09-02,CUST0256,Beauty,Lip Care Kit,1,349,South,Cash on Delivery
+ON00273,2025-03-06,CUST0391,Home & Kitchen,Storage Organizer,1,449,South,Net Banking
+ON00274,10 February 2024,CUST0260,  Electronics ,Smartwatch,3,"₹3,499",East,Debit Card
+ON00275,05/06/2024,CUST0262,home & kitchen,Non-Stick Pan Set,1,1299,North,Credit Card
+ON00276,"Mar 23, 2025",CUST0223,Apparel,Formal Shirt,1,Rs.899,North,UPI
+ON00277,20-05-2024,CUST0268,ELECTRONICS,Wireless Earbuds,1,"1,799",West,Cash on Delivery
+ON00278,2024-04-30,CUST0140,electronics,Wireless Earbuds,1,1799.00,East,Cash on Delivery
+ON00279,23/05/2025,CUST0256,beauty,Hair Dryer,1,1199,North,Cash on Delivery
+ON00280,28/04/2024,CUST0023,Apparel,Formal Shirt,2,₹899,North,UPI
+ON00281,02/07/2024,CUST0115,  Electronics ,Smartwatch,1,"3,499",East,Debit Card
+ON00282,20 March 2024,CUST0092,Sports & Fitness,Skipping Rope,1,249,North,Credit Card
+ON00283,16/10/2024,CUST0005,home & kitchen,Electric Kettle,1,799,East,Debit Card
+ON00284,05 September 2024,CUST0396,BEAUTY,Hair Dryer,1,"₹1,199",,Credit Card
+ON00285,20-12-2024,CUST0389,Electronics,Wireless Earbuds,3,Rs.1799,North,Net Banking
+ON00286,02 March 2024,CUST0023,  Apparel ,Cotton T-Shirt,2,599,North,Credit Card
+ON00287,2024-03-27,CUST0327,Sports & Fitness,Skipping Rope,1,Rs.249,South,Net Banking
+ON00288,24-09-2024,CUST0359,  Home & Kitchen ,LED Desk Lamp,3,649,East,Debit Card
+ON00289,"May 19, 2024",CUST0085,sports & fitness,Skipping Rope,1,249.00,North,Net Banking
+ON00290,31/07/2024,CUST0062,beauty,Hair Dryer,1,1199.00,,UPI
+ON00291,01 December 2024,CUST0183,Apparel,Cotton T-Shirt,1,599,South,Net Banking
+ON00292,27/06/2024,CUST0285,Electronics,Wireless Earbuds,3,Rs.1799,East,Cash on Delivery
+ON00293,04 March 2024,CUST0191,apparel,Formal Shirt,1,899,,UPI
+ON00294,2024-03-07,CUST0415,apparel,Running Shoes,3,"₹2,799",East,Credit Card
+ON00295,19/03/2025,CUST0350,beauty,Face Serum,1,Rs.699,East,Net Banking
+ON00296,"Apr 01, 2025",CUST0332,  Apparel ,Cotton T-Shirt,1,₹599,South,Debit Card
+ON00297,13/10/2024,CUST0330,Beauty,Face Serum,1,699,South,Cash on Delivery
+ON00298,11/05/2025,CUST0199,Home & Kitchen,Storage Organizer,3,Rs.449,,Debit Card
+ON00299,14 October 2024,CUST0272,ELECTRONICS,Smartwatch,2,3499,East,Debit Card
+ON00300,03 September 2024,CUST0392,  Home & Kitchen ,Non-Stick Pan Set,1,Rs.1299,North,Credit Card
+ON00301,21 November 2024,CUST0361,HOME & KITCHEN,Storage Organizer,3,Rs.449,North,Debit Card
+ON00302,2025-05-19,CUST0020,SPORTS & FITNESS,Resistance Bands Set,1,599,East,UPI
+ON00303,01-01-2024,CUST0413,HOME & KITCHEN,LED Desk Lamp,3,649,South,Credit Card
+ON00304,31 May 2024,CUST0397,sports & fitness,Skipping Rope,2,249,South,UPI
+ON00305,09/02/2025,CUST0166,  Sports & Fitness ,Skipping Rope,1,₹249,West,Credit Card
+ON00306,27/06/2024,CUST0115,  Sports & Fitness ,Resistance Bands Set,1,599,West,Cash on Delivery
+ON00307,02-01-2024,CUST0094,SPORTS & FITNESS,Skipping Rope,1,249,North,Cash on Delivery
+ON00308,24/05/2024,CUST0178,Home & Kitchen,LED Desk Lamp,2,649,South,Debit Card
+ON00309,2024-09-28,CUST0180,Apparel,Running Shoes,1,"₹2,799",North,Debit Card
+ON00310,"Jun 19, 2024",CUST0180,Beauty,Sunscreen SPF50,1,449.00,East,Cash on Delivery
+ON00311,18-08-2024,CUST0151,apparel,Denim Jacket,1,2199,North,UPI
+ON00312,19 January 2025,CUST0174,  Apparel ,Denim Jacket,2,"₹2,199",North,Cash on Delivery
+ON00313,17-06-2024,CUST0028,SPORTS & FITNESS,Dumbbell 5kg Pair,2,"₹1,599",South,UPI
+ON00314,28 September 2024,CUST0026,  Home & Kitchen ,Electric Kettle,1,799,,Net Banking
+ON00315,2024-03-30,CUST0103,HOME & KITCHEN,Electric Kettle,2,799,East,UPI
+ON00316,29-04-2025,CUST0242,Electronics,Power Bank 10000mAh,1,₹999,East,Net Banking
+ON00317,"Jan 25, 2025",CUST0135,home & kitchen,Storage Organizer,1,449,North,Net Banking
+ON00318,"Jun 03, 2024",CUST0414,ELECTRONICS,Power Bank 10000mAh,1,₹999,West,Cash on Delivery
+ON00319,"Mar 04, 2025",CUST0294,sports & fitness,Resistance Bands Set,1,599,East,Credit Card
+ON00320,13/06/2025,CUST0062,SPORTS & FITNESS,Skipping Rope,1,Rs.249,South,Net Banking
+ON00321,09 March 2025,CUST0104,electronics,Bluetooth Speaker,-1,1499,East,Credit Card
+ON00322,2025-02-10,CUST0267,  Sports & Fitness ,Resistance Bands Set,1,Rs.599,West,Net Banking
+ON00323,12 April 2024,CUST0403,electronics,Power Bank 10000mAh,1,999,North,Debit Card
+ON00324,"May 12, 2025",CUST0089,SPORTS & FITNESS,Skipping Rope,1,₹249,,Debit Card
+ON00325,2024-12-05,CUST0138,apparel,Formal Shirt,1,899,East,Debit Card
+ON00326,"May 18, 2025",CUST0069,electronics,Power Bank 10000mAh,-1,₹999,South,Debit Card
+ON00327,01 April 2024,CUST0380,apparel,Running Shoes,1,2799.00,East,Net Banking
+ON00328,08 March 2024,CUST0070,Home & Kitchen,Electric Kettle,2,Rs.799,East,Cash on Delivery
+ON00329,12-09-2024,CUST0361,electronics,Smartwatch,1,3499.00,West,Credit Card
+ON00330,06/05/2024,CUST0305,  Electronics ,Wireless Earbuds,1,"1,799",East,Net Banking
+ON00331,21 September 2024,CUST0026,ELECTRONICS,Bluetooth Speaker,1,Rs.1499,East,Credit Card
+ON00332,02/10/2024,CUST0243,Beauty,Sunscreen SPF50,1,449.00,North,Credit Card
+ON00333,08-11-2024,CUST0179,HOME & KITCHEN,Non-Stick Pan Set,1,1299.00,East,Net Banking
+ON00334,10 February 2025,CUST0288,sports & fitness,Skipping Rope,1,249,West,Cash on Delivery
+ON00335,10/12/2024,CUST0134,HOME & KITCHEN,Non-Stick Pan Set,1,Rs.1299,West,Debit Card
+ON00336,17-02-2025,CUST0336,home & kitchen,LED Desk Lamp,1,₹649,North,Net Banking
+ON00337,06 February 2024,CUST0176,  Sports & Fitness ,Skipping Rope,2,249,South,Credit Card
+ON00338,23-06-2024,CUST0242,SPORTS & FITNESS,Resistance Bands Set,1,599,North,Credit Card
+ON00339,15-08-2024,CUST0216,home & kitchen,Storage Organizer,1,₹449,West,Debit Card
+ON00340,26 April 2025,CUST0242,Electronics,Smartwatch,2,"₹3,499",North,Credit Card
+ON00341,27-02-2025,CUST0071,  Electronics ,Smartwatch,2,"₹3,499",South,Credit Card
+ON00342,2024-07-03,CUST0161,  Electronics ,Bluetooth Speaker,1,Rs.1499,South,UPI
+ON00343,"Jun 11, 2024",CUST0067,  Beauty ,Lip Care Kit,2,₹349,North,Cash on Delivery
+ON00344,08 February 2024,CUST0008,SPORTS & FITNESS,Resistance Bands Set,1,,,Debit Card
+ON00345,2024-09-11,CUST0160,  Apparel ,Formal Shirt,1,899,West,Credit Card
+ON00346,16 February 2024,CUST0373,home & kitchen,Electric Kettle,3,Rs.799,East,Cash on Delivery
+ON00347,2025-05-16,CUST0416,HOME & KITCHEN,Storage Organizer,2,Rs.449,South,Net Banking
+ON00348,"Jan 23, 2024",CUST0188,sports & fitness,Skipping Rope,1,249.00,,UPI
+ON00349,"Feb 19, 2024",CUST0025,  Electronics ,Power Bank 10000mAh,1,999.00,North,UPI
+ON00350,2024-06-05,CUST0155,apparel,Running Shoes,1,Rs.2799,North,Net Banking
+ON00351,2024-04-17,CUST0145,  Sports & Fitness ,Yoga Mat,2,Rs.799,North,UPI
+ON00352,2025-06-19,CUST0152,  Apparel ,Running Shoes,1,"₹2,799",East,Credit Card
+ON00353,03/01/2024,CUST0294,Electronics,Wireless Earbuds,1,1799,North,Net Banking
+ON00354,"Apr 13, 2024",CUST0152,Home & Kitchen,Non-Stick Pan Set,1,Rs.1299,East,Debit Card
+ON00355,2024-10-24,CUST0219,Home & Kitchen,Storage Organizer,2,,West,UPI
+ON00356,2024-06-23,CUST0319,home & kitchen,LED Desk Lamp,1,Rs.649,East,Debit Card
+ON00357,"Feb 13, 2025",CUST0354,BEAUTY,Hair Dryer,1,1199,East,Net Banking
+ON00358,"Jun 12, 2024",CUST0411,ELECTRONICS,Power Bank 10000mAh,1,999,East,Cash on Delivery
+ON00359,2024-05-13,CUST0211,Beauty,Lip Care Kit,3,349,,Net Banking
+ON00360,21 June 2025,CUST0343,Sports & Fitness,Skipping Rope,2,Rs.249,South,Debit Card
+ON00361,29 January 2025,CUST0006,  Apparel ,Cotton T-Shirt,2,Rs.599,North,Credit Card
+ON00362,18/05/2025,CUST0026,  Home & Kitchen ,LED Desk Lamp,1,Rs.649,West,Cash on Delivery
+ON00363,2025-03-30,CUST0229,  Sports & Fitness ,Skipping Rope,1,249,East,Debit Card
+ON00364,26 February 2025,CUST0047,electronics,Smartwatch,1,3499.00,North,Cash on Delivery
+ON00365,"Apr 12, 2025",CUST0419,home & kitchen,LED Desk Lamp,1,649.00,North,Credit Card
+ON00366,07-01-2025,CUST0002,beauty,Hair Dryer,1,"1,199",South,Debit Card
+ON00367,16 February 2024,CUST0055,APPAREL,Denim Jacket,1,"₹2,199",East,Debit Card
+ON00368,2024-07-14,CUST0024,  Home & Kitchen ,LED Desk Lamp,1,649.00,East,Cash on Delivery
+ON00369,17 May 2024,CUST0284,  Beauty ,Lip Care Kit,1,Rs.349,North,Net Banking
+ON00370,"Jun 26, 2024",CUST0259,APPAREL,Cotton T-Shirt,1,599,West,Net Banking
+ON00371,08-04-2025,CUST0360,APPAREL,Cotton T-Shirt,1,599.00,West,Cash on Delivery
+ON00372,19-12-2024,CUST0258,Apparel,Cotton T-Shirt,-1,599.00,South,Cash on Delivery
+ON00373,03 March 2025,CUST0414,Sports & Fitness,Resistance Bands Set,1,,East,UPI
+ON00374,27/02/2024,CUST0147,Apparel,Running Shoes,1,"2,799",South,Debit Card
+ON00375,03/02/2024,CUST0316,  Home & Kitchen ,Storage Organizer,2,449,North,Cash on Delivery
+ON00376,2024-02-18,CUST0283,beauty,Face Serum,1,₹699,West,UPI
+ON00377,11-01-2025,CUST0398,  Sports & Fitness ,Skipping Rope,1,249,South,Credit Card
+ON00378,26 June 2024,CUST0220,sports & fitness,Yoga Mat,1,799.00,North,Debit Card
+ON00379,06-01-2024,CUST0021,Home & Kitchen,LED Desk Lamp,1,649.00,South,Credit Card
+ON00380,04 November 2024,CUST0038,BEAUTY,Lip Care Kit,2,349.00,West,Debit Card
+ON00381,01/06/2025,CUST0048,APPAREL,Denim Jacket,1,"2,199",East,Debit Card
+ON00382,"Aug 11, 2024",CUST0059,SPORTS & FITNESS,Dumbbell 5kg Pair,1,1599.00,North,Debit Card
+ON00383,"Sep 06, 2024",CUST0196,electronics,Smartwatch,1,"3,499",,UPI
+ON00384,13-06-2025,CUST0250,HOME & KITCHEN,Storage Organizer,1,449,East,UPI
+ON00385,"Jun 20, 2024",CUST0108,Sports & Fitness,Resistance Bands Set,1,₹599,North,Credit Card
+ON00386,2024-03-14,CUST0020,Apparel,Cotton T-Shirt,1,599,West,UPI
+ON00387,"Aug 21, 2024",CUST0323,home & kitchen,Non-Stick Pan Set,1,,East,Net Banking
+ON00388,07-01-2024,CUST0359,Sports & Fitness,Dumbbell 5kg Pair,1,"1,599",North,UPI
+ON00389,15 October 2024,CUST0243,BEAUTY,Hair Dryer,1,"₹1,199",North,Credit Card
+ON00390,29 October 2024,CUST0006,APPAREL,Cotton T-Shirt,1,599,West,Cash on Delivery
+ON00391,07-02-2025,CUST0157,SPORTS & FITNESS,Resistance Bands Set,1,599.00,North,Credit Card
+ON00392,07/07/2024,CUST0100,Apparel,Formal Shirt,1,899.00,West,UPI
+ON00393,15 March 2024,CUST0051,  Home & Kitchen ,Electric Kettle,1,799,West,Credit Card
+ON00394,"Aug 28, 2024",CUST0100,  Electronics ,Power Bank 10000mAh,1,999,North,Debit Card
+ON00395,2024-06-05,CUST0220,sports & fitness,Skipping Rope,1,Rs.249,West,Credit Card
+ON00396,"Mar 22, 2025",CUST0348,  Home & Kitchen ,Non-Stick Pan Set,2,"1,299",South,Debit Card
+ON00397,21 April 2024,CUST0144,APPAREL,Denim Jacket,1,2199,North,Credit Card
+ON00398,20/01/2024,CUST0394,Sports & Fitness,Yoga Mat,1,799.00,East,Cash on Delivery
+ON00399,28-04-2025,CUST0396,APPAREL,Cotton T-Shirt,1,599.00,South,Cash on Delivery
+ON00400,07/01/2025,CUST0413,SPORTS & FITNESS,Yoga Mat,1,Rs.799,South,Cash on Delivery
+ON00401,29/05/2024,CUST0113,Beauty,Lip Care Kit,3,Rs.349,,Net Banking
+ON00402,"Jul 30, 2024",CUST0199,Sports & Fitness,Yoga Mat,3,,West,Net Banking
+ON00403,15 April 2024,CUST0380,SPORTS & FITNESS,Yoga Mat,1,₹799,West,Debit Card
+ON00404,20-03-2024,CUST0265,sports & fitness,Yoga Mat,1,₹799,South,Net Banking
+ON00405,2024-01-07,CUST0085,sports & fitness,Yoga Mat,2,Rs.799,East,Credit Card
+ON00406,"May 01, 2024",CUST0369,  Apparel ,Formal Shirt,1,899.00,West,UPI
+ON00407,24/02/2025,CUST0294,ELECTRONICS,Wireless Earbuds,1,1799,South,Cash on Delivery
+ON00408,30 May 2024,CUST0265,Electronics,Smartwatch,1,"3,499",South,Net Banking
+ON00409,09/08/2024,CUST0247,  Beauty ,Hair Dryer,1,1199.00,East,Credit Card
+ON00410,"Jul 05, 2024",CUST0086,Sports & Fitness,Dumbbell 5kg Pair,1,"₹1,599",West,Debit Card
+ON00411,2024-01-17,CUST0077,APPAREL,Running Shoes,1,2799.00,East,Cash on Delivery
+ON00412,28 June 2025,CUST0247,Sports & Fitness,Yoga Mat,2,₹799,North,Credit Card
+ON00413,"Jan 14, 2025",CUST0118,electronics,Smartwatch,1,3499.00,East,Net Banking
+ON00414,17 May 2024,CUST0043,  Home & Kitchen ,Non-Stick Pan Set,1,1299,South,Debit Card
+ON00415,08-01-2024,CUST0193,  Sports & Fitness ,Skipping Rope,1,Rs.249,North,Credit Card
+ON00416,16 September 2024,CUST0290,home & kitchen,Non-Stick Pan Set,2,"₹1,299",East,Debit Card
+ON00417,27 February 2025,CUST0092,  Sports & Fitness ,Resistance Bands Set,2,599,East,Debit Card
+ON00418,"Feb 11, 2025",CUST0383,APPAREL,Cotton T-Shirt,2,599.00,North,Credit Card
+ON00419,2024-12-12,CUST0083,Sports & Fitness,Resistance Bands Set,1,₹599,North,Net Banking
+ON00420,21 March 2025,CUST0190,Electronics,Bluetooth Speaker,1,"₹1,499",South,UPI
+ON00421,"Jun 17, 2025",CUST0397,  Home & Kitchen ,Electric Kettle,2,,North,Credit Card
+ON00422,2025-06-14,CUST0315,home & kitchen,Electric Kettle,1,799,South,Credit Card
+ON00423,"Mar 29, 2024",CUST0343,HOME & KITCHEN,Non-Stick Pan Set,2,1299,West,Net Banking
+ON00424,18/10/2024,CUST0178,SPORTS & FITNESS,Resistance Bands Set,3,₹599,West,Debit Card
+ON00425,24 September 2024,CUST0287,apparel,Denim Jacket,1,2199,North,UPI
+ON00426,"Sep 20, 2024",CUST0356,  Sports & Fitness ,Resistance Bands Set,2,599,West,Net Banking
+ON00427,14-04-2025,CUST0247,Beauty,Hair Dryer,2,Rs.1199,North,UPI
+ON00428,2024-08-23,CUST0265,home & kitchen,LED Desk Lamp,1,649,West,Cash on Delivery
+ON00429,16-12-2024,CUST0244,ELECTRONICS,Bluetooth Speaker,1,"1,499",South,Debit Card
+ON00430,13-07-2024,CUST0377,BEAUTY,Lip Care Kit,2,Rs.349,South,Credit Card
+ON00431,30 December 2024,CUST0041,Apparel,Cotton T-Shirt,2,599.00,North,Net Banking
+ON00432,"May 08, 2025",CUST0295,HOME & KITCHEN,Storage Organizer,1,449.00,East,Debit Card
+ON00433,2024-08-15,CUST0245,sports & fitness,Skipping Rope,1,Rs.249,East,Cash on Delivery
+ON00434,"May 03, 2024",CUST0007,Sports & Fitness,Yoga Mat,1,799.00,North,Credit Card
+ON00435,10-07-2024,CUST0242,sports & fitness,Resistance Bands Set,1,₹599,West,Cash on Delivery
+ON00436,16 January 2025,CUST0231,HOME & KITCHEN,Storage Organizer,2,Rs.449,West,Credit Card
+ON00437,03/10/2024,CUST0101,  Apparel ,Formal Shirt,1,Rs.899,East,Credit Card
+ON00438,17-05-2024,CUST0403,sports & fitness,Yoga Mat,1,799.00,,Net Banking
+ON00439,"Apr 11, 2024",CUST0244,apparel,Denim Jacket,1,"2,199",West,UPI
+ON00440,20/09/2024,CUST0180,HOME & KITCHEN,Storage Organizer,1,449,North,Cash on Delivery
+ON00441,06 June 2025,CUST0041,beauty,Lip Care Kit,2,Rs.349,East,Net Banking
+ON00442,11/12/2024,CUST0037,beauty,Sunscreen SPF50,1,449,East,UPI
+ON00443,30 September 2024,CUST0228,  Sports & Fitness ,Dumbbell 5kg Pair,1,Rs.1599,West,Debit Card
+ON00444,"May 08, 2024",CUST0108,Apparel,Formal Shirt,1,₹899,North,Credit Card
+ON00445,27 January 2024,CUST0054,BEAUTY,Face Serum,1,₹699,North,Debit Card
+ON00446,10/09/2024,CUST0068,Home & Kitchen,Electric Kettle,1,,South,Cash on Delivery
+ON00447,29/11/2024,CUST0281,BEAUTY,Lip Care Kit,1,₹349,West,Net Banking
+ON00448,21 March 2025,CUST0178,SPORTS & FITNESS,Yoga Mat,1,₹799,West,Net Banking
+ON00449,26/02/2025,CUST0001,home & kitchen,Non-Stick Pan Set,1,1299.00,,Cash on Delivery
+ON00450,18 May 2025,CUST0409,BEAUTY,Lip Care Kit,1,349.00,East,Debit Card
+ON00451,"Feb 25, 2025",CUST0084,SPORTS & FITNESS,Resistance Bands Set,1,₹599,South,Net Banking
+ON00452,13-06-2025,CUST0146,  Sports & Fitness ,Dumbbell 5kg Pair,2,1599,West,Cash on Delivery
+ON00453,"Oct 23, 2024",CUST0140,ELECTRONICS,Power Bank 10000mAh,1,Rs.999,,Cash on Delivery
+ON00454,"Jan 23, 2024",CUST0138,Apparel,Denim Jacket,-1,Rs.2199,,Credit Card
+ON00455,2024-08-10,CUST0191,home & kitchen,LED Desk Lamp,1,Rs.649,East,Net Banking
+ON00456,"Feb 05, 2025",CUST0099,Electronics,Bluetooth Speaker,1,Rs.1499,South,Debit Card
+ON00457,2025-03-29,CUST0102,APPAREL,Formal Shirt,2,899,North,Net Banking
+ON00458,11-06-2024,CUST0130,ELECTRONICS,Smartwatch,2,3499,North,Net Banking
+ON00459,11/08/2024,CUST0167,electronics,Power Bank 10000mAh,1,₹999,East,UPI
+ON00460,10/01/2024,CUST0353,electronics,Smartwatch,1,Rs.3499,East,Cash on Delivery
+ON00461,03/04/2024,CUST0031,Sports & Fitness,Dumbbell 5kg Pair,1,Rs.1599,North,Debit Card
+ON00462,21-12-2024,CUST0353,BEAUTY,Hair Dryer,2,1199,North,Net Banking
+ON00463,24/03/2025,CUST0098,sports & fitness,Resistance Bands Set,1,₹599,East,Cash on Delivery
+ON00464,13 June 2024,CUST0152,electronics,Bluetooth Speaker,1,1499.00,East,Debit Card
+ON00465,08/07/2024,CUST0398,electronics,Wireless Earbuds,1,1799.00,West,Cash on Delivery
+ON00466,13-07-2024,CUST0314,  Sports & Fitness ,Yoga Mat,1,799,South,Debit Card
+ON00467,09/03/2024,CUST0092,Electronics,Smartwatch,2,3499,,UPI
+ON00468,01/02/2025,CUST0026,Beauty,Lip Care Kit,1,,West,Debit Card
+ON00469,"May 18, 2025",CUST0185,electronics,Bluetooth Speaker,1,1499,North,Cash on Delivery
+ON00470,29/09/2024,CUST0156,Sports & Fitness,Yoga Mat,1,Rs.799,North,UPI
+ON00471,13 July 2024,CUST0292,  Apparel ,Running Shoes,1,2799.00,South,Credit Card
+ON00472,14 April 2025,CUST0406,  Beauty ,Sunscreen SPF50,2,Rs.449,South,Credit Card
+ON00473,"Mar 29, 2025",CUST0191,home & kitchen,Storage Organizer,3,449.00,West,Net Banking
+ON00474,"Jan 19, 2025",CUST0185,  Sports & Fitness ,Resistance Bands Set,3,,,Net Banking
+ON00475,18-10-2024,CUST0155,SPORTS & FITNESS,Dumbbell 5kg Pair,1,"1,599",,UPI
+ON00476,"Oct 09, 2024",CUST0049,sports & fitness,Resistance Bands Set,1,599,South,UPI
+ON00477,"Sep 12, 2024",CUST0048,APPAREL,Formal Shirt,1,899,West,Cash on Delivery
+ON00478,2024-06-26,CUST0305,  Beauty ,Lip Care Kit,2,349,North,Debit Card
+ON00479,08/12/2024,CUST0214,Home & Kitchen,Storage Organizer,2,₹449,East,UPI
+ON00480,20/06/2025,CUST0168,ELECTRONICS,Smartwatch,1,"₹3,499",South,Cash on Delivery
+ON00481,31/05/2025,CUST0403,ELECTRONICS,Bluetooth Speaker,1,"₹1,499",West,Net Banking
+ON00482,"Feb 20, 2024",CUST0205,SPORTS & FITNESS,Resistance Bands Set,1,₹599,North,Cash on Delivery
+ON00483,14 May 2025,CUST0288,BEAUTY,Face Serum,1,699,South,Cash on Delivery
+ON00484,27-11-2024,CUST0217,SPORTS & FITNESS,Skipping Rope,1,249.00,East,Debit Card
+ON00485,"Nov 08, 2024",CUST0320,Apparel,Denim Jacket,-1,Rs.2199,East,Credit Card
+ON00486,17/01/2025,CUST0058,APPAREL,Cotton T-Shirt,2,599,,UPI
+ON00487,23 April 2024,CUST0170,HOME & KITCHEN,Electric Kettle,1,799.00,North,Credit Card
+ON00488,"May 09, 2025",CUST0356,Sports & Fitness,Dumbbell 5kg Pair,2,1599,South,UPI
+ON00489,04-10-2024,CUST0035,electronics,Smartwatch,1,3499,North,Net Banking
+ON00490,30 January 2025,CUST0162,Apparel,Formal Shirt,-1,899.00,North,Net Banking
+ON00491,"Jan 23, 2024",CUST0171,ELECTRONICS,Smartwatch,1,,West,Net Banking
+ON00492,29-12-2024,CUST0416,  Home & Kitchen ,Electric Kettle,1,799,West,UPI
+ON00493,2024-10-13,CUST0337,  Apparel ,Formal Shirt,1,899.00,East,Credit Card
+ON00494,20 August 2024,CUST0219,beauty,Sunscreen SPF50,1,Rs.449,South,Debit Card
+ON00495,21 May 2024,CUST0071,SPORTS & FITNESS,Skipping Rope,1,Rs.249,South,Debit Card
+ON00496,10/06/2024,CUST0095,Home & Kitchen,LED Desk Lamp,1,₹649,North,Debit Card
+ON00497,2024-11-06,CUST0078,BEAUTY,Hair Dryer,2,1199.00,West,Credit Card
+ON00498,"Aug 24, 2024",CUST0184,SPORTS & FITNESS,Dumbbell 5kg Pair,1,1599.00,North,UPI
+ON00499,17/01/2025,CUST0243,APPAREL,Denim Jacket,2,"₹2,199",East,Credit Card
+ON00500,16/01/2024,CUST0381,Home & Kitchen,Non-Stick Pan Set,3,"₹1,299",South,Credit Card
+ON00501,2025-05-16,CUST0219,  Home & Kitchen ,LED Desk Lamp,2,₹649,South,Net Banking
+ON00502,21/06/2025,CUST0234,  Electronics ,Smartwatch,1,3499,East,UPI
+ON00503,12-06-2025,CUST0204,  Electronics ,Smartwatch,1,"3,499",East,Debit Card
+ON00504,2024-02-25,CUST0331,Sports & Fitness,Yoga Mat,3,799.00,East,Net Banking
+ON00505,"May 18, 2024",CUST0013,BEAUTY,Face Serum,1,699,East,Credit Card
+ON00506,2024-06-16,CUST0325,  Electronics ,Power Bank 10000mAh,1,999.00,East,Debit Card
+ON00507,12-06-2024,CUST0394,BEAUTY,Face Serum,1,Rs.699,North,Credit Card
+ON00508,2024-02-22,CUST0148,BEAUTY,Sunscreen SPF50,1,449,East,Credit Card
+ON00509,16 September 2024,CUST0279,  Electronics ,Wireless Earbuds,1,1799.00,East,UPI
+ON00510,09-04-2025,CUST0126,BEAUTY,Sunscreen SPF50,1,Rs.449,North,Cash on Delivery
+ON00511,23 December 2024,CUST0342,electronics,Smartwatch,1,3499,,Cash on Delivery
+ON00512,02 March 2025,CUST0313,APPAREL,Denim Jacket,1,2199.00,West,Cash on Delivery
+ON00513,2024-02-06,CUST0189,  Electronics ,Bluetooth Speaker,2,1499,West,Net Banking
+ON00514,"May 17, 2024",CUST0169,ELECTRONICS,Power Bank 10000mAh,1,999.00,West,Cash on Delivery
+ON00515,25-06-2025,CUST0219,electronics,Bluetooth Speaker,1,1499.00,West,Cash on Delivery
+ON00516,12 May 2024,CUST0253,SPORTS & FITNESS,Dumbbell 5kg Pair,1,Rs.1599,,Credit Card
+ON00517,25 January 2024,CUST0378,  Beauty ,Hair Dryer,1,"1,199",North,Credit Card
+ON00518,05-08-2024,CUST0131,electronics,Wireless Earbuds,1,"1,799",West,UPI
+ON00519,26-04-2024,CUST0090,home & kitchen,LED Desk Lamp,1,₹649,North,Credit Card
+ON00520,"Feb 06, 2024",CUST0275,  Apparel ,Cotton T-Shirt,1,599,East,Debit Card
+ON00521,2024-11-02,CUST0285,SPORTS & FITNESS,Skipping Rope,2,249,West,Cash on Delivery
+ON00522,"Dec 28, 2024",CUST0016,ELECTRONICS,Bluetooth Speaker,3,"₹1,499",West,Debit Card
+ON00523,29-04-2024,CUST0364,  Home & Kitchen ,Electric Kettle,2,Rs.799,West,UPI
+ON00524,2024-11-05,CUST0058,APPAREL,Running Shoes,1,"₹2,799",South,Debit Card
+ON00525,09-05-2025,CUST0248,sports & fitness,Yoga Mat,1,799,West,Cash on Delivery
+ON00526,12 June 2025,CUST0236,Apparel,Cotton T-Shirt,1,,North,Net Banking
+ON00527,30-03-2024,CUST0053,Home & Kitchen,LED Desk Lamp,1,649,North,Cash on Delivery
+ON00528,02-08-2024,CUST0142,  Home & Kitchen ,LED Desk Lamp,1,649,West,Cash on Delivery
+ON00529,07-10-2024,CUST0106,electronics,Power Bank 10000mAh,1,999,North,Cash on Delivery
+ON00530,2024-06-24,CUST0277,ELECTRONICS,Bluetooth Speaker,1,,West,Net Banking
+ON00531,21/02/2024,CUST0219,  Electronics ,Power Bank 10000mAh,1,999,North,Net Banking
+ON00532,2024-07-21,CUST0291,  Sports & Fitness ,Resistance Bands Set,1,599,East,Credit Card
+ON00533,21-04-2025,CUST0074,beauty,Lip Care Kit,1,349,South,Cash on Delivery
+ON00534,28-11-2024,CUST0244,  Beauty ,Hair Dryer,1,Rs.1199,North,UPI
+ON00535,22-12-2024,CUST0208,Sports & Fitness,Dumbbell 5kg Pair,1,1599.00,North,UPI
+ON00536,2025-02-27,CUST0247,apparel,Formal Shirt,1,899.00,South,Net Banking
+ON00537,21 March 2025,CUST0089,  Sports & Fitness ,Skipping Rope,2,249.00,South,UPI
+ON00538,2024-04-09,CUST0036,  Beauty ,Hair Dryer,1,1199,East,Cash on Delivery
+ON00539,22/05/2024,CUST0388,  Sports & Fitness ,Skipping Rope,3,₹249,North,Credit Card
+ON00540,02-04-2025,CUST0154,  Apparel ,Running Shoes,1,"2,799",West,Cash on Delivery
+ON00541,2024-01-09,CUST0066,sports & fitness,Dumbbell 5kg Pair,-1,1599,,Debit Card
+ON00542,02 January 2025,CUST0121,  Electronics ,Power Bank 10000mAh,2,₹999,North,Net Banking
+ON00543,21/03/2025,CUST0244,  Sports & Fitness ,Resistance Bands Set,1,599,South,Credit Card
+ON00544,2024-06-06,CUST0069,Home & Kitchen,Electric Kettle,-1,₹799,South,UPI
+ON00545,"May 19, 2024",CUST0234,ELECTRONICS,Bluetooth Speaker,1,"₹1,499",East,Cash on Delivery
+ON00546,2025-04-05,CUST0218,  Beauty ,Face Serum,1,Rs.699,South,Cash on Delivery
+ON00547,02 October 2024,CUST0018,  Beauty ,Sunscreen SPF50,3,449,West,UPI
+ON00548,2024-03-22,CUST0239,Apparel,Cotton T-Shirt,2,599,West,Cash on Delivery
+ON00549,"Nov 15, 2024",CUST0274,  Sports & Fitness ,Dumbbell 5kg Pair,1,"₹1,599",West,UPI
+ON00550,2024-12-05,CUST0149,beauty,Sunscreen SPF50,1,449.00,West,Credit Card
+ON00551,29 April 2025,CUST0337,Sports & Fitness,Skipping Rope,1,249,North,Debit Card
+ON00552,2024-03-19,CUST0141,Home & Kitchen,Non-Stick Pan Set,1,1299.00,West,Debit Card
+ON00553,"Apr 02, 2025",CUST0401,HOME & KITCHEN,Storage Organizer,2,449,West,Credit Card
+ON00554,"Mar 27, 2024",CUST0254,APPAREL,Cotton T-Shirt,1,Rs.599,South,Net Banking
+ON00555,"Dec 19, 2024",CUST0027,  Electronics ,Smartwatch,1,"₹3,499",North,Credit Card
+ON00556,29/06/2025,CUST0243,  Apparel ,Formal Shirt,1,,East,Debit Card
+ON00557,04-04-2025,CUST0050,  Beauty ,Face Serum,1,699,North,Cash on Delivery
+ON00558,30 September 2024,CUST0237,ELECTRONICS,Power Bank 10000mAh,1,Rs.999,East,Credit Card
+ON00559,11 January 2024,CUST0211,Electronics,Wireless Earbuds,2,"1,799",North,UPI
+ON00560,2024-10-17,CUST0318,HOME & KITCHEN,Non-Stick Pan Set,1,1299,North,UPI
+ON00561,02/05/2024,CUST0193,Electronics,Bluetooth Speaker,2,"1,499",South,Cash on Delivery
+ON00562,18-03-2024,CUST0394,beauty,Hair Dryer,3,1199,West,Net Banking
+ON00563,04/03/2024,CUST0133,  Beauty ,Face Serum,1,Rs.699,North,Debit Card
+ON00564,2024-07-01,CUST0112,  Beauty ,Lip Care Kit,1,349,,Cash on Delivery
+ON00565,13/03/2024,CUST0010,Sports & Fitness,Skipping Rope,2,₹249,East,Net Banking
+ON00566,"Dec 03, 2024",CUST0245,Beauty,Face Serum,1,699,East,Net Banking
+ON00567,"May 08, 2025",CUST0171,Electronics,Power Bank 10000mAh,1,999,West,Debit Card
+ON00568,14/12/2024,CUST0332,Electronics,Bluetooth Speaker,2,Rs.1499,West,Credit Card
+ON00569,"Feb 03, 2025",CUST0250,ELECTRONICS,Power Bank 10000mAh,1,Rs.999,,UPI
+ON00570,"Sep 01, 2024",CUST0256,Beauty,Lip Care Kit,1,,West,Cash on Delivery
+ON00571,13/02/2024,CUST0348,BEAUTY,Face Serum,1,699,East,Cash on Delivery
+ON00572,2025-05-15,CUST0125,ELECTRONICS,Wireless Earbuds,1,"1,799",North,Credit Card
+ON00573,2024-04-09,CUST0419,  Beauty ,Hair Dryer,1,1199.00,North,UPI
+ON00574,26 July 2024,CUST0167,BEAUTY,Sunscreen SPF50,1,Rs.449,East,UPI
+ON00575,26/06/2024,CUST0073,home & kitchen,LED Desk Lamp,1,₹649,West,Net Banking
+ON00576,2024-02-11,CUST0399,  Apparel ,Cotton T-Shirt,1,599,East,Credit Card
+ON00577,01/04/2024,CUST0356,SPORTS & FITNESS,Skipping Rope,2,249,East,Net Banking
+ON00578,"Feb 25, 2025",CUST0306,Apparel,Formal Shirt,3,899,North,Credit Card
+ON00579,05 January 2024,CUST0272,sports & fitness,Resistance Bands Set,1,599.00,North,UPI
+ON00580,"Apr 20, 2025",CUST0058,  Apparel ,Running Shoes,1,2799,South,Credit Card
+ON00581,"Jan 07, 2025",CUST0172,Home & Kitchen,Electric Kettle,1,799,West,Cash on Delivery
+ON00582,2024-06-29,CUST0264,APPAREL,Denim Jacket,2,2199.00,East,UPI
+ON00583,05-03-2025,CUST0118,APPAREL,Running Shoes,2,"₹2,799",West,UPI
+ON00584,19/01/2025,CUST0028,APPAREL,Formal Shirt,1,₹899,East,Net Banking
+ON00585,17-01-2025,CUST0324,APPAREL,Cotton T-Shirt,1,599,South,Debit Card
+ON00586,02/03/2024,CUST0235,home & kitchen,Non-Stick Pan Set,1,"1,299",East,Net Banking
+ON00587,23 June 2024,CUST0045,  Sports & Fitness ,Skipping Rope,-1,Rs.249,South,Net Banking
+ON00588,18/04/2025,CUST0377,home & kitchen,Non-Stick Pan Set,1,Rs.1299,East,Credit Card
+ON00589,"Jun 01, 2024",CUST0023,Sports & Fitness,Skipping Rope,2,₹249,East,UPI
+ON00590,"Apr 10, 2024",CUST0286,BEAUTY,Hair Dryer,1,"1,199",North,UPI
+ON00591,02 April 2024,CUST0083,Electronics,Wireless Earbuds,1,"₹1,799",West,Net Banking
+ON00592,2025-02-19,CUST0321,Apparel,Denim Jacket,2,"2,199",West,Net Banking
+ON00593,30 October 2024,CUST0404,beauty,Sunscreen SPF50,2,449,South,UPI
+ON00594,2025-01-07,CUST0239,electronics,Smartwatch,1,3499.00,West,Cash on Delivery
+ON00595,"Jul 28, 2024",CUST0277,APPAREL,Cotton T-Shirt,-1,Rs.599,South,UPI
+ON00596,30-09-2024,CUST0028,sports & fitness,Yoga Mat,1,799.00,West,UPI
+ON00597,05-05-2024,CUST0232,Beauty,Lip Care Kit,2,₹349,West,Cash on Delivery
+ON00598,04-02-2025,CUST0056,Apparel,Denim Jacket,1,"₹2,199",North,Credit Card
+ON00599,28 July 2024,CUST0151,SPORTS & FITNESS,Yoga Mat,3,₹799,North,Net Banking
+ON00600,22 January 2024,CUST0411,home & kitchen,Electric Kettle,1,799,North,Credit Card
+ON00601,30 November 2024,CUST0235,BEAUTY,Lip Care Kit,1,349,East,Debit Card
+ON00602,23/09/2024,CUST0395,apparel,Formal Shirt,1,Rs.899,West,UPI
+ON00603,13/06/2024,CUST0363,SPORTS & FITNESS,Resistance Bands Set,1,599,South,Credit Card
+ON00604,27-03-2025,CUST0288,home & kitchen,Non-Stick Pan Set,1,"₹1,299",South,UPI
+ON00605,15/06/2024,CUST0208,  Sports & Fitness ,Resistance Bands Set,1,Rs.599,,Net Banking
+ON00606,03 June 2025,CUST0243,HOME & KITCHEN,LED Desk Lamp,1,₹649,West,Debit Card
+ON00607,2024-04-25,CUST0348,beauty,Lip Care Kit,3,,South,Cash on Delivery
+ON00608,13/08/2024,CUST0029,BEAUTY,Hair Dryer,1,"1,199",West,Cash on Delivery
+ON00609,26/03/2024,CUST0263,  Sports & Fitness ,Resistance Bands Set,2,599.00,North,Net Banking
+ON00610,27-02-2024,CUST0190,Home & Kitchen,Storage Organizer,1,449,East,Net Banking
+ON00611,"Apr 01, 2025",CUST0380,sports & fitness,Resistance Bands Set,1,₹599,East,Net Banking
+ON00612,28-02-2025,CUST0074,  Apparel ,Cotton T-Shirt,2,599.00,North,Credit Card
+ON00613,08-03-2024,CUST0004,  Sports & Fitness ,Skipping Rope,2,₹249,North,Net Banking
+ON00614,"May 20, 2024",CUST0149,Apparel,Running Shoes,1,"2,799",East,Cash on Delivery
+ON00615,2024-11-07,CUST0115,BEAUTY,Lip Care Kit,1,₹349,East,UPI
+ON00616,21-10-2024,CUST0015,  Beauty ,Sunscreen SPF50,1,449,South,UPI
+ON00617,2025-01-05,CUST0133,sports & fitness,Skipping Rope,1,249.00,,Net Banking
+ON00618,22/09/2024,CUST0164,apparel,Denim Jacket,1,"2,199",South,Net Banking
+ON00619,30/12/2024,CUST0264,Electronics,Smartwatch,1,Rs.3499,North,Credit Card
+ON00620,19 November 2024,CUST0050,home & kitchen,Electric Kettle,1,799,West,Cash on Delivery
+ON00621,2024-10-15,CUST0175,HOME & KITCHEN,Storage Organizer,2,Rs.449,East,Credit Card
+ON00622,2025-06-22,CUST0214,Sports & Fitness,Resistance Bands Set,2,599,North,Net Banking
+ON00623,15-11-2024,CUST0306,HOME & KITCHEN,Storage Organizer,1,449,East,Cash on Delivery
+ON00624,01-05-2024,CUST0353,APPAREL,Formal Shirt,1,899,South,Credit Card
+ON00625,2024-04-24,CUST0388,ELECTRONICS,Bluetooth Speaker,1,1499.00,East,Net Banking
+ON00626,2025-04-25,CUST0034,Electronics,Power Bank 10000mAh,3,999.00,North,Debit Card
+ON00627,23-07-2024,CUST0047,apparel,Denim Jacket,1,2199.00,North,Credit Card
+ON00628,2024-09-04,CUST0420,SPORTS & FITNESS,Yoga Mat,1,799,North,Cash on Delivery
+ON00629,05/01/2024,CUST0188,  Electronics ,Power Bank 10000mAh,3,999,East,Cash on Delivery
+ON00630,29-12-2024,CUST0209,Beauty,Face Serum,1,699.00,South,UPI
+ON00631,"Jan 04, 2025",CUST0043,Home & Kitchen,Electric Kettle,1,₹799,North,Debit Card
+ON00632,15/11/2024,CUST0149,Beauty,Hair Dryer,1,"₹1,199",East,Net Banking
+ON00633,"Jan 11, 2025",CUST0345,  Apparel ,Denim Jacket,1,2199,East,UPI
+ON00634,2025-02-08,CUST0380,beauty,Face Serum,1,699,North,Credit Card
+ON00635,17-02-2025,CUST0372,electronics,Power Bank 10000mAh,1,₹999,East,Net Banking
+ON00636,2025-02-18,CUST0394,Beauty,Lip Care Kit,1,₹349,South,Net Banking
+ON00637,2024-05-17,CUST0035,ELECTRONICS,Wireless Earbuds,1,"1,799",North,Net Banking
+ON00638,08/04/2024,CUST0406,electronics,Bluetooth Speaker,1,"₹1,499",East,Net Banking
+ON00639,"Dec 17, 2024",CUST0221,  Sports & Fitness ,Resistance Bands Set,1,₹599,North,UPI
+ON00640,"Feb 06, 2024",CUST0362,  Electronics ,Smartwatch,1,"₹3,499",West,Credit Card
+ON00641,22/04/2024,CUST0244,Sports & Fitness,Skipping Rope,1,₹249,East,Cash on Delivery
+ON00642,2025-01-21,CUST0165,Sports & Fitness,Dumbbell 5kg Pair,1,"1,599",West,UPI
+ON00643,"Jan 28, 2024",CUST0177,home & kitchen,LED Desk Lamp,1,Rs.649,East,Debit Card
+ON00644,15-11-2024,CUST0157,SPORTS & FITNESS,Skipping Rope,1,,North,UPI
+ON00645,"Apr 16, 2025",CUST0137,Beauty,Sunscreen SPF50,1,₹449,East,UPI
+ON00646,26-11-2024,CUST0052,  Sports & Fitness ,Skipping Rope,1,249,East,Credit Card
+ON00647,02 November 2024,CUST0255,HOME & KITCHEN,Storage Organizer,3,449,South,UPI
+ON00648,2025-02-15,CUST0368,apparel,Formal Shirt,1,899.00,North,Cash on Delivery
+ON00649,01 May 2025,CUST0334,beauty,Sunscreen SPF50,1,449.00,North,Debit Card
+ON00650,28/02/2025,CUST0344,Beauty,Face Serum,1,699.00,East,Cash on Delivery
+ON00651,26 May 2025,CUST0138,  Apparel ,Running Shoes,1,2799,East,Cash on Delivery
+ON00652,"Jan 08, 2025",CUST0383,  Beauty ,Hair Dryer,1,1199,South,Debit Card
+ON00653,26/02/2025,CUST0132,  Home & Kitchen ,Non-Stick Pan Set,2,Rs.1299,South,Cash on Delivery
+ON00654,08/09/2024,CUST0217,HOME & KITCHEN,Electric Kettle,1,799,East,UPI
+ON00655,2024-10-11,CUST0370,Sports & Fitness,Resistance Bands Set,1,599,North,Net Banking
+ON00656,"Nov 01, 2024",CUST0187,ELECTRONICS,Bluetooth Speaker,3,1499.00,East,UPI
+ON00657,03/05/2024,CUST0255,Sports & Fitness,Yoga Mat,1,799,West,UPI
+ON00658,03/02/2025,CUST0074,APPAREL,Formal Shirt,3,₹899,South,UPI
+ON00659,"Feb 27, 2024",CUST0163,  Beauty ,Lip Care Kit,1,349,North,Cash on Delivery
+ON00660,28 May 2024,CUST0158,Home & Kitchen,Storage Organizer,1,449,West,UPI
+ON00661,2024-09-02,CUST0328,HOME & KITCHEN,Non-Stick Pan Set,1,"₹1,299",,Debit Card
+ON00662,06/02/2025,CUST0153,  Home & Kitchen ,Non-Stick Pan Set,1,"₹1,299",South,Credit Card
+ON00663,07-10-2024,CUST0242,  Electronics ,Bluetooth Speaker,2,1499,East,Net Banking
+ON00664,24-09-2024,CUST0309,  Sports & Fitness ,Yoga Mat,1,799,East,Cash on Delivery
+ON00665,07/07/2024,CUST0002,beauty,Hair Dryer,2,1199,South,Net Banking
+ON00666,12-09-2024,CUST0305,  Sports & Fitness ,Yoga Mat,2,Rs.799,South,Net Banking
+ON00667,"Dec 01, 2024",CUST0189,  Home & Kitchen ,Electric Kettle,1,799.00,East,Credit Card
+ON00668,24/01/2024,CUST0046,sports & fitness,Resistance Bands Set,1,Rs.599,,Net Banking
+ON00669,15 March 2025,CUST0189,Sports & Fitness,Dumbbell 5kg Pair,1,,North,Credit Card
+ON00670,09-04-2025,CUST0098,  Beauty ,Lip Care Kit,1,₹349,South,Debit Card
+ON00671,"Aug 08, 2024",CUST0215,HOME & KITCHEN,Electric Kettle,2,,South,Credit Card
+ON00672,"Aug 29, 2024",CUST0190,Sports & Fitness,Dumbbell 5kg Pair,1,,South,Cash on Delivery
+ON00673,27 November 2024,CUST0363,beauty,Face Serum,1,699.00,East,Net Banking
+ON00674,2024-12-06,CUST0311,Apparel,Formal Shirt,1,899.00,West,Cash on Delivery
+ON00675,08-02-2025,CUST0298,HOME & KITCHEN,Storage Organizer,1,449,North,Credit Card
+ON00676,2024-05-15,CUST0073,electronics,Bluetooth Speaker,1,Rs.1499,East,Debit Card
+ON00677,14-10-2024,CUST0135,home & kitchen,Storage Organizer,3,Rs.449,West,Cash on Delivery
+ON00678,18/05/2025,CUST0028,Apparel,Cotton T-Shirt,1,599,East,Credit Card
+ON00679,16-06-2024,CUST0021,  Beauty ,Hair Dryer,1,1199,East,Net Banking
+ON00680,31/05/2024,CUST0146,electronics,Power Bank 10000mAh,1,999.00,South,Credit Card
+ON00681,05/01/2024,CUST0214,  Sports & Fitness ,Yoga Mat,2,799,,UPI
+ON00682,2024-05-04,CUST0166,Beauty,Face Serum,1,₹699,North,Credit Card
+ON00683,"Oct 02, 2024",CUST0023,sports & fitness,Dumbbell 5kg Pair,1,1599.00,West,Cash on Delivery
+ON00684,19 February 2024,CUST0381,  Home & Kitchen ,Electric Kettle,1,799,North,UPI
+ON00685,"Feb 12, 2025",CUST0084,electronics,Bluetooth Speaker,1,Rs.1499,South,Net Banking
+ON00686,17/05/2025,CUST0351,beauty,Sunscreen SPF50,2,449,West,Cash on Delivery
+ON00687,16 May 2025,CUST0138,  Beauty ,Hair Dryer,2,"₹1,199",East,Cash on Delivery
+ON00688,09-07-2024,CUST0021,  Beauty ,Sunscreen SPF50,1,Rs.449,North,Cash on Delivery
+ON00689,"Jun 23, 2025",CUST0224,sports & fitness,Yoga Mat,1,Rs.799,East,UPI
+ON00690,03 November 2024,CUST0292,Apparel,Formal Shirt,1,899.00,West,UPI
+ON00691,11 March 2025,CUST0182,Beauty,Sunscreen SPF50,1,449,West,Debit Card
+ON00692,"Apr 18, 2025",CUST0024,apparel,Denim Jacket,2,"₹2,199",East,UPI
+ON00693,05/04/2025,CUST0415,SPORTS & FITNESS,Dumbbell 5kg Pair,2,1599.00,West,Credit Card
+ON00694,2024-04-18,CUST0203,BEAUTY,Sunscreen SPF50,1,₹449,North,UPI
+ON00695,13-05-2025,CUST0354,Home & Kitchen,Electric Kettle,1,799,West,Net Banking
+ON00696,17/01/2024,CUST0247,  Apparel ,Running Shoes,2,2799.00,South,Credit Card
+ON00697,04/11/2024,CUST0012,BEAUTY,Hair Dryer,1,"₹1,199",East,UPI
+ON00698,27 April 2025,CUST0104,  Electronics ,Wireless Earbuds,2,1799,South,Debit Card
+ON00699,"Mar 18, 2025",CUST0019,  Beauty ,Sunscreen SPF50,2,449.00,West,Net Banking
+ON00700,14-05-2025,CUST0217,Apparel,Formal Shirt,2,₹899,North,Cash on Delivery
+ON00701,2024-04-29,CUST0230,BEAUTY,Lip Care Kit,1,Rs.349,West,Net Banking
+ON00702,24/03/2025,CUST0309,apparel,Formal Shirt,1,₹899,West,Net Banking
+ON00703,03-01-2025,CUST0319,Beauty,Lip Care Kit,2,Rs.349,South,Credit Card
+ON00704,09/06/2024,CUST0253,SPORTS & FITNESS,Dumbbell 5kg Pair,1,1599,East,Debit Card
+ON00705,2024-09-24,CUST0258,home & kitchen,Storage Organizer,1,449.00,South,UPI
+ON00706,2024-08-17,CUST0402,beauty,Lip Care Kit,1,349.00,West,Debit Card
+ON00707,2024-04-16,CUST0410,Electronics,Smartwatch,3,3499.00,East,Net Banking
+ON00708,14/04/2024,CUST0086,sports & fitness,Resistance Bands Set,1,599,North,UPI
+ON00709,02-06-2025,CUST0079,BEAUTY,Lip Care Kit,2,Rs.349,North,Debit Card
+ON00710,01 March 2025,CUST0175,ELECTRONICS,Wireless Earbuds,1,"1,799",East,Debit Card
+ON00711,"Feb 28, 2025",CUST0078,HOME & KITCHEN,Storage Organizer,1,₹449,South,Cash on Delivery
+ON00712,23/02/2025,CUST0016,Beauty,Hair Dryer,3,1199.00,West,Net Banking
+ON00713,"Mar 27, 2024",CUST0223,Home & Kitchen,LED Desk Lamp,1,Rs.649,South,UPI
+ON00714,29-02-2024,CUST0206,sports & fitness,Yoga Mat,-1,799,East,Cash on Delivery
+ON00715,24 June 2025,CUST0229,  Sports & Fitness ,Dumbbell 5kg Pair,3,"₹1,599",East,Credit Card
+ON00716,04 November 2024,CUST0200,electronics,Bluetooth Speaker,1,1499.00,West,Credit Card
+ON00717,17 June 2025,CUST0012,home & kitchen,LED Desk Lamp,2,649,South,UPI
+ON00718,01-06-2025,CUST0133,Electronics,Power Bank 10000mAh,2,999,West,Cash on Delivery
+ON00719,06 January 2024,CUST0413,BEAUTY,Hair Dryer,1,"1,199",South,Cash on Delivery
+ON00720,23 May 2024,CUST0054,BEAUTY,Face Serum,1,699,South,Debit Card
+ON00721,"May 30, 2024",CUST0048,BEAUTY,Sunscreen SPF50,2,₹449,North,UPI
+ON00722,"Jun 22, 2025",CUST0136,  Beauty ,Face Serum,1,₹699,East,Cash on Delivery
+ON00723,02/03/2025,CUST0249,Apparel,Denim Jacket,1,"₹2,199",South,Net Banking
+ON00724,2024-06-09,CUST0309,Sports & Fitness,Resistance Bands Set,1,599,,Net Banking
+ON00725,"Jun 05, 2024",CUST0156,Electronics,Power Bank 10000mAh,1,Rs.999,West,Debit Card
+ON00726,07/03/2025,CUST0146,  Electronics ,Smartwatch,3,,West,Credit Card
+ON00727,10-03-2024,CUST0290,  Electronics ,Smartwatch,1,3499.00,West,Net Banking
+ON00728,21/05/2024,CUST0342,sports & fitness,Yoga Mat,1,799.00,East,Net Banking
+ON00729,2025-02-23,CUST0174,  Beauty ,Face Serum,1,699,East,Cash on Delivery
+ON00730,26 January 2024,CUST0288,Sports & Fitness,Skipping Rope,1,249.00,West,UPI
+ON00731,2024-02-24,CUST0258,SPORTS & FITNESS,Skipping Rope,1,249,East,UPI
+ON00732,2024-09-08,CUST0206,  Sports & Fitness ,Skipping Rope,1,249,West,Cash on Delivery
+ON00733,2024-07-03,CUST0196,Beauty,Sunscreen SPF50,1,449.00,West,Debit Card
+ON00734,"May 27, 2024",CUST0079,APPAREL,Denim Jacket,1,"2,199",North,Debit Card
+ON00735,29-02-2024,CUST0073,home & kitchen,Electric Kettle,1,799,West,Net Banking
+ON00736,"Sep 02, 2024",CUST0261,Sports & Fitness,Dumbbell 5kg Pair,1,"1,599",East,Cash on Delivery
+ON00737,2025-02-20,CUST0325,electronics,Bluetooth Speaker,1,1499.00,East,Credit Card
+ON00738,"Sep 09, 2024",CUST0156,  Sports & Fitness ,Resistance Bands Set,1,599.00,South,Cash on Delivery
+ON00739,25 May 2024,CUST0401,  Home & Kitchen ,Storage Organizer,1,449.00,South,Credit Card
+ON00740,2024-01-02,CUST0335,Beauty,Hair Dryer,3,"₹1,199",West,Credit Card
+ON00741,13-09-2024,CUST0300,Beauty,Face Serum,-1,699.00,South,Cash on Delivery
+ON00742,03-11-2024,CUST0072,  Electronics ,Bluetooth Speaker,1,1499.00,North,Cash on Delivery
+ON00743,21-11-2024,CUST0140,home & kitchen,LED Desk Lamp,1,649.00,East,Credit Card
+ON00744,"May 16, 2024",CUST0005,  Electronics ,Wireless Earbuds,1,1799.00,North,Credit Card
+ON00745,20-03-2024,CUST0345,  Sports & Fitness ,Resistance Bands Set,1,599,East,UPI
+ON00746,09/01/2024,CUST0228,Electronics,Power Bank 10000mAh,1,999,South,UPI
+ON00747,06-11-2024,CUST0186,  Apparel ,Formal Shirt,1,899.00,East,UPI
+ON00748,"Jul 19, 2024",CUST0292,BEAUTY,Face Serum,1,699.00,West,Cash on Delivery
+ON00749,28 June 2024,CUST0066,ELECTRONICS,Bluetooth Speaker,1,"1,499",North,Debit Card
+ON00750,2024-01-24,CUST0002,sports & fitness,Resistance Bands Set,1,₹599,East,Net Banking
+ON00751,2025-06-14,CUST0370,beauty,Hair Dryer,1,1199.00,North,Credit Card
+ON00752,06/01/2024,CUST0293,  Beauty ,Face Serum,1,Rs.699,North,UPI
+ON00753,"Dec 03, 2024",CUST0015,Home & Kitchen,Electric Kettle,1,799,North,Net Banking
+ON00754,10 September 2024,CUST0028,ELECTRONICS,Power Bank 10000mAh,1,999.00,West,Debit Card
+ON00755,"Apr 07, 2024",CUST0032,beauty,Hair Dryer,1,1199,North,UPI
+ON00756,2024-03-04,CUST0034,Beauty,Hair Dryer,1,"₹1,199",East,UPI
+ON00757,"Feb 24, 2025",CUST0233,  Apparel ,Formal Shirt,2,899.00,North,Net Banking
+ON00758,2024-01-27,CUST0056,Beauty,Hair Dryer,1,Rs.1199,South,UPI
+ON00759,"May 09, 2024",CUST0247,SPORTS & FITNESS,Yoga Mat,1,799,East,Cash on Delivery
+ON00760,15 November 2024,CUST0160,SPORTS & FITNESS,Skipping Rope,1,249,West,Cash on Delivery
+ON00761,25 October 2024,CUST0030,Home & Kitchen,Storage Organizer,-1,Rs.449,South,Credit Card
+ON00762,25 July 2024,CUST0356,electronics,Bluetooth Speaker,1,1499.00,East,Net Banking
+ON00763,"Nov 02, 2024",CUST0233,BEAUTY,Sunscreen SPF50,1,Rs.449,North,UPI
+ON00764,"Apr 22, 2025",CUST0377,SPORTS & FITNESS,Dumbbell 5kg Pair,1,1599,East,Debit Card
+ON00765,"Mar 16, 2024",CUST0073,HOME & KITCHEN,Storage Organizer,1,449,,Debit Card
+ON00766,31/01/2024,CUST0113,apparel,Running Shoes,1,Rs.2799,South,Debit Card
+ON00767,"Jan 23, 2024",CUST0011,Apparel,Denim Jacket,2,Rs.2199,North,Credit Card
+ON00768,"Sep 02, 2024",CUST0270,Home & Kitchen,Storage Organizer,2,Rs.449,South,Cash on Delivery
+ON00769,"Jul 15, 2024",CUST0163,SPORTS & FITNESS,Resistance Bands Set,1,599.00,West,Cash on Delivery
+ON00770,28/10/2024,CUST0323,  Apparel ,Cotton T-Shirt,1,599,North,Debit Card
+ON00771,"Mar 07, 2024",CUST0256,APPAREL,Denim Jacket,1,"2,199",West,Cash on Delivery
+ON00772,2025-05-09,CUST0327,BEAUTY,Lip Care Kit,1,Rs.349,East,Cash on Delivery
+ON00773,28/08/2024,CUST0194,beauty,Face Serum,1,699,East,Cash on Delivery
+ON00774,2024-03-27,CUST0118,  Home & Kitchen ,Electric Kettle,1,799,West,Cash on Delivery
+ON00775,"Apr 23, 2025",CUST0163,Beauty,Sunscreen SPF50,1,Rs.449,East,Debit Card
+ON00776,18 March 2024,CUST0257,Home & Kitchen,Storage Organizer,3,Rs.449,West,Cash on Delivery
+ON00777,14-03-2024,CUST0171,home & kitchen,Storage Organizer,1,449,South,Credit Card
+ON00778,21-05-2024,CUST0395,sports & fitness,Resistance Bands Set,3,₹599,North,Debit Card
+ON00779,13/01/2024,CUST0204,BEAUTY,Lip Care Kit,1,349.00,South,Credit Card
+ON00780,"Apr 24, 2025",CUST0161,  Beauty ,Hair Dryer,1,"₹1,199",North,Credit Card
+ON00781,"Jan 31, 2024",CUST0157,home & kitchen,Storage Organizer,1,₹449,South,UPI
+ON00782,17/02/2025,CUST0291,SPORTS & FITNESS,Resistance Bands Set,1,599,North,UPI
+ON00783,"Feb 04, 2025",CUST0033,BEAUTY,Face Serum,1,699,East,Cash on Delivery
+ON00784,07/04/2025,CUST0346,Home & Kitchen,Electric Kettle,1,799.00,North,Cash on Delivery
+ON00785,10/07/2024,CUST0146,apparel,Running Shoes,1,2799,East,Credit Card
+ON00786,12/01/2025,CUST0211,Sports & Fitness,Yoga Mat,1,₹799,West,Net Banking
+ON00787,11-03-2024,CUST0067,  Beauty ,Face Serum,3,₹699,South,Credit Card
+ON00788,2024-11-13,CUST0142,SPORTS & FITNESS,Skipping Rope,1,₹249,East,Credit Card
+ON00789,09 September 2024,CUST0236,Sports & Fitness,Yoga Mat,1,799,East,Net Banking
+ON00790,12/04/2025,CUST0201,  Home & Kitchen ,Storage Organizer,2,449.00,West,Cash on Delivery
+ON00791,2025-04-13,CUST0358,  Beauty ,Face Serum,3,699,South,Cash on Delivery
+ON00792,10/06/2024,CUST0342,  Home & Kitchen ,Non-Stick Pan Set,2,1299.00,West,UPI
+ON00793,12/01/2025,CUST0210,electronics,Bluetooth Speaker,2,1499,West,Net Banking
+ON00794,2024-03-15,CUST0100,Beauty,Hair Dryer,1,Rs.1199,East,Net Banking
+ON00795,"Apr 20, 2025",CUST0281,BEAUTY,Lip Care Kit,1,349,North,Credit Card
+ON00796,23 June 2024,CUST0151,  Electronics ,Wireless Earbuds,1,1799,South,UPI
+ON00797,06 June 2024,CUST0366,BEAUTY,Hair Dryer,1,1199,South,UPI
+ON00798,19 June 2025,CUST0228,Electronics,Power Bank 10000mAh,1,₹999,West,UPI
+ON00799,"Sep 12, 2024",CUST0047,Home & Kitchen,Storage Organizer,3,449,South,UPI
+ON00800,05/03/2024,CUST0409,Apparel,Formal Shirt,3,899,North,Credit Card
+ON00801,"Nov 26, 2024",CUST0278,Sports & Fitness,Resistance Bands Set,1,599,South,Net Banking
+ON00802,26/06/2024,CUST0007,  Electronics ,Wireless Earbuds,1,"1,799",West,Net Banking
+ON00803,12 January 2025,CUST0211,  Electronics ,Smartwatch,1,3499,South,Debit Card
+ON00804,24/06/2024,CUST0324,home & kitchen,Non-Stick Pan Set,3,"1,299",West,Net Banking
+ON00805,08/05/2025,CUST0196,Electronics,Bluetooth Speaker,1,1499.00,East,Cash on Delivery
+ON00806,07 May 2024,CUST0388,Home & Kitchen,Electric Kettle,1,799,East,Credit Card
+ON00807,"Jul 25, 2024",CUST0122,apparel,Cotton T-Shirt,1,599,North,Cash on Delivery
+ON00808,2024-02-10,CUST0332,SPORTS & FITNESS,Yoga Mat,2,799,East,Debit Card
+ON00809,29 July 2024,CUST0411,  Sports & Fitness ,Resistance Bands Set,1,Rs.599,South,Credit Card
+ON00810,07/01/2024,CUST0099,ELECTRONICS,Bluetooth Speaker,2,Rs.1499,North,UPI
+ON00811,28-07-2024,CUST0372,APPAREL,Formal Shirt,1,Rs.899,East,Net Banking
+ON00812,11-09-2024,CUST0326,  Home & Kitchen ,Electric Kettle,1,799,East,Credit Card
+ON00813,"Jun 20, 2024",CUST0390,Beauty,Lip Care Kit,1,₹349,East,Credit Card
+ON00814,"Nov 03, 2024",CUST0132,sports & fitness,Dumbbell 5kg Pair,1,"₹1,599",South,Net Banking
+ON00815,07/05/2025,CUST0101,Electronics,Bluetooth Speaker,1,,East,Credit Card
+ON00816,"Jan 18, 2025",CUST0203,  Beauty ,Lip Care Kit,1,349.00,East,Debit Card
+ON00817,09-02-2024,CUST0100,electronics,Power Bank 10000mAh,1,₹999,South,Net Banking
+ON00818,12/01/2025,CUST0377,  Electronics ,Smartwatch,1,,East,Credit Card
+ON00819,29-01-2024,CUST0349,APPAREL,Cotton T-Shirt,1,Rs.599,,Credit Card
+ON00820,"Apr 04, 2024",CUST0266,BEAUTY,Face Serum,1,699,North,Credit Card
+ON00821,"May 27, 2025",CUST0301,Sports & Fitness,Resistance Bands Set,1,599.00,East,Debit Card
+ON00822,18-12-2024,CUST0384,Apparel,Cotton T-Shirt,1,₹599,,Net Banking
+ON00823,12/03/2024,CUST0376,BEAUTY,Sunscreen SPF50,1,Rs.449,West,Net Banking
+ON00824,05/07/2024,CUST0291,SPORTS & FITNESS,Yoga Mat,3,Rs.799,East,Credit Card
+ON00825,2024-07-15,CUST0226,HOME & KITCHEN,Non-Stick Pan Set,-1,1299,East,Cash on Delivery
+ON00826,2024-10-10,CUST0245,Electronics,Bluetooth Speaker,1,1499,South,Net Banking
+ON00827,12 February 2024,CUST0193,electronics,Power Bank 10000mAh,1,₹999,North,Cash on Delivery
+ON00828,15-03-2025,CUST0162,  Home & Kitchen ,LED Desk Lamp,1,649,West,Credit Card
+ON00829,2024-12-04,CUST0372,Electronics,Power Bank 10000mAh,1,999,East,Credit Card
+ON00830,11/09/2024,CUST0264,Home & Kitchen,Storage Organizer,1,449,,Net Banking
+ON00831,03/01/2025,CUST0348,  Electronics ,Smartwatch,3,3499.00,West,Net Banking
+ON00832,"Dec 22, 2024",CUST0338,beauty,Sunscreen SPF50,3,Rs.449,East,UPI
+ON00833,"May 31, 2025",CUST0155,ELECTRONICS,Smartwatch,1,3499,North,Cash on Delivery
+ON00834,2024-09-03,CUST0055,APPAREL,Formal Shirt,1,899,North,Net Banking
+ON00835,14/10/2024,CUST0344,  Apparel ,Formal Shirt,2,899,East,UPI
+ON00836,"Mar 07, 2024",CUST0335,HOME & KITCHEN,LED Desk Lamp,1,649,East,Cash on Delivery
+ON00837,24 April 2024,CUST0382,electronics,Bluetooth Speaker,1,"1,499",South,UPI
+ON00838,02-01-2024,CUST0199,home & kitchen,Electric Kettle,1,Rs.799,South,Net Banking
+ON00839,15-08-2024,CUST0162,ELECTRONICS,Power Bank 10000mAh,1,₹999,East,Credit Card
+ON00840,17-10-2024,CUST0307,Apparel,Cotton T-Shirt,2,599.00,North,Debit Card
+ON00841,08/08/2024,CUST0031,BEAUTY,Lip Care Kit,1,Rs.349,East,Debit Card
+ON00842,2024-02-23,CUST0154,  Apparel ,Denim Jacket,2,"₹2,199",East,Credit Card
+ON00843,04 February 2025,CUST0145,  Beauty ,Face Serum,1,699,West,Credit Card
+ON00844,"Feb 25, 2024",CUST0296,  Home & Kitchen ,Electric Kettle,1,Rs.799,South,Credit Card
+ON00845,"Jul 19, 2024",CUST0348,  Electronics ,Wireless Earbuds,1,Rs.1799,North,Credit Card
+ON00846,08 April 2024,CUST0027,home & kitchen,Storage Organizer,-1,Rs.449,South,UPI
+ON00847,17-02-2025,CUST0204,APPAREL,Formal Shirt,1,₹899,South,Net Banking
+ON00848,01-04-2024,CUST0141,Beauty,Hair Dryer,2,1199,East,Net Banking
+ON00849,05 June 2025,CUST0141,APPAREL,Formal Shirt,1,₹899,East,UPI
+ON00850,"May 08, 2024",CUST0208,  Electronics ,Power Bank 10000mAh,1,999.00,South,UPI
+ON00851,07/05/2024,CUST0093,Apparel,Running Shoes,3,"2,799",North,Cash on Delivery
+ON00852,11-05-2024,CUST0045,Sports & Fitness,Skipping Rope,1,249,South,Cash on Delivery
+ON00853,2025-01-07,CUST0128,sports & fitness,Resistance Bands Set,1,₹599,North,Debit Card
+ON00854,17 May 2025,CUST0311,HOME & KITCHEN,LED Desk Lamp,1,649,West,Cash on Delivery
+ON00855,11 July 2024,CUST0069,APPAREL,Cotton T-Shirt,1,599,South,Cash on Delivery
+ON00856,"Mar 08, 2025",CUST0196,  Electronics ,Bluetooth Speaker,1,"1,499",West,Credit Card
+ON00857,26-05-2024,CUST0325,SPORTS & FITNESS,Resistance Bands Set,1,Rs.599,West,Credit Card
+ON00858,2025-03-20,CUST0040,Beauty,Face Serum,1,₹699,South,Debit Card
+ON00859,01-04-2024,CUST0075,Home & Kitchen,Storage Organizer,3,Rs.449,West,Credit Card
+ON00860,2024-04-17,CUST0302,electronics,Power Bank 10000mAh,1,999,West,Net Banking
+ON00861,11 April 2024,CUST0093,  Electronics ,Smartwatch,1,Rs.3499,East,Debit Card
+ON00862,09-06-2025,CUST0194,Apparel,Cotton T-Shirt,1,599,South,Cash on Delivery
+ON00863,12-09-2024,CUST0094,  Sports & Fitness ,Dumbbell 5kg Pair,1,"1,599",East,Net Banking
+ON00864,17-06-2025,CUST0157,Apparel,Formal Shirt,1,899,North,Net Banking
+ON00865,05 April 2024,CUST0381,  Apparel ,Denim Jacket,1,2199,North,Debit Card
+ON00866,10 March 2025,CUST0246,Sports & Fitness,Yoga Mat,3,799.00,South,Net Banking
+ON00867,08 January 2024,CUST0126,Beauty,Sunscreen SPF50,2,Rs.449,West,Cash on Delivery
+ON00868,20-06-2025,CUST0069,Apparel,Formal Shirt,1,₹899,West,Cash on Delivery
+ON00869,25-04-2024,CUST0277,home & kitchen,LED Desk Lamp,3,649,South,UPI
+ON00870,"Feb 07, 2025",CUST0238,Apparel,Running Shoes,3,2799.00,North,Cash on Delivery
+ON00871,"Nov 01, 2024",CUST0370,home & kitchen,Storage Organizer,1,,West,Credit Card
+ON00872,"Jul 21, 2024",CUST0211,Electronics,Bluetooth Speaker,1,"1,499",South,UPI
+ON00873,08-02-2025,CUST0094,Home & Kitchen,Storage Organizer,1,₹449,East,Cash on Delivery
+ON00874,28-12-2024,CUST0057,Beauty,Sunscreen SPF50,1,₹449,South,Credit Card
+ON00875,2024-02-02,CUST0341,  Apparel ,Denim Jacket,1,"₹2,199",East,Debit Card
+ON00876,10/05/2024,CUST0257,Home & Kitchen,LED Desk Lamp,2,649,East,Net Banking
+ON00877,"Dec 18, 2024",CUST0027,Sports & Fitness,Yoga Mat,1,799,South,Debit Card
+ON00878,25/03/2024,CUST0374,BEAUTY,Sunscreen SPF50,1,449,South,Cash on Delivery
+ON00879,10 September 2024,CUST0359,BEAUTY,Sunscreen SPF50,1,449.00,North,Cash on Delivery
+ON00880,01/06/2024,CUST0020,APPAREL,Formal Shirt,1,899.00,East,Debit Card
+ON00881,22/02/2024,CUST0359,beauty,Face Serum,1,699,West,Credit Card
+ON00882,"Feb 22, 2024",CUST0144,HOME & KITCHEN,Electric Kettle,1,799,West,Debit Card
+ON00883,"Jan 01, 2024",CUST0109,electronics,Smartwatch,1,3499,West,Debit Card
+ON00884,2024-09-15,CUST0058,BEAUTY,Lip Care Kit,1,349,West,UPI
+ON00885,"Jun 25, 2025",CUST0108,Sports & Fitness,Dumbbell 5kg Pair,1,Rs.1599,West,Cash on Delivery
+ON00886,2024-05-03,CUST0099,Electronics,Smartwatch,1,3499.00,South,Net Banking
+ON00887,30/04/2025,CUST0023,  Apparel ,Running Shoes,1,"2,799",South,Credit Card
+ON00888,"Dec 21, 2024",CUST0224,  Home & Kitchen ,Storage Organizer,1,449.00,North,UPI
+ON00889,19 June 2024,CUST0149,Sports & Fitness,Dumbbell 5kg Pair,1,Rs.1599,South,UPI
+ON00890,11 February 2025,CUST0085,  Beauty ,Lip Care Kit,1,₹349,North,Net Banking
+ON00891,05 October 2024,CUST0293,Apparel,Running Shoes,1,2799.00,South,Credit Card
+ON00892,21 June 2025,CUST0152,Home & Kitchen,Non-Stick Pan Set,1,1299,South,Debit Card
+ON00893,2024-10-25,CUST0069,ELECTRONICS,Smartwatch,1,Rs.3499,West,Debit Card
+ON00894,02 January 2024,CUST0167,home & kitchen,Storage Organizer,1,₹449,West,UPI
+ON00895,28-10-2024,CUST0183,HOME & KITCHEN,LED Desk Lamp,-1,649,North,Credit Card
+ON00896,18 April 2024,CUST0321,BEAUTY,Face Serum,3,Rs.699,West,Cash on Delivery
+ON00897,27/07/2024,CUST0080,  Sports & Fitness ,Skipping Rope,1,₹249,East,Net Banking
+ON00898,"Jul 04, 2024",CUST0097,BEAUTY,Hair Dryer,1,1199,South,Cash on Delivery
+ON00899,2024-06-30,CUST0036,  Beauty ,Face Serum,1,₹699,South,Credit Card
+ON00900,"Jun 23, 2025",CUST0309,  Apparel ,Cotton T-Shirt,2,,North,UPI
+ON00901,14 February 2024,CUST0138,Apparel,Cotton T-Shirt,1,599,North,Credit Card
+ON00902,18/04/2024,CUST0363,SPORTS & FITNESS,Resistance Bands Set,2,599.00,West,UPI
+ON00903,16 June 2024,CUST0125,home & kitchen,Electric Kettle,1,799,,UPI
+ON00904,15/02/2024,CUST0262,Electronics,Power Bank 10000mAh,1,999,North,Net Banking
+ON00905,2025-01-29,CUST0116,  Apparel ,Cotton T-Shirt,1,599,West,Net Banking
+ON00906,2024-10-15,CUST0061,Home & Kitchen,Storage Organizer,1,Rs.449,West,Debit Card
+ON00907,08 December 2024,CUST0077,sports & fitness,Dumbbell 5kg Pair,1,1599,East,Debit Card
+ON00908,26/05/2025,CUST0404,HOME & KITCHEN,Storage Organizer,3,₹449,North,UPI
+ON00909,04/05/2025,CUST0373,Electronics,Bluetooth Speaker,1,Rs.1499,East,Debit Card
+ON00910,29 January 2025,CUST0247,home & kitchen,Storage Organizer,1,Rs.449,East,Net Banking
+ON00911,24 May 2025,CUST0197,  Sports & Fitness ,Resistance Bands Set,1,Rs.599,South,UPI
+ON00912,"Aug 28, 2024",CUST0186,HOME & KITCHEN,Storage Organizer,1,449,North,Cash on Delivery
+ON00913,04/01/2025,CUST0283,APPAREL,Cotton T-Shirt,1,599,South,Net Banking
+ON00914,30-04-2024,CUST0357,Apparel,Cotton T-Shirt,1,599.00,North,Net Banking
+ON00915,2024-06-10,CUST0041,Electronics,Wireless Earbuds,1,"₹1,799",South,Credit Card
+ON00916,05-07-2024,CUST0241,  Beauty ,Lip Care Kit,2,349,West,Net Banking
+ON00917,08 June 2024,CUST0310,ELECTRONICS,Smartwatch,2,,North,Credit Card
+ON00918,10-04-2025,CUST0293,SPORTS & FITNESS,Resistance Bands Set,2,Rs.599,West,Cash on Delivery
+ON00919,"Apr 04, 2024",CUST0381,Sports & Fitness,Yoga Mat,1,Rs.799,South,Credit Card
+ON00920,2024-03-20,CUST0195,beauty,Hair Dryer,1,Rs.1199,East,Credit Card
+ON00921,16-04-2024,CUST0015,ELECTRONICS,Bluetooth Speaker,1,1499,West,Credit Card
+ON00922,12/01/2024,CUST0327,home & kitchen,Electric Kettle,1,799.00,South,UPI
+ON00923,10-05-2025,CUST0159,electronics,Smartwatch,1,3499.00,North,UPI
+ON00924,04 February 2025,CUST0170,Home & Kitchen,Storage Organizer,-1,Rs.449,,Net Banking
+ON00925,26/01/2025,CUST0149,  Beauty ,Lip Care Kit,1,349,North,Credit Card
+ON00926,25 August 2024,CUST0394,apparel,Running Shoes,2,Rs.2799,South,Credit Card
+ON00927,03/01/2025,CUST0021,SPORTS & FITNESS,Dumbbell 5kg Pair,2,1599.00,East,Net Banking
+ON00928,05/06/2024,CUST0050,sports & fitness,Skipping Rope,1,249,East,UPI
+ON00929,10-04-2025,CUST0083,home & kitchen,LED Desk Lamp,1,649,West,UPI
+ON00930,16/04/2025,CUST0391,Home & Kitchen,Non-Stick Pan Set,-1,"₹1,299",,Net Banking
+ON00931,20 October 2024,CUST0226,beauty,Face Serum,1,₹699,South,Debit Card
+ON00932,26 September 2024,CUST0380,Electronics,Smartwatch,1,3499,North,Credit Card
+ON00933,"Jun 11, 2024",CUST0115,Sports & Fitness,Skipping Rope,1,₹249,North,Net Banking
+ON00934,21/04/2025,CUST0204,  Electronics ,Power Bank 10000mAh,1,999,North,Net Banking
+ON00935,"May 12, 2025",CUST0059,Apparel,Running Shoes,2,"₹2,799",East,Debit Card
+ON00936,"Aug 06, 2024",CUST0032,  Home & Kitchen ,LED Desk Lamp,1,Rs.649,East,Debit Card
+ON00937,2025-03-09,CUST0043,home & kitchen,Non-Stick Pan Set,1,"1,299",South,Credit Card
+ON00938,2025-04-07,CUST0095,  Beauty ,Sunscreen SPF50,1,449,West,UPI
+ON00939,23-12-2024,CUST0357,  Beauty ,Sunscreen SPF50,1,449.00,South,Net Banking
+ON00940,2024-07-22,CUST0166,ELECTRONICS,Bluetooth Speaker,2,Rs.1499,South,Debit Card
+ON00941,2024-11-20,CUST0135,  Electronics ,Power Bank 10000mAh,2,Rs.999,East,Cash on Delivery
+ON00942,09/04/2024,CUST0216,  Electronics ,Smartwatch,1,Rs.3499,South,Cash on Delivery
+ON00943,15 January 2024,CUST0155,Home & Kitchen,Storage Organizer,2,₹449,North,Debit Card
+ON00944,2024-12-26,CUST0268,HOME & KITCHEN,Storage Organizer,2,449,East,Debit Card
+ON00945,15-06-2024,CUST0338,Sports & Fitness,Resistance Bands Set,1,599,West,Net Banking
+ON00946,17 January 2024,CUST0255,Sports & Fitness,Dumbbell 5kg Pair,3,1599.00,North,Cash on Delivery
+ON00947,03 February 2024,CUST0115,  Home & Kitchen ,Electric Kettle,2,₹799,South,Net Banking
+ON00948,25/12/2024,CUST0004,beauty,Hair Dryer,1,"1,199",East,Debit Card
+ON00949,2025-02-28,CUST0017,APPAREL,Formal Shirt,1,899.00,East,UPI
+ON00950,"Nov 21, 2024",CUST0124,HOME & KITCHEN,LED Desk Lamp,1,₹649,East,Cash on Delivery
+ON00951,"Mar 15, 2025",CUST0373,apparel,Cotton T-Shirt,3,₹599,East,Credit Card
+ON00952,09 May 2024,CUST0391,SPORTS & FITNESS,Yoga Mat,1,Rs.799,East,Debit Card
+ON00953,27 January 2024,CUST0015,Beauty,Sunscreen SPF50,1,449,South,Cash on Delivery
+ON00954,13/05/2024,CUST0096,beauty,Hair Dryer,1,Rs.1199,West,Credit Card
+ON00955,2025-01-22,CUST0043,Home & Kitchen,Non-Stick Pan Set,1,1299.00,West,Credit Card
+ON00956,"May 25, 2024",CUST0048,home & kitchen,Electric Kettle,1,Rs.799,South,UPI
+ON00957,17/05/2025,CUST0321,  Electronics ,Wireless Earbuds,1,"1,799",East,UPI
+ON00958,06 April 2025,CUST0092,Apparel,Denim Jacket,1,"2,199",North,Cash on Delivery
+ON00959,10-05-2025,CUST0082,Sports & Fitness,Dumbbell 5kg Pair,1,1599,North,Cash on Delivery
+ON00960,14/06/2025,CUST0187,Sports & Fitness,Yoga Mat,2,Rs.799,South,UPI
+ON00961,09 May 2024,CUST0048,home & kitchen,Non-Stick Pan Set,1,"₹1,299",South,Debit Card
+ON00962,"Feb 13, 2025",CUST0352,Apparel,Running Shoes,1,2799.00,South,Debit Card
+ON00963,29-07-2024,CUST0217,beauty,Lip Care Kit,1,349.00,East,Cash on Delivery
+ON00964,2024-07-23,CUST0231,sports & fitness,Skipping Rope,1,249,North,Credit Card
+ON00965,"Jun 27, 2025",CUST0093,HOME & KITCHEN,Storage Organizer,1,449,North,Debit Card
+ON00966,15-01-2025,CUST0063,Home & Kitchen,Storage Organizer,1,Rs.449,West,UPI
+ON00967,25/11/2024,CUST0146,APPAREL,Formal Shirt,1,899,East,Cash on Delivery
+ON00968,17-03-2024,CUST0350,sports & fitness,Skipping Rope,2,249,East,Net Banking
+ON00969,"May 25, 2025",CUST0062,ELECTRONICS,Smartwatch,-1,3499.00,East,UPI
+ON00970,22/01/2024,CUST0237,  Home & Kitchen ,Electric Kettle,1,,North,Debit Card
+ON00971,2025-06-24,CUST0036,  Electronics ,Smartwatch,1,"3,499",North,Net Banking
+ON00972,2024-12-20,CUST0253,  Beauty ,Face Serum,1,₹699,West,Cash on Delivery
+ON00973,2024-05-04,CUST0015,Home & Kitchen,Storage Organizer,3,449,North,Credit Card
+ON00974,22 March 2025,CUST0371,Apparel,Formal Shirt,1,899,South,Debit Card
+ON00975,14-02-2024,CUST0039,  Electronics ,Power Bank 10000mAh,1,Rs.999,West,Debit Card
+ON00976,"Apr 16, 2025",CUST0386,  Electronics ,Power Bank 10000mAh,1,999.00,South,Cash on Delivery
+ON00977,04/05/2025,CUST0396,Beauty,Lip Care Kit,-1,349,West,Net Banking
+ON00978,2024-12-27,CUST0338,Sports & Fitness,Resistance Bands Set,2,599,South,Credit Card
+ON00979,09-08-2024,CUST0250,BEAUTY,Hair Dryer,2,1199.00,South,UPI
+ON00980,16/11/2024,CUST0259,HOME & KITCHEN,Electric Kettle,2,₹799,South,UPI
+ON00981,"Jun 09, 2025",CUST0036,APPAREL,Running Shoes,2,2799.00,South,Debit Card
+ON00982,"May 30, 2024",CUST0124,BEAUTY,Hair Dryer,2,"₹1,199",North,UPI
+ON00983,08/04/2025,CUST0182,HOME & KITCHEN,Storage Organizer,1,₹449,North,Net Banking
+ON00984,"Feb 24, 2024",CUST0026,BEAUTY,Hair Dryer,1,"₹1,199",North,Net Banking
+ON00985,09/10/2024,CUST0056,Sports & Fitness,Yoga Mat,1,799,East,UPI
+ON00986,29 September 2024,CUST0142,  Apparel ,Formal Shirt,1,899,North,Credit Card
+ON00987,01 October 2024,CUST0178,beauty,Lip Care Kit,1,349,South,Debit Card
+ON00988,2025-05-03,CUST0088,HOME & KITCHEN,Electric Kettle,2,₹799,South,Debit Card
+ON00989,2024-01-14,CUST0091,BEAUTY,Lip Care Kit,1,349,North,Debit Card
+ON00990,2025-04-30,CUST0242,Sports & Fitness,Skipping Rope,1,249,South,UPI
+ON00991,2025-06-21,CUST0397,sports & fitness,Yoga Mat,1,799,South,UPI
+ON00992,"Dec 25, 2024",CUST0130,Sports & Fitness,Resistance Bands Set,1,599,East,Debit Card
+ON00993,2025-06-14,CUST0352,SPORTS & FITNESS,Dumbbell 5kg Pair,1,Rs.1599,West,Cash on Delivery
+ON00994,25-05-2024,CUST0296,HOME & KITCHEN,Storage Organizer,1,Rs.449,South,Net Banking
+ON00995,21-01-2025,CUST0270,electronics,Power Bank 10000mAh,3,₹999,East,Credit Card
+ON00996,"Oct 09, 2024",CUST0314,  Home & Kitchen ,Electric Kettle,1,799,West,UPI
+ON00997,09 January 2024,CUST0239,beauty,Lip Care Kit,3,Rs.349,South,Credit Card
+ON00998,22/10/2024,CUST0233,electronics,Bluetooth Speaker,2,1499,North,UPI
+ON00999,09/11/2024,CUST0026,electronics,Wireless Earbuds,1,1799.00,North,Debit Card
+ON01000,"Jun 07, 2024",CUST0376,Electronics,Bluetooth Speaker,2,1499,South,Credit Card
+ON01001,2024-12-29,CUST0217,apparel,Formal Shirt,2,899.00,East,Net Banking
+ON01002,22-03-2025,CUST0350,HOME & KITCHEN,LED Desk Lamp,2,Rs.649,South,Credit Card
+ON01003,"Mar 28, 2024",CUST0280,  Home & Kitchen ,Electric Kettle,1,799.00,East,Credit Card
+ON01004,"Nov 16, 2024",CUST0240,  Sports & Fitness ,Yoga Mat,3,₹799,West,Debit Card
+ON01005,28/01/2024,CUST0315,beauty,Sunscreen SPF50,1,449.00,South,Debit Card
+ON01006,2024-10-27,CUST0065,  Electronics ,Smartwatch,2,3499.00,East,Net Banking
+ON01007,2024-02-25,CUST0171,electronics,Bluetooth Speaker,1,"1,499",North,Cash on Delivery
+ON01008,04 May 2024,CUST0360,SPORTS & FITNESS,Skipping Rope,1,₹249,North,Credit Card
+ON01009,07 June 2024,CUST0413,HOME & KITCHEN,Electric Kettle,1,799,North,Net Banking
+ON01010,2024-05-03,CUST0054,  Sports & Fitness ,Yoga Mat,1,799,South,Net Banking
+ON01011,10 May 2025,CUST0314,Apparel,Denim Jacket,2,2199,West,Net Banking
+ON01012,03-09-2024,CUST0244,apparel,Denim Jacket,1,2199.00,South,Net Banking
+ON01013,"Oct 08, 2024",CUST0238,BEAUTY,Face Serum,1,,North,Net Banking
+ON01014,"Feb 02, 2025",CUST0331,Electronics,Wireless Earbuds,1,"1,799",North,Cash on Delivery
+ON01015,24 April 2025,CUST0184,BEAUTY,Hair Dryer,1,1199.00,South,Cash on Delivery
+ON01016,05-03-2024,CUST0336,  Apparel ,Denim Jacket,1,Rs.2199,West,Cash on Delivery
+ON01017,06 November 2024,CUST0193,BEAUTY,Face Serum,1,699.00,East,Net Banking
+ON01018,22-06-2025,CUST0302,  Home & Kitchen ,Non-Stick Pan Set,1,1299,West,Cash on Delivery
+ON01019,11-06-2024,CUST0256,APPAREL,Formal Shirt,1,Rs.899,North,Net Banking
+ON01020,27 June 2024,CUST0033,beauty,Face Serum,2,699,East,UPI
+ON01021,2025-01-18,CUST0090,  Sports & Fitness ,Dumbbell 5kg Pair,1,1599.00,North,Debit Card
+ON01022,19/07/2024,CUST0116,  Home & Kitchen ,Non-Stick Pan Set,1,Rs.1299,West,Credit Card
+ON01023,"Jan 25, 2024",CUST0003,Electronics,Power Bank 10000mAh,1,999.00,South,Debit Card
+ON01024,31 July 2024,CUST0183,SPORTS & FITNESS,Skipping Rope,2,₹249,West,Cash on Delivery
+ON01025,20-01-2025,CUST0401,Electronics,Bluetooth Speaker,1,Rs.1499,South,Cash on Delivery
+ON01026,04-12-2024,CUST0129,Electronics,Wireless Earbuds,1,Rs.1799,West,Net Banking
+ON01027,2024-03-17,CUST0205,Sports & Fitness,Resistance Bands Set,1,599,West,Cash on Delivery
+ON01028,03/02/2024,CUST0172,HOME & KITCHEN,LED Desk Lamp,1,649,South,UPI
+ON01029,"Mar 04, 2024",CUST0178,Apparel,Formal Shirt,1,₹899,North,UPI
+ON01030,04-10-2024,CUST0260,  Electronics ,Smartwatch,1,Rs.3499,,Credit Card
+ON01031,"Feb 26, 2024",CUST0274,Electronics,Wireless Earbuds,2,1799,South,Cash on Delivery
+ON01032,2025-01-21,CUST0282,  Apparel ,Cotton T-Shirt,1,599.00,East,Credit Card
+ON01033,11/01/2025,CUST0030,Home & Kitchen,Storage Organizer,1,Rs.449,East,Credit Card
+ON01034,2024-02-16,CUST0417,Electronics,Wireless Earbuds,2,Rs.1799,South,UPI
+ON01035,17 November 2024,CUST0150,  Home & Kitchen ,Storage Organizer,1,449,South,Credit Card
+ON01036,19/03/2024,CUST0254,  Home & Kitchen ,Non-Stick Pan Set,3,"1,299",South,Debit Card
+ON01037,26 October 2024,CUST0164,Apparel,Formal Shirt,1,₹899,West,Cash on Delivery
+ON01038,12-05-2025,CUST0267,HOME & KITCHEN,Non-Stick Pan Set,1,Rs.1299,,Credit Card
+ON01039,"Aug 28, 2024",CUST0059,Beauty,Hair Dryer,1,1199.00,East,UPI
+ON01040,"Mar 27, 2024",CUST0254,  Electronics ,Smartwatch,1,Rs.3499,East,UPI
+ON01041,07-07-2024,CUST0017,Beauty,Sunscreen SPF50,1,449,West,Cash on Delivery
+ON01042,"Sep 25, 2024",CUST0175,  Sports & Fitness ,Skipping Rope,1,249,North,Cash on Delivery
+ON01043,01 February 2025,CUST0218,home & kitchen,Electric Kettle,2,₹799,East,Cash on Delivery
+ON01044,2024-08-31,CUST0410,APPAREL,Cotton T-Shirt,3,599,West,Debit Card
+ON01045,08 February 2025,CUST0138,Electronics,Smartwatch,1,3499.00,West,Debit Card
+ON01046,"Sep 27, 2024",CUST0226,Apparel,Denim Jacket,1,"₹2,199",North,UPI
+ON01047,11 August 2024,CUST0142,beauty,Sunscreen SPF50,1,₹449,North,Cash on Delivery
+ON01048,09/10/2024,CUST0117,Home & Kitchen,Non-Stick Pan Set,2,1299,South,Credit Card
+ON01049,2025-06-02,CUST0284,beauty,Hair Dryer,1,1199,North,Credit Card
+ON01050,2024-12-27,CUST0180,  Sports & Fitness ,Resistance Bands Set,2,599,South,UPI
+ON01051,29-11-2024,CUST0037,SPORTS & FITNESS,Skipping Rope,1,,East,Net Banking
+ON01052,03 January 2025,CUST0241,Home & Kitchen,LED Desk Lamp,-1,649,West,Debit Card
+ON01053,02 June 2024,CUST0414,sports & fitness,Skipping Rope,1,₹249,South,Debit Card
+ON01054,03 February 2024,CUST0040,  Apparel ,Cotton T-Shirt,1,599,North,Credit Card
+ON01055,24/06/2025,CUST0163,electronics,Smartwatch,1,"3,499",East,Debit Card
+ON01056,"Jan 05, 2025",CUST0355,  Apparel ,Formal Shirt,1,899,North,Credit Card
+ON01057,19/03/2024,CUST0230,HOME & KITCHEN,Storage Organizer,1,Rs.449,South,Net Banking
+ON01058,21-02-2025,CUST0408,sports & fitness,Skipping Rope,1,₹249,West,Debit Card
+ON01059,2024-05-31,CUST0093,SPORTS & FITNESS,Skipping Rope,1,249,South,Net Banking
+ON01060,26/04/2025,CUST0221,Electronics,Power Bank 10000mAh,1,999.00,North,UPI
+ON01061,2025-03-08,CUST0365,home & kitchen,Storage Organizer,1,449,South,Debit Card
+ON01062,"Apr 20, 2024",CUST0230,  Electronics ,Smartwatch,1,"₹3,499",West,Net Banking
+ON01063,06 July 2024,CUST0078,sports & fitness,Skipping Rope,3,₹249,North,UPI
+ON01064,25/03/2025,CUST0396,apparel,Denim Jacket,1,2199,West,UPI
+ON01065,"Jun 21, 2025",CUST0147,sports & fitness,Skipping Rope,1,Rs.249,,Debit Card
+ON01066,03-08-2024,CUST0051,BEAUTY,Sunscreen SPF50,1,449,West,Debit Card
+ON01067,17/08/2024,CUST0311,apparel,Denim Jacket,1,Rs.2199,West,UPI
+ON01068,04/06/2025,CUST0277,Apparel,Denim Jacket,1,2199,North,Cash on Delivery
+ON01069,"Oct 15, 2024",CUST0267,sports & fitness,Skipping Rope,1,249,East,Credit Card
+ON01070,18-03-2025,CUST0143,Beauty,Lip Care Kit,1,Rs.349,South,UPI
+ON01071,2024-11-30,CUST0233,apparel,Denim Jacket,1,2199,West,Cash on Delivery
+ON01072,17/06/2025,CUST0325,HOME & KITCHEN,LED Desk Lamp,1,Rs.649,North,UPI
+ON01073,28-09-2024,CUST0376,BEAUTY,Lip Care Kit,1,349,South,Net Banking
+ON01074,07/08/2024,CUST0286,ELECTRONICS,Wireless Earbuds,1,,East,Cash on Delivery
+ON01075,24/01/2025,CUST0248,sports & fitness,Skipping Rope,1,249,West,Cash on Delivery
+ON01076,16/05/2025,CUST0152,Beauty,Face Serum,1,699,East,UPI
+ON01077,"Apr 02, 2025",CUST0060,home & kitchen,LED Desk Lamp,1,649,East,Credit Card
+ON01078,11/05/2024,CUST0308,Beauty,Lip Care Kit,2,349.00,East,Net Banking
+ON01079,"Feb 22, 2025",CUST0134,  Electronics ,Smartwatch,1,"₹3,499",West,Debit Card
+ON01080,25-02-2024,CUST0174,  Home & Kitchen ,Non-Stick Pan Set,1,1299.00,South,UPI
+ON01081,30 July 2024,CUST0067,Electronics,Power Bank 10000mAh,3,999,West,Cash on Delivery
+ON01082,02 April 2024,CUST0336,HOME & KITCHEN,LED Desk Lamp,3,Rs.649,North,UPI
+ON01083,"Feb 09, 2025",CUST0192,APPAREL,Formal Shirt,1,Rs.899,South,Debit Card
+ON01084,"Feb 06, 2024",CUST0257,Electronics,Wireless Earbuds,2,"1,799",,Net Banking
+ON01085,"Sep 10, 2024",CUST0417,ELECTRONICS,Smartwatch,1,"3,499",North,Net Banking
+ON01086,19 March 2024,CUST0011,ELECTRONICS,Bluetooth Speaker,1,1499.00,East,UPI
+ON01087,2024-07-17,CUST0218,sports & fitness,Dumbbell 5kg Pair,2,Rs.1599,West,Cash on Delivery
+ON01088,27 April 2025,CUST0114,beauty,Face Serum,1,699.00,North,Net Banking
+ON01089,2025-01-26,CUST0191,  Electronics ,Wireless Earbuds,-1,1799,East,Cash on Delivery
+ON01090,25-08-2024,CUST0330,BEAUTY,Hair Dryer,1,1199,North,Debit Card
+ON01091,2024-06-22,CUST0304,APPAREL,Running Shoes,2,"₹2,799",East,Credit Card
+ON01092,26-08-2024,CUST0211,ELECTRONICS,Smartwatch,2,,West,Debit Card
+ON01093,"Feb 20, 2025",CUST0387,  Electronics ,Wireless Earbuds,1,Rs.1799,South,Cash on Delivery
+ON01094,2025-05-09,CUST0054,  Sports & Fitness ,Yoga Mat,1,799,North,Net Banking
+ON01095,"May 04, 2024",CUST0020,APPAREL,Denim Jacket,1,2199.00,North,Net Banking
+ON01096,04-03-2025,CUST0223,beauty,Face Serum,1,699,North,Debit Card
+ON01097,18-06-2024,CUST0412,apparel,Cotton T-Shirt,1,Rs.599,South,Cash on Delivery
+ON01098,"May 18, 2024",CUST0006,APPAREL,Denim Jacket,1,2199,East,Debit Card
+ON01099,06 January 2024,CUST0356,  Home & Kitchen ,Electric Kettle,2,799,South,UPI
+ON01100,09/06/2024,CUST0177,electronics,Bluetooth Speaker,1,"₹1,499",South,UPI
+ON01101,09 November 2024,CUST0131,HOME & KITCHEN,Storage Organizer,1,Rs.449,East,Cash on Delivery
+ON01102,09 August 2024,CUST0065,  Home & Kitchen ,Non-Stick Pan Set,1,1299.00,North,Cash on Delivery
+ON01103,29 April 2025,CUST0111,APPAREL,Running Shoes,1,"₹2,799",South,UPI
+ON01104,"Nov 27, 2024",CUST0071,  Electronics ,Bluetooth Speaker,2,"1,499",North,Cash on Delivery
+ON01105,"Apr 30, 2024",CUST0397,apparel,Formal Shirt,1,899.00,East,Net Banking
+ON01106,21/03/2024,CUST0325,  Sports & Fitness ,Dumbbell 5kg Pair,2,"₹1,599",South,Debit Card
+ON01107,13/09/2024,CUST0334,Electronics,Power Bank 10000mAh,1,₹999,East,Debit Card
+ON01108,20/12/2024,CUST0196,Beauty,Sunscreen SPF50,1,449,South,Debit Card
+ON01109,06 January 2024,CUST0189,Sports & Fitness,Skipping Rope,1,249,North,Debit Card
+ON01110,05 May 2025,CUST0141,Beauty,Face Serum,1,₹699,West,UPI
+ON01111,2025-04-10,CUST0020,BEAUTY,Lip Care Kit,1,Rs.349,North,Debit Card
+ON01112,2024-05-14,CUST0029,electronics,Bluetooth Speaker,1,1499.00,North,Net Banking
+ON01113,17/07/2024,CUST0345,sports & fitness,Dumbbell 5kg Pair,2,"₹1,599",West,Debit Card
+ON01114,2024-03-03,CUST0374,ELECTRONICS,Bluetooth Speaker,1,"1,499",South,Debit Card
+ON01115,01 June 2025,CUST0160,beauty,Sunscreen SPF50,1,₹449,North,Debit Card
+ON01116,29/03/2024,CUST0060,Sports & Fitness,Skipping Rope,3,249.00,North,UPI
+ON01117,"Jan 21, 2024",CUST0327,Apparel,Denim Jacket,2,Rs.2199,South,Debit Card
+ON01118,14/07/2024,CUST0362,apparel,Cotton T-Shirt,1,599,East,Debit Card
+ON01119,"Jul 11, 2024",CUST0152,home & kitchen,Non-Stick Pan Set,2,"1,299",South,Debit Card
+ON01120,"Dec 23, 2024",CUST0019,SPORTS & FITNESS,Yoga Mat,1,Rs.799,South,Cash on Delivery
+ON01121,20 March 2025,CUST0107,home & kitchen,Storage Organizer,1,Rs.449,West,Debit Card
+ON01122,"Apr 23, 2025",CUST0265,HOME & KITCHEN,Non-Stick Pan Set,1,"1,299",North,Credit Card
+ON01123,21-01-2025,CUST0360,Sports & Fitness,Skipping Rope,3,₹249,West,UPI
+ON01124,12 April 2024,CUST0084,APPAREL,Denim Jacket,3,"₹2,199",West,Net Banking
+ON01125,"Apr 12, 2025",CUST0375,SPORTS & FITNESS,Skipping Rope,1,249,East,Net Banking
+ON01126,2025-05-09,CUST0391,  Beauty ,Face Serum,1,699,South,Cash on Delivery
+ON01127,14 February 2025,CUST0154,SPORTS & FITNESS,Skipping Rope,1,249.00,South,Cash on Delivery
+ON01128,13/05/2024,CUST0047,home & kitchen,LED Desk Lamp,2,Rs.649,North,Debit Card
+ON01129,31/05/2024,CUST0158,APPAREL,Running Shoes,2,"₹2,799",West,UPI
+ON01130,07/09/2024,CUST0003,apparel,Cotton T-Shirt,1,599.00,West,Net Banking
+ON01131,2024-08-05,CUST0362,  Beauty ,Lip Care Kit,1,Rs.349,East,Credit Card
+ON01132,30 November 2024,CUST0306,Home & Kitchen,Electric Kettle,2,799.00,,Net Banking
+ON01133,01 July 2024,CUST0257,  Apparel ,Formal Shirt,1,Rs.899,West,UPI
+ON01134,"Jul 11, 2024",CUST0048,ELECTRONICS,Smartwatch,1,"3,499",East,Debit Card
+ON01135,"May 07, 2025",CUST0092,Electronics,Smartwatch,1,3499,East,Credit Card
+ON01136,13/04/2024,CUST0083,  Beauty ,Face Serum,2,699,North,Debit Card
+ON01137,2025-02-15,CUST0218,  Beauty ,Sunscreen SPF50,2,₹449,West,Debit Card
+ON01138,2025-01-08,CUST0273,ELECTRONICS,Power Bank 10000mAh,2,,East,Net Banking
+ON01139,"Sep 21, 2024",CUST0223,apparel,Running Shoes,1,,East,UPI
+ON01140,16-04-2025,CUST0130,home & kitchen,Storage Organizer,1,449,West,Net Banking
+ON01141,02-07-2024,CUST0229,Home & Kitchen,Electric Kettle,1,799,North,Debit Card
+ON01142,28/06/2025,CUST0274,BEAUTY,Face Serum,1,₹699,North,UPI
+ON01143,19 December 2024,CUST0376,  Beauty ,Hair Dryer,1,"1,199",South,Cash on Delivery
+ON01144,2024-05-30,CUST0196,sports & fitness,Dumbbell 5kg Pair,-1,"1,599",North,Cash on Delivery
+ON01145,"Jan 23, 2024",CUST0370,Apparel,Denim Jacket,3,2199.00,West,UPI
+ON01146,06-11-2024,CUST0356,  Sports & Fitness ,Dumbbell 5kg Pair,1,"₹1,599",South,UPI
+ON01147,09/07/2024,CUST0310,home & kitchen,Non-Stick Pan Set,1,"₹1,299",North,Net Banking
+ON01148,2025-02-28,CUST0307,APPAREL,Cotton T-Shirt,1,599,East,Debit Card
+ON01149,21-10-2024,CUST0326,  Sports & Fitness ,Dumbbell 5kg Pair,2,1599.00,,Cash on Delivery
+ON01150,"Dec 14, 2024",CUST0078,HOME & KITCHEN,LED Desk Lamp,1,Rs.649,East,Net Banking
+ON01151,18 September 2024,CUST0324,beauty,Face Serum,1,699.00,North,Net Banking
+ON01152,25 October 2024,CUST0016,HOME & KITCHEN,LED Desk Lamp,1,649.00,East,Credit Card
+ON01153,24 January 2024,CUST0121,HOME & KITCHEN,Electric Kettle,1,799,East,Net Banking
+ON01154,"Aug 11, 2024",CUST0092,  Apparel ,Running Shoes,-1,Rs.2799,West,Credit Card
+ON01155,12 October 2024,CUST0341,  Home & Kitchen ,LED Desk Lamp,2,₹649,North,Debit Card
+ON01156,"Apr 20, 2025",CUST0081,home & kitchen,Electric Kettle,2,,East,Credit Card
+ON01157,"Apr 20, 2025",CUST0197,  Apparel ,Denim Jacket,1,2199,North,Cash on Delivery
+ON01158,"May 21, 2024",CUST0307,Sports & Fitness,Dumbbell 5kg Pair,1,Rs.1599,North,Cash on Delivery
+ON01159,"Apr 28, 2025",CUST0381,ELECTRONICS,Bluetooth Speaker,3,Rs.1499,North,Cash on Delivery
+ON01160,02-09-2024,CUST0166,Apparel,Denim Jacket,1,Rs.2199,South,Credit Card
+ON01161,"Apr 15, 2025",CUST0124,Apparel,Formal Shirt,1,899,East,Credit Card
+ON01162,"Jun 12, 2024",CUST0004,  Apparel ,Formal Shirt,1,899,North,UPI
+ON01163,2024-09-23,CUST0225,sports & fitness,Resistance Bands Set,1,599,North,Net Banking
+ON01164,07-06-2025,CUST0054,Beauty,Hair Dryer,1,"1,199",North,Credit Card
+ON01165,2024-12-13,CUST0108,apparel,Cotton T-Shirt,3,599,East,Debit Card
+ON01166,18-05-2025,CUST0152,  Apparel ,Formal Shirt,2,899.00,West,Net Banking
+ON01167,06-02-2024,CUST0014,apparel,Cotton T-Shirt,1,599,West,Credit Card
+ON01168,11-06-2024,CUST0366,SPORTS & FITNESS,Skipping Rope,1,Rs.249,East,Net Banking
+ON01169,26 October 2024,CUST0015,beauty,Face Serum,1,699,South,Credit Card
+ON01170,04 June 2025,CUST0177,sports & fitness,Yoga Mat,1,₹799,South,Credit Card
+ON01171,"May 11, 2025",CUST0090,Apparel,Denim Jacket,2,2199,East,Net Banking
+ON01172,12/11/2024,CUST0312,apparel,Running Shoes,1,2799.00,West,UPI
+ON01173,"Jan 13, 2024",CUST0187,Sports & Fitness,Yoga Mat,2,799.00,South,UPI
+ON01174,22/03/2024,CUST0126,ELECTRONICS,Smartwatch,1,"₹3,499",South,Debit Card
+ON01175,29/09/2024,CUST0376,sports & fitness,Resistance Bands Set,1,Rs.599,South,UPI
+ON01176,03/05/2025,CUST0164,  Beauty ,Hair Dryer,1,1199,North,UPI
+ON01177,2024-04-12,CUST0154,  Sports & Fitness ,Resistance Bands Set,1,599,East,Cash on Delivery
+ON01178,"Mar 29, 2025",CUST0001,apparel,Running Shoes,1,Rs.2799,East,Debit Card
+ON01179,09/05/2025,CUST0136,sports & fitness,Yoga Mat,1,799.00,West,Cash on Delivery
+ON01180,26-03-2025,CUST0250,  Electronics ,Power Bank 10000mAh,-1,Rs.999,South,UPI
+ON01181,18/03/2025,CUST0176,HOME & KITCHEN,Electric Kettle,1,Rs.799,East,Cash on Delivery
+ON01182,28 May 2025,CUST0053,HOME & KITCHEN,Electric Kettle,1,Rs.799,East,Debit Card
+ON01183,15-07-2024,CUST0313,  Beauty ,Face Serum,2,₹699,South,Credit Card
+ON01184,02/10/2024,CUST0156,apparel,Formal Shirt,3,899,East,Debit Card
+ON01185,2024-11-18,CUST0391,  Beauty ,Hair Dryer,1,"₹1,199",East,Net Banking
+ON01186,23/05/2024,CUST0420,beauty,Hair Dryer,2,"1,199",,Credit Card
+ON01187,13 March 2025,CUST0409,  Beauty ,Face Serum,1,699,South,Credit Card
+ON01188,"Jun 13, 2024",CUST0024,HOME & KITCHEN,LED Desk Lamp,2,649.00,East,Net Banking
+ON01189,01-03-2024,CUST0142,  Electronics ,Power Bank 10000mAh,1,999,West,Cash on Delivery
+ON01190,16 March 2024,CUST0078,home & kitchen,LED Desk Lamp,-1,649.00,East,Credit Card
+ON01191,08-09-2024,CUST0286,Home & Kitchen,LED Desk Lamp,1,649,West,Cash on Delivery
+ON01192,17/11/2024,CUST0383,home & kitchen,Storage Organizer,3,₹449,East,Credit Card
+ON01193,"Jul 22, 2024",CUST0072,  Home & Kitchen ,Non-Stick Pan Set,1,"₹1,299",North,UPI
+ON01194,"Jun 25, 2025",CUST0009,Electronics,Smartwatch,3,"3,499",West,Cash on Delivery
+ON01195,18 May 2025,CUST0377,Home & Kitchen,Electric Kettle,1,799,North,UPI
+ON01196,2025-06-09,CUST0313,  Electronics ,Bluetooth Speaker,1,"₹1,499",East,Credit Card
+ON01197,"Jun 04, 2024",CUST0233,Home & Kitchen,LED Desk Lamp,1,649,,Cash on Delivery
+ON01198,03-02-2025,CUST0219,ELECTRONICS,Wireless Earbuds,1,"1,799",West,Credit Card
+ON01199,24/07/2024,CUST0097,sports & fitness,Skipping Rope,3,249,South,Credit Card
+ON01200,10/02/2024,CUST0168,APPAREL,Cotton T-Shirt,1,Rs.599,North,Debit Card
+ON01201,2024-10-04,CUST0396,APPAREL,Formal Shirt,3,₹899,South,Debit Card
+ON01202,"Jan 19, 2025",CUST0195,  Electronics ,Wireless Earbuds,1,Rs.1799,South,UPI
+ON01203,2024-05-07,CUST0084,  Electronics ,Bluetooth Speaker,3,"1,499",North,Credit Card
+ON01204,20-11-2024,CUST0410,  Beauty ,Sunscreen SPF50,1,449,North,Cash on Delivery
+ON01205,17-01-2024,CUST0205,electronics,Wireless Earbuds,1,1799,East,UPI
+ON01206,"Nov 03, 2024",CUST0334,Apparel,Formal Shirt,-1,899,North,Net Banking
+ON01207,2024-11-27,CUST0091,ELECTRONICS,Smartwatch,1,Rs.3499,South,Cash on Delivery
+ON01208,09-02-2024,CUST0379,  Electronics ,Smartwatch,1,"₹3,499",South,Debit Card
+ON01209,15/06/2025,CUST0187,Apparel,Cotton T-Shirt,2,599,South,UPI
+ON01210,17-01-2025,CUST0402,Home & Kitchen,Non-Stick Pan Set,1,1299,North,UPI
+ON01211,27 May 2024,CUST0391,BEAUTY,Sunscreen SPF50,1,449,East,Cash on Delivery
+ON01212,"Aug 16, 2024",CUST0058,  Electronics ,Bluetooth Speaker,1,1499.00,North,Net Banking
+ON01213,01 January 2024,CUST0066,home & kitchen,Electric Kettle,1,799,West,Debit Card
+ON01214,19/07/2024,CUST0413,Apparel,Cotton T-Shirt,1,₹599,South,Credit Card
+ON01215,17-04-2024,CUST0374,  Apparel ,Formal Shirt,1,899.00,South,Debit Card
+ON01216,30 September 2024,CUST0339,Apparel,Cotton T-Shirt,1,₹599,West,Credit Card
+ON01217,21/07/2024,CUST0407,  Apparel ,Denim Jacket,1,2199.00,North,Credit Card
+ON01218,"Dec 18, 2024",CUST0232,apparel,Running Shoes,1,2799,East,Credit Card
+ON01219,"Jun 10, 2025",CUST0131,  Home & Kitchen ,LED Desk Lamp,1,649,South,Debit Card
+ON01220,26 September 2024,CUST0329,ELECTRONICS,Bluetooth Speaker,2,"₹1,499",East,UPI
+ON01221,"May 03, 2024",CUST0178,  Sports & Fitness ,Resistance Bands Set,2,599,South,Debit Card
+ON01222,2025-05-31,CUST0073,APPAREL,Denim Jacket,1,"2,199",South,Credit Card
+ON01223,04-06-2024,CUST0410,SPORTS & FITNESS,Skipping Rope,2,249.00,North,Cash on Delivery
+ON01224,11 June 2024,CUST0385,  Electronics ,Power Bank 10000mAh,1,999,,Credit Card
+ON01225,14-02-2025,CUST0244,HOME & KITCHEN,Electric Kettle,1,799,,Net Banking
+ON01226,14 September 2024,CUST0376,Sports & Fitness,Resistance Bands Set,1,₹599,South,Cash on Delivery
+ON01227,"May 07, 2025",CUST0201,  Apparel ,Denim Jacket,2,Rs.2199,South,Credit Card
+ON01228,2024-03-13,CUST0072,APPAREL,Formal Shirt,3,Rs.899,West,Net Banking
+ON01229,01 December 2024,CUST0269,  Electronics ,Wireless Earbuds,1,"₹1,799",West,UPI
+ON01230,07-05-2024,CUST0079,sports & fitness,Resistance Bands Set,2,599,East,UPI
+ON01231,"Sep 18, 2024",CUST0300,electronics,Power Bank 10000mAh,1,999,East,Credit Card
+ON01232,"Jan 06, 2025",CUST0360,Apparel,Formal Shirt,2,899,East,Net Banking
+ON01233,09-10-2024,CUST0215,Home & Kitchen,Non-Stick Pan Set,1,,West,Debit Card
+ON01234,12-05-2025,CUST0303,Apparel,Formal Shirt,1,₹899,South,Net Banking
+ON01235,2025-01-19,CUST0022,Sports & Fitness,Dumbbell 5kg Pair,1,1599,East,Cash on Delivery
+ON01236,2024-09-01,CUST0418,home & kitchen,Storage Organizer,1,₹449,East,Net Banking
+ON01237,19/06/2025,CUST0343,ELECTRONICS,Smartwatch,3,,East,UPI
+ON01238,11-04-2024,CUST0374,home & kitchen,Electric Kettle,3,799,North,Net Banking
+ON01239,11-09-2024,CUST0167,HOME & KITCHEN,Non-Stick Pan Set,1,1299.00,North,Net Banking
+ON01240,14-02-2025,CUST0256,home & kitchen,Storage Organizer,2,Rs.449,South,UPI
+ON01241,09-11-2024,CUST0328,  Electronics ,Power Bank 10000mAh,3,₹999,North,Net Banking
+ON01242,12/05/2025,CUST0186,home & kitchen,Storage Organizer,1,,East,Credit Card
+ON01243,13 November 2024,CUST0388,SPORTS & FITNESS,Yoga Mat,2,799,West,Cash on Delivery
+ON01244,02-04-2024,CUST0135,sports & fitness,Dumbbell 5kg Pair,3,"₹1,599",East,Credit Card
+ON01245,"Oct 27, 2024",CUST0166,Sports & Fitness,Dumbbell 5kg Pair,1,Rs.1599,North,Credit Card
+ON01246,"Oct 07, 2024",CUST0126,ELECTRONICS,Wireless Earbuds,1,"1,799",South,Credit Card
+ON01247,22 January 2024,CUST0213,SPORTS & FITNESS,Dumbbell 5kg Pair,1,1599.00,East,Cash on Delivery
+ON01248,"Jan 31, 2025",CUST0412,home & kitchen,Non-Stick Pan Set,2,Rs.1299,West,Debit Card
+ON01249,31 December 2024,CUST0165,ELECTRONICS,Bluetooth Speaker,3,1499.00,South,Credit Card
+ON01250,17 November 2024,CUST0369,ELECTRONICS,Power Bank 10000mAh,2,999.00,South,Debit Card
+ON01251,2025-04-16,CUST0034,  Sports & Fitness ,Dumbbell 5kg Pair,1,1599,East,Credit Card
+ON01252,03 May 2025,CUST0034,apparel,Cotton T-Shirt,1,599,West,Debit Card
+ON01253,"May 17, 2025",CUST0203,beauty,Sunscreen SPF50,2,449,South,Credit Card
+ON01254,2025-06-04,CUST0004,beauty,Sunscreen SPF50,1,449,West,Cash on Delivery
+ON01255,26/06/2025,CUST0128,BEAUTY,Sunscreen SPF50,2,,South,Cash on Delivery
+ON01256,"May 02, 2024",CUST0294,  Home & Kitchen ,LED Desk Lamp,1,Rs.649,East,Net Banking
+ON01257,06-07-2024,CUST0363,  Electronics ,Power Bank 10000mAh,1,999,South,Net Banking
+ON01258,2024-08-20,CUST0174,home & kitchen,Storage Organizer,-1,,North,Net Banking
+ON01259,2024-03-01,CUST0271,home & kitchen,Storage Organizer,1,449,North,UPI
+ON01260,"Jan 18, 2025",CUST0326,ELECTRONICS,Bluetooth Speaker,3,"1,499",South,Cash on Delivery
+ON01261,07 June 2024,CUST0226,SPORTS & FITNESS,Dumbbell 5kg Pair,1,"₹1,599",,Credit Card
+ON01262,09-02-2024,CUST0414,Sports & Fitness,Resistance Bands Set,2,Rs.599,North,Debit Card
+ON01263,"Jun 20, 2024",CUST0314,  Electronics ,Power Bank 10000mAh,1,999,South,Debit Card
+ON01264,08/03/2024,CUST0123,  Home & Kitchen ,LED Desk Lamp,1,649,South,Net Banking
+ON01265,06 May 2025,CUST0340,  Sports & Fitness ,Skipping Rope,1,Rs.249,North,Debit Card
+ON01266,"May 18, 2024",CUST0321,  Beauty ,Hair Dryer,2,"₹1,199",,Net Banking
+ON01267,16-04-2024,CUST0157,Home & Kitchen,LED Desk Lamp,1,649,East,Net Banking
+ON01268,2024-04-01,CUST0329,Home & Kitchen,Electric Kettle,2,799,South,Debit Card
+ON01269,26 December 2024,CUST0379,SPORTS & FITNESS,Resistance Bands Set,1,599,East,Cash on Delivery
+ON01270,2024-04-11,CUST0365,BEAUTY,Hair Dryer,3,1199.00,South,Debit Card
+ON01271,16-01-2024,CUST0353,Electronics,Smartwatch,3,"3,499",South,UPI
+ON01272,03/02/2025,CUST0023,APPAREL,Formal Shirt,1,899,East,Credit Card
+ON01273,"Mar 08, 2025",CUST0105,Sports & Fitness,Skipping Rope,2,₹249,West,Debit Card
+ON01274,2024-07-13,CUST0321,  Beauty ,Lip Care Kit,1,Rs.349,North,Net Banking
+ON01275,27 April 2024,CUST0035,electronics,Power Bank 10000mAh,1,999,East,Credit Card
+ON01276,2025-02-11,CUST0292,Home & Kitchen,Electric Kettle,1,Rs.799,West,Debit Card
+ON01277,2025-05-24,CUST0241,Apparel,Running Shoes,1,"₹2,799",North,Net Banking
+ON01278,"Mar 10, 2024",CUST0225,Apparel,Formal Shirt,1,899.00,West,Credit Card
+ON01279,12/07/2024,CUST0292,apparel,Running Shoes,2,"2,799",North,UPI
+ON01280,24/12/2024,CUST0201,beauty,Hair Dryer,1,Rs.1199,North,Net Banking
+ON01281,2024-07-18,CUST0013,HOME & KITCHEN,LED Desk Lamp,1,649,East,Net Banking
+ON01282,"May 26, 2024",CUST0058,Sports & Fitness,Resistance Bands Set,3,Rs.599,North,UPI
+ON01283,2024-11-25,CUST0351,  Home & Kitchen ,Storage Organizer,1,,North,Credit Card
+ON01284,31 January 2025,CUST0391,Sports & Fitness,Skipping Rope,1,,South,UPI
+ON01285,"May 02, 2025",CUST0352,  Sports & Fitness ,Skipping Rope,1,Rs.249,West,Cash on Delivery
+ON01286,"Sep 13, 2024",CUST0246,home & kitchen,Storage Organizer,-1,449,East,Credit Card
+ON01287,"Jun 27, 2024",CUST0189,beauty,Face Serum,-1,₹699,South,UPI
+ON01288,"Aug 20, 2024",CUST0107,  Beauty ,Face Serum,1,₹699,West,Net Banking
+ON01289,01/02/2025,CUST0341,BEAUTY,Hair Dryer,1,Rs.1199,West,Net Banking
+ON01290,07/01/2025,CUST0192,  Beauty ,Hair Dryer,1,1199,East,Debit Card
+ON01291,08/04/2025,CUST0027,home & kitchen,Electric Kettle,3,Rs.799,East,Credit Card
+ON01292,"Jun 13, 2025",CUST0013,BEAUTY,Sunscreen SPF50,1,449.00,East,Credit Card
+ON01293,15-02-2025,CUST0078,  Sports & Fitness ,Skipping Rope,2,Rs.249,South,Net Banking
+ON01294,2025-05-13,CUST0347,Home & Kitchen,LED Desk Lamp,1,,North,UPI
+ON01295,24/02/2024,CUST0183,HOME & KITCHEN,LED Desk Lamp,2,649,West,Credit Card
+ON01296,19/11/2024,CUST0244,sports & fitness,Skipping Rope,3,249.00,East,Debit Card
+ON01297,04 June 2024,CUST0082,  Apparel ,Denim Jacket,1,"2,199",East,Cash on Delivery
+ON01298,2024-09-12,CUST0228,ELECTRONICS,Power Bank 10000mAh,1,₹999,South,UPI
+ON01299,23 June 2024,CUST0226,ELECTRONICS,Wireless Earbuds,1,1799,West,Cash on Delivery
+ON01300,18/12/2024,CUST0036,home & kitchen,LED Desk Lamp,-1,Rs.649,West,Credit Card
+ON01301,"Jul 20, 2024",CUST0182,Home & Kitchen,LED Desk Lamp,1,649.00,North,Cash on Delivery
+ON01302,22 June 2024,CUST0263,Home & Kitchen,Storage Organizer,2,Rs.449,South,Debit Card
+ON01303,01-09-2024,CUST0173,  Home & Kitchen ,Electric Kettle,1,799,East,UPI
+ON01304,13/05/2024,CUST0155,  Sports & Fitness ,Dumbbell 5kg Pair,1,1599,North,Net Banking
+ON01305,03/10/2024,CUST0209,beauty,Face Serum,1,699.00,East,Debit Card
+ON01306,15-10-2024,CUST0344,Home & Kitchen,Non-Stick Pan Set,1,,East,UPI
+ON01307,19 April 2024,CUST0034,APPAREL,Formal Shirt,1,899,,Credit Card
+ON01308,"Jan 14, 2024",CUST0080,home & kitchen,LED Desk Lamp,2,649,North,Cash on Delivery
+ON01309,2024-02-27,CUST0096,Apparel,Cotton T-Shirt,1,Rs.599,North,UPI
+ON01310,"Mar 22, 2024",CUST0244,BEAUTY,Face Serum,1,699.00,South,Credit Card
+ON01311,03/03/2024,CUST0041,beauty,Hair Dryer,1,1199.00,North,Credit Card
+ON01312,12-07-2024,CUST0097,ELECTRONICS,Power Bank 10000mAh,2,999.00,North,Credit Card
+ON01313,26-02-2025,CUST0219,SPORTS & FITNESS,Yoga Mat,1,799,South,Debit Card
+ON01314,14 June 2024,CUST0177,  Electronics ,Bluetooth Speaker,1,"₹1,499",,UPI
+ON01315,2024-03-31,CUST0358,home & kitchen,LED Desk Lamp,1,649,West,Cash on Delivery
+ON01316,06/05/2025,CUST0161,HOME & KITCHEN,Storage Organizer,1,449,East,Cash on Delivery
+ON01317,"Feb 23, 2025",CUST0408,  Beauty ,Hair Dryer,2,Rs.1199,West,Net Banking
+ON01318,"Jan 29, 2025",CUST0404,BEAUTY,Sunscreen SPF50,3,449,South,Debit Card
+ON01319,2024-06-25,CUST0112,  Apparel ,Cotton T-Shirt,1,599,South,UPI
+ON01320,23/01/2024,CUST0282,BEAUTY,Lip Care Kit,1,₹349,West,Debit Card
+ON01321,2024-06-12,CUST0181,beauty,Lip Care Kit,3,349.00,North,UPI
+ON01322,2024-08-28,CUST0214,sports & fitness,Yoga Mat,3,799,South,Net Banking
+ON01323,15-03-2025,CUST0272,sports & fitness,Dumbbell 5kg Pair,1,Rs.1599,South,Debit Card
+ON01324,29/04/2025,CUST0214,electronics,Bluetooth Speaker,1,"1,499",West,Credit Card
+ON01325,02/05/2025,CUST0358,home & kitchen,Non-Stick Pan Set,1,1299.00,West,Credit Card
+ON01326,"Aug 22, 2024",CUST0251,Sports & Fitness,Skipping Rope,1,249,South,Cash on Delivery
+ON01327,31-05-2024,CUST0237,Sports & Fitness,Dumbbell 5kg Pair,1,Rs.1599,East,Cash on Delivery
+ON01328,09/10/2024,CUST0243,Apparel,Cotton T-Shirt,1,599.00,North,Credit Card
+ON01329,29 May 2024,CUST0161,HOME & KITCHEN,Non-Stick Pan Set,3,Rs.1299,East,Cash on Delivery
+ON01330,03-05-2024,CUST0269,HOME & KITCHEN,Electric Kettle,2,₹799,South,Cash on Delivery
+ON01331,2024-01-12,CUST0152,  Home & Kitchen ,Electric Kettle,1,₹799,South,UPI
+ON01332,31-05-2024,CUST0305,Beauty,Hair Dryer,1,"₹1,199",South,Net Banking
+ON01333,2025-04-09,CUST0166,Home & Kitchen,Electric Kettle,1,799.00,South,UPI
+ON01334,"May 25, 2024",CUST0282,home & kitchen,LED Desk Lamp,2,649,East,UPI
+ON01335,05/02/2024,CUST0262,  Home & Kitchen ,Electric Kettle,1,799,North,UPI
+ON01336,14-04-2024,CUST0048,sports & fitness,Yoga Mat,1,799,South,Debit Card
+ON01337,19/05/2025,CUST0329,Beauty,Face Serum,1,₹699,East,Net Banking
+ON01338,"Sep 24, 2024",CUST0027,Apparel,Formal Shirt,1,Rs.899,North,Credit Card
+ON01339,2024-05-20,CUST0388,sports & fitness,Yoga Mat,1,₹799,East,Net Banking
+ON01340,"Feb 11, 2024",CUST0118,Apparel,Running Shoes,1,2799,South,Cash on Delivery
+ON01341,11/01/2025,CUST0204,Sports & Fitness,Yoga Mat,2,799.00,South,Credit Card
+ON01342,18-01-2025,CUST0387,sports & fitness,Yoga Mat,1,799,South,Cash on Delivery
+ON01343,2024-10-19,CUST0105,Beauty,Hair Dryer,1,1199,East,Credit Card
+ON01344,29 July 2024,CUST0354,apparel,Running Shoes,2,2799,West,Credit Card
+ON01345,2024-08-23,CUST0112,sports & fitness,Skipping Rope,2,,West,Cash on Delivery
+ON01346,"Dec 07, 2024",CUST0369,  Apparel ,Running Shoes,1,Rs.2799,East,Debit Card
+ON01347,2025-05-06,CUST0040,Sports & Fitness,Resistance Bands Set,1,599.00,South,Cash on Delivery
+ON01348,12 January 2024,CUST0228,HOME & KITCHEN,Non-Stick Pan Set,3,"1,299",West,Net Banking
+ON01349,"Jul 14, 2024",CUST0039,Beauty,Sunscreen SPF50,2,449,West,Debit Card
+ON01350,"Nov 05, 2024",CUST0062,APPAREL,Cotton T-Shirt,1,,South,UPI
+ON01351,28 August 2024,CUST0139,  Beauty ,Hair Dryer,2,Rs.1199,West,UPI
+ON01352,"Feb 11, 2025",CUST0222,BEAUTY,Face Serum,1,699.00,East,Net Banking
+ON01353,2024-03-05,CUST0104,home & kitchen,Non-Stick Pan Set,2,Rs.1299,East,Debit Card
+ON01354,03 April 2025,CUST0289,  Electronics ,Wireless Earbuds,-1,1799,North,Net Banking
+ON01355,31-03-2024,CUST0279,sports & fitness,Dumbbell 5kg Pair,1,1599.00,East,Credit Card
+ON01356,21-12-2024,CUST0191,beauty,Sunscreen SPF50,1,₹449,East,Net Banking
+ON01357,21/02/2025,CUST0309,home & kitchen,Storage Organizer,3,₹449,North,Debit Card
+ON01358,17 June 2024,CUST0307,ELECTRONICS,Smartwatch,1,3499.00,South,Debit Card
+ON01359,29 July 2024,CUST0058,Beauty,Face Serum,1,699.00,,Cash on Delivery
+ON01360,17-06-2024,CUST0251,apparel,Formal Shirt,1,₹899,West,UPI
+ON01361,06/02/2025,CUST0353,  Apparel ,Formal Shirt,1,Rs.899,East,UPI
+ON01362,31/05/2025,CUST0356,  Electronics ,Power Bank 10000mAh,1,Rs.999,North,Debit Card
+ON01363,08/04/2024,CUST0152,APPAREL,Running Shoes,1,2799,North,UPI
+ON01364,2025-04-08,CUST0339,electronics,Power Bank 10000mAh,1,999,West,Net Banking
+ON01365,14 March 2025,CUST0326,Sports & Fitness,Dumbbell 5kg Pair,1,1599,East,Cash on Delivery
+ON01366,25 December 2024,CUST0409,Electronics,Wireless Earbuds,1,1799.00,East,Net Banking
+ON01367,2024-12-25,CUST0020,  Beauty ,Lip Care Kit,-1,349,East,Net Banking
+ON01368,"Apr 06, 2024",CUST0124,Beauty,Hair Dryer,1,1199.00,West,Cash on Delivery
+ON01369,07 April 2025,CUST0006,Apparel,Running Shoes,1,"₹2,799",North,Credit Card
+ON01370,2024-07-04,CUST0411,beauty,Hair Dryer,1,1199.00,East,Cash on Delivery
+ON01371,07-04-2025,CUST0149,  Home & Kitchen ,Electric Kettle,2,Rs.799,North,Cash on Delivery
+ON01372,19/03/2024,CUST0003,  Apparel ,Running Shoes,1,Rs.2799,South,Net Banking
+ON01373,20/05/2025,CUST0052,APPAREL,Formal Shirt,2,899.00,North,Credit Card
+ON01374,24-03-2025,CUST0011,Beauty,Lip Care Kit,1,349,East,Cash on Delivery
+ON01375,"Mar 08, 2025",CUST0341,  Electronics ,Bluetooth Speaker,1,Rs.1499,West,Debit Card
+ON01376,20/05/2024,CUST0293,  Electronics ,Power Bank 10000mAh,1,999.00,North,Credit Card
+ON01377,2024-09-26,CUST0299,Beauty,Lip Care Kit,1,Rs.349,South,Net Banking
+ON01378,04-02-2025,CUST0058,Electronics,Wireless Earbuds,1,Rs.1799,North,Cash on Delivery
+ON01379,"Sep 06, 2024",CUST0340,  Beauty ,Lip Care Kit,2,Rs.349,South,Net Banking
+ON01380,"Mar 13, 2024",CUST0390,Apparel,Cotton T-Shirt,1,Rs.599,South,UPI
+ON01381,"Feb 27, 2025",CUST0209,Home & Kitchen,Storage Organizer,3,₹449,,UPI
+ON01382,"Jan 17, 2025",CUST0384,  Beauty ,Face Serum,1,Rs.699,South,Credit Card
+ON01383,2025-06-17,CUST0222,  Home & Kitchen ,Electric Kettle,1,799,North,Cash on Delivery
+ON01384,29-05-2024,CUST0144,electronics,Smartwatch,1,3499.00,East,Net Banking
+ON01385,11 November 2024,CUST0388,BEAUTY,Lip Care Kit,1,349,East,Cash on Delivery
+ON01386,16-12-2024,CUST0129,sports & fitness,Resistance Bands Set,1,Rs.599,North,Debit Card
+ON01387,27-11-2024,CUST0157,  Apparel ,Formal Shirt,1,899.00,West,Credit Card
+ON01388,11/07/2024,CUST0411,sports & fitness,Dumbbell 5kg Pair,2,1599.00,South,Debit Card
+ON01389,18/04/2025,CUST0371,SPORTS & FITNESS,Skipping Rope,1,249,North,Debit Card
+ON01390,23 May 2025,CUST0368,  Home & Kitchen ,Storage Organizer,1,Rs.449,East,Debit Card
+ON01391,"Mar 14, 2024",CUST0417,Home & Kitchen,Non-Stick Pan Set,1,"1,299",East,Cash on Delivery
+ON01392,"Apr 10, 2025",CUST0262,SPORTS & FITNESS,Resistance Bands Set,1,₹599,West,Cash on Delivery
+ON01393,2025-05-16,CUST0199,SPORTS & FITNESS,Dumbbell 5kg Pair,1,"1,599",East,Debit Card
+ON01394,25 February 2024,CUST0056,electronics,Smartwatch,2,3499,West,Cash on Delivery
+ON01395,09-03-2025,CUST0006,apparel,Running Shoes,1,Rs.2799,North,UPI
+ON01396,30 September 2024,CUST0078,sports & fitness,Resistance Bands Set,1,Rs.599,South,UPI
+ON01397,27 January 2025,CUST0083,apparel,Running Shoes,1,2799,North,UPI
+ON01398,20-02-2025,CUST0089,Apparel,Formal Shirt,1,,South,Credit Card
+ON01399,21/03/2025,CUST0229,Sports & Fitness,Skipping Rope,2,₹249,East,Credit Card
+ON01400,2025-03-29,CUST0315,apparel,Cotton T-Shirt,2,₹599,East,Net Banking
+ON01074,07/08/2024,CUST0286,ELECTRONICS,Wireless Earbuds,1,,East,Cash on Delivery
+ON00702,24/03/2025,CUST0309,apparel,Formal Shirt,1,₹899,West,Net Banking
+ON00660,28 May 2024,CUST0158,Home & Kitchen,Storage Organizer,1,449,West,UPI
+ON00043,17-10-2024,CUST0048,SPORTS & FITNESS,Yoga Mat,1,Rs.799,,Credit Card
+ON01023,"Jan 25, 2024",CUST0003,Electronics,Power Bank 10000mAh,1,999.00,South,Debit Card
+ON01040,"Mar 27, 2024",CUST0254,  Electronics ,Smartwatch,1,Rs.3499,East,UPI
+ON01261,07 June 2024,CUST0226,SPORTS & FITNESS,Dumbbell 5kg Pair,1,"₹1,599",,Credit Card
+ON00795,"Apr 20, 2025",CUST0281,BEAUTY,Lip Care Kit,1,349,North,Credit Card
+ON00906,2024-10-15,CUST0061,Home & Kitchen,Storage Organizer,1,Rs.449,West,Debit Card
+ON01243,13 November 2024,CUST0388,SPORTS & FITNESS,Yoga Mat,2,799,West,Cash on Delivery
+ON00421,"Jun 17, 2025",CUST0397,  Home & Kitchen ,Electric Kettle,2,,North,Credit Card
+ON00764,"Apr 22, 2025",CUST0377,SPORTS & FITNESS,Dumbbell 5kg Pair,1,1599,East,Debit Card
+ON00296,"Apr 01, 2025",CUST0332,  Apparel ,Cotton T-Shirt,1,₹599,South,Debit Card
+ON00159,23/09/2024,CUST0356,Beauty,Hair Dryer,1,1199,West,Net Banking
+ON01231,"Sep 18, 2024",CUST0300,electronics,Power Bank 10000mAh,1,999,East,Credit Card
+ON01400,2025-03-29,CUST0315,apparel,Cotton T-Shirt,2,₹599,East,Net Banking
+ON00774,2024-03-27,CUST0118,  Home & Kitchen ,Electric Kettle,1,799,West,Cash on Delivery
+ON00345,2024-09-11,CUST0160,  Apparel ,Formal Shirt,1,899,West,Credit Card
+ON00828,15-03-2025,CUST0162,  Home & Kitchen ,LED Desk Lamp,1,649,West,Credit Card
+ON00425,24 September 2024,CUST0287,apparel,Denim Jacket,1,2199,North,UPI
+ON00447,29/11/2024,CUST0281,BEAUTY,Lip Care Kit,1,₹349,West,Net Banking
+ON00644,15-11-2024,CUST0157,SPORTS & FITNESS,Skipping Rope,1,,North,UPI
+ON00724,2024-06-09,CUST0309,Sports & Fitness,Resistance Bands Set,1,599,,Net Banking
+ON00830,11/09/2024,CUST0264,Home & Kitchen,Storage Organizer,1,449,,Net Banking
+ON00562,18-03-2024,CUST0394,beauty,Hair Dryer,3,1199,West,Net Banking
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
